@@ -1,0 +1,40 @@
+=== Monitor Project Performance
+
+The purpose of project performance monitoring is to collect information about the state of the project’s progress and overall health.
+The Project Manager (PM) tracks the project dimensions of scope, schedule, cost and quality, monitors risks, issues and project change, and forecasts their evolution for the purpose of reporting the overall project progress.
+
+This information is then distributed to relevant stakeholders as per the Communications Management Plan.
+
+:table-data: mpp-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Project Handbook
+* Project Work Plan
+* Project Logs (Risk Log, Issue Log, Decision Log, Project Change Log)
+* Quality Checklists
+* Minutes of Meetings (MoMs)
+* Input from the Contractor’s Project Manager (CPM), if applicable
+
+[discrete]
+==== Steps
+[arabic]
+. Use the baselined Project Work Plan as a reference for monitoring project performance.
+. Regularly exchange information about the project’s current status and next steps with the Project Core Team (PCT) at formal and informal meetings.
+. Gather information on, and monitor the progress of:
+* *Tasks*—i.e. the status of critical and next critical path tasks.
+* *Key outputs*—i.e. completed and verified deliverables, and milestones achieved as planned.
+* *Resource utilisation*—i.e. resources used as planned and costs as budgeted.
+* *Logs*—i.e. the status and evolution of risks and issues, changes and decisions.
+* *People*—i.e. team morale, stakeholder engagement, overall project dynamics and productivity.
+
+
+:table-data: mpp-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 9.2* Monitor Project Performance inputs/outputs and main roles
+image::09.02.png[]
+
+:table-data: mpp-outputs.csv
+include::../tables/outputs.adoc[]

@@ -1,0 +1,43 @@
+=== Project Stakeholder Matrix
+
+The Project Stakeholder Matrix lists all (key) project stakeholders and their contact details and clearly states their role(s) in the project.
+It may also include a classification or categorisation of each stakeholder.
+The information captured in the Project Stakeholder Matrix should be tailored to the project’s needs.
+
+:table-data: psm-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Business Case and Project Charter
+* Planning Kick-off Minutes of Meeting (MoM)
+
+[discrete]
+==== Guidelines
+PM² provides a Project Stakeholder Matrix template.
+The template includes the standard project roles organised into the following groups:
+
+* Teams — e.g. Project Steering Committee (PSC).
+* Roles — e.g. Project Owner (PO), Solution Provider (SP), User Representatives (URs).
+* Support — e.g. Project Support Office (PSO), Project Manager Assistant (PMA).
+* Domain-specific or operational roles — e.g. user, functional architect, analyst.
+
+[.underline]#Note:# Be careful to respect all applicable regulations on privacy and personal data rights when establishing and handling the Project Stakeholder Matrix.
+
+[discrete]
+==== Steps
+[arabic]
+. Using the project’s organisational structure, identify everyone who will have a role in the project.
+. Assign each person a specific role for the duration of the project, based on the PM² standard Roles & Responsibilities.
+
+:table-data: psm-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 6.5* Project Stakeholder Matrix inputs and main roles
+image::06.05.png[]
+
+:table-data: psm-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: psm-outputs.csv
+include::../tables/outputs.adoc[]

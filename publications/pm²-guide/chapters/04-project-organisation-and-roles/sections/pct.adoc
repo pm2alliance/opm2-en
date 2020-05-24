@@ -1,0 +1,32 @@
+=== Project Core Team (PCT)
+
+The Project Core Team (PCT) comprises the specialist roles responsible for creating the project deliverables.
+Its composition and structure depend on the project size and type (e.g. IT project, policy development project, etc.) and is defined by the Project Manager (PM) based on the project’s needs.
+
+[discrete]
+==== Responsibilities:
+
+* Coordinated by the Project Manager (PM), the Project Core Team (PCT):
+* Participates in developing the project scope and planning project activities.
+* Carries out project activities based on the Project Work Plan and schedule.
+* Produces project deliverables.
+* Provides the Project Manager (PM) with information on the progress of activities.
+* Participates in project meetings as needed and helps resolve issues.
+* Participates in the Project-End Review Meeting during the collection of Lessons Learned.
+
+Aside from the specialist roles that create the project deliverables, there are two specific Project Core Team (PCT) roles that deserve to be discussed in more detail from a project management point of view: the Contractor’s Project Manager (CPM) and the Project Manager Assistant (PMA).
+
+[discrete]
+==== Contractor’s Project Manager (CPM)
+
+The Contractor’s Project Manager (CPM) leads the contractor’s staff working on the project, planning controlling and reporting on the production of outsourced deliverables.
+Working closely with the Project Manager (PM), the Contractor’s Project Manager (CPM) ensures that all work is carried out on time and to the agreed standards, guaranteeing the successful completion and delivery of subcontracted activities.
+
+[discrete]
+==== Project Management Assistant (PMA)
+
+For large projects, the Project Manager (PM) might find it useful to delegate some management tasks to an assistant.
+This Project Management Assistant (PMA) can work on a range of coordination and supportive tasks as assigned by the Project Manager (PM), and acts as the Project Manager’s (PM) backup in meetings, etc.
+However, the Project Manager (PM) remains the person responsible for all project management tasks and deliverables.
+
+The Project Management Assistant (PMA) may also be part of a Project Support Team (PST) and assigned to the project.

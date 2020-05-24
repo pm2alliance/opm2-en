@@ -1,0 +1,19 @@
+[cols=",",options="header",]
+|===
+2+| *Example of outputs, outcomes and benefits.*
+
+a| Project Output
+a| Adoption of the PM² Methodology within an organisation.
+
+a| Project Outcomes
+a|
+* Increased project quality.
+* Improved visibility of project objectives, status and forecasts.
+* Capability to have better control over contractor work and deliverables.
+
+a|
+Project Benefits
+a|
+* Project cost overruns decreased by 30%
+* Productivity increased by 30%.
+|===

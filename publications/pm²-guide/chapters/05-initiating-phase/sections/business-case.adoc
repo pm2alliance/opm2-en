@@ -1,0 +1,49 @@
+=== Business Case
+
+The purpose of the Business Case is to capture the reasoning behind the project, to describe the project’s alignment with the organisation’s strategic objectives, to provide a justification for the investment in time and effort, and to set out the budgetary needs.
+For larger strategic projects, the Business Case may also include an assessment of impact and risks along with a more detailed cost-benefit analysis.
+
+The Business Case provides decision-makers with the information they need to determine whether the project is worth doing.
+The Business Case is a living document and therefore should be re-examined at critical project milestones to check that the expected benefits are still achievable, the costs/schedule fall within the budget/timeline, and the project is still relevant to the organisation and should be continued.
+
+:table-data: bc-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Project Initiation Request
+
+[discrete]
+==== Guidelines
+* Note that the form and depth of analysis required for this artefact depends on the level of investment required for the project.
+* Consider several solutions that fulfil this business need and recommend one of these.
+* Describe the overall approach to how the project will be executed (project strategy).
+* Identify measurable criteria that will be used to determine the success of the project.
+* For projects carried out under contract (e.g. as a result of a bid award), create the Business Case based on the Request for Proposal, the response to this request, and the contract itself.
+
+[discrete]
+==== Steps
+[arabic]
+. The Business Manager (BM) drafts the Business Case based on the information captured in the Project Initiation Request.
+The main project aspects to be analysed and presented are:
+    * the project’s justification and impact
+    * the project’s positioning in the overall organisational strategy
+    * an assessment of Strengths, Weaknesses, Opportunities and Threats (SWOT Analysis) of several solutions, one of which is proposed for implementation
+    * a cost benefit analysis, per identified solution, detailed to the extend required
+    * synergies and interdependencies with other projects and initiatives
+    * high-level project roadmap, including major milestones.
+. The Project Owner (PO) evaluates the Business Case and decides to approve or reject it.
+. The Project Owner (PO) sends the Business Case to the Appropriate Governance Body (AGB) if needed for corporate approval.
+
+
+:table-data: bc-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 5.5* Business Case inputs and main roles
+image::05.05.png[]
+
+:table-data: bc-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: bc-outputs.csv
+include::../tables/outputs.adoc[]

@@ -1,0 +1,12 @@
+[[ch07]]
+== Executing Phase
+
+The third phase of a PM² project is the Executing Phase.
+During this phase, the project deliverables are produced and the requestor organisation prepares for their introduction.
+The Executing Phase begins with a Kick-off Meeting and ends with the acceptance (final or provisional—as per the Deliverables Acceptance Plan) by the requestor side.
+
+.*Fig 7.1* Executing Phase activities and main outputs
+image::07.01.png[]
+
+.*Fig 7.2* Executing Phase artefacts
+image::07.02.png[width=607,height=148]

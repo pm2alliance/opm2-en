@@ -1,0 +1,47 @@
+=== Decision Log
+
+[cols=","]
+|===
+2+h| *Decision Identification and Description*
+| ID |
+The decision identifier.
+
+| Category |
+Decision category related to the area affected by the decision (e.g. business, IT, people & organisation, external or legal).
+
+| Title |
+Short title for the decision.
+
+| Description |
+A description of the decision’s details and impact, if applicable.
+
+| Identified by |
+The name of the person who identified the need for a decision.
+
+| People present |
+Log the names of those present when then decision was made.
+Reference can be made to the relevant Minutes of Meeting (MoM) if appropriate.
+
+| Comments |
+The IDs of related Change, Risk or Issue Log entries and any additional information related to the decision.
+
+2+h| *Ownership*
+
+| Decision owner |
+The person accountable for the decision.
+
+| Decision date |
+Date on which the decision was taken.
+
+| Escalation |
+Whether or not the decision is to be escalated to the Directing or Steering Layers (*Yes* or *No)*.
+
+2+h| *Decision Implementation*
+
+| Date of Application |
+The date on which the decision is applicable.
+
+| Decision communicated to: |
+The group, teams and other audiences to whom the decision should be communicated.
+
+|===

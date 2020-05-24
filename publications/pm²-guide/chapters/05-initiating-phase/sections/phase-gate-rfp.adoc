@@ -1,0 +1,7 @@
+=== Phase Gate RfP (Ready for Planning)
+
+This is the first phase gate.
+A review and approval are recommended before the project can formally move to the next phase.
+The Project Manager (PM) assesses whether the project is ready to commence the Planning Phase and seeks approval of the Business Case and Project Charter from the Project Steering Committee (PSC). If the Business Case or Project Charter is not approved, the project proceeds directly to the Closing Phase for Lessons Learned and archiving.
+
+PM² provides a template Phase Exit Review Checklist for each phase that can be used by the Project Manager (PM) to guide the assessment, alongside a review of the phase’s specific goals.

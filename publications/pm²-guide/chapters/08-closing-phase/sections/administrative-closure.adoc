@@ -1,0 +1,35 @@
+=== Administrative Closure
+
+The Project Manager (PM) ensures that all project deliverables have been accepted by the relevant stakeholders and, with the help of the Project Support Office (PSO), that all project documentation and records are up-to-date, reviewed, organised and securely archived.
+The Project Team is now officially dissolved and all resources are released.
+
+The project is officially closed once all Closing Phase activities are completed and the Project Owner (PO) has approved the project.
+Formal project closure brings project mode to an end and allows operations mode to commence.
+
+:table-data: ac-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Project Handbook
+* Project Work Plan
+* Quality Management Plan
+* All other project plans and documents
+
+[discrete]
+==== Steps
+[arabic]
+. Ensure that all documentation and records are reviewed, organised and archived.
+. Release all resources.
+. Ensure that the project is approved and accepted by the project stakeholders.
+. Ensure that the Project Owner (PO) gives final project approval and closes the project.
+. Verify that all contractual obligations have been fulfilled.
+
+:table-data: ac-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 8.5* Administrative Closure inputs/outputs and main roles
+image::08.05.png[]
+
+:table-data: ac-outputs.csv
+include::../tables/outputs.adoc[]

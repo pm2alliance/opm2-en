@@ -1,0 +1,7 @@
+=== PESTEL Analysis
+
+The PESTEL Analysis is used to understand how the environment might impact a project or an objective.
+PESTEL stands for: Political, Economic, Social, Technological, Environmental and Legal.
+A PESTEL analysis helps identify the external factors that influence an organisation, and therefore, could have an impact on the objectives, planning or execution of projects.
+
+This type of analysis is particularly important in the context of business justification and risk management and will feed the process of designing a plan comprehensive enough to identify and tackle potential risk scenarios (threats/opportunities) arising from outside the organisation or project.

@@ -1,0 +1,49 @@
+=== PM² and Portfolio Management
+
+A Project Portfolio is a collection of projects, programmes and other activities which are grouped together to facilitate better control over their financial resources and to support their effective management in terms of meeting strategic objectives.
+The projects or programmes in the portfolio are not necessarily related or inter-dependent.
+From a strategic point of view, portfolios are higher-level structures than programmes and projects.
+It is at the portfolio level that investment decisions are made, priorities are identified, and resources are allocated.
+
+It is very important for people involved in project definition and management to understand the differences between, and specific management requirements of, projects, programmes and portfolios.
+They should also be able to define or position their work at the right level (i.e. know if their work would be better managed as a programme or a network of projects), while always being aware of the management and organisational context of their work.
+
+The PM² Portfolio management process encompasses a range of activities, which are organised in four groups.
+
+[arabic]
+. *Portfolio Framework Definition*
+
+Defines the way the organisation will address portfolio management by delineating the portfolio structure, the governance bodies and their responsibilities, together with the necessary processes.
+
+[arabic,start=2]
+. *Portfolio Composition*
+
+Is the process containing the activities to evaluate portfolio candidates, make investment decisions and allocate resources.
+These are activities that are regularly performed depending on the needs of the organisation.
+
+[arabic,start=3]
+. *Portfolio Realisation*
+
+Is the continuous process in which the authorised programmes and projects are managed towards realising their objectives.
+Although programmes and projects are temporary endeavours, the portfolio activities are performed continuously until the portfolio is closed.
+
+[arabic,start=4]
+. *Stakeholder Management & Communication*
+
+Is the continuous process of analysing and interacting with the different stakeholders to ensure their effective involvement in the composition and realisation of the portfolio’s objectives.
+
+.*Fig D.7* PM² Portfolio Management Process Model
+image::d.07.png[]
+
+The Portfolio Composition process feeds the continuous processes of Portfolio Realisation with new portfolio components (i.e. programmes or projects), the progress and results of which are communicated by executing the Portfolio Communication & Stakeholder Management process.
+The characteristics and governance of the portfolio, as well as the activities of the portfolio management processes and the artefacts produced are defined by the Portfolio Framework.
+
+An overarching view of the organisational management of portfolios, programmes and projects is illustrated in the following diagram.
+
+.*Fig D.8* High-level representation of the Management Layers, Activities and Artefacts
+image::d.08.png[]
+
+The Governance Structure of the PM² Portfolio Management is shown below.
+
+.*Fig D.9* PM² Project Portfolio Governance
+image::d.09.png[]

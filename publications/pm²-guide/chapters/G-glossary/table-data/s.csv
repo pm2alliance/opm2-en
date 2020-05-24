@@ -1,0 +1,32 @@
+﻿Secondary risk,The secondary risk is the one that remains after the risk-response strategy is implemented. The new risk is then assessed and if necessary a new response strategy may be defined.
+Schedule,"The schedule is part of the PM² Project Work Plan. It consists of a time-based plan of project milestones, activities, tasks and deliverables, with start and end dates, linked by dependencies. A schedule is often presented in a Gantt chart. (See also Gantt chart.)"
+Scope Statement,"A scope statement is a short description of what needs to be accomplished in a project. It presents the major objectives, deliverables and justification in one or two phrases.
+The project scope is first defined in the Business Case and then elaborated in the Project Charter. It reaches its final form in the Project Work Plan"
+Services,Services refer to intangible project outputs that enable the requestor to achieve the desirable outcomes.
+Service Mode,"Service mode is the temporary organisation/governance structure created to maintain, improve, extend and support information systems after they have been delivered to the stakeholders/user community and until the end of the information system’s lifecycle.
+The service mode is also known as operational and corrective maintenance mode."
+Share (risk response strategy),"Share is a risk response strategy that can be used both for negative (threats) and positive (opportunities) risks.
+It is usually based on a “pain/gain” formula where both parties share either the loss, in the case of a threat, or the gains, in the case of an opportunity (e.g. by partnering)."
+Service-Level Agreement (SLA),A service-level agreement (SLA) is part of a contract agreed by two parties where key performance indicators (KPIs) are defined and the level of service agreed.
+Situation,"A situation refers to a set of problems, needs and opportunities that affect the existing state."
+Solution,"A solution refers to a set of products and/or services that allows the requestor side to solve a business problem, to meet a business need or to grab an opportunity."
+Solution Development Costs,Solution development costs comprise the costs of the resources required to develop project deliverables.
+Solution Maintenance Costs,Solution maintenance costs comprise the costs of resources required to maintain project deliverables (including making changes to project deliverables).
+Solution Provider (SP),"The Solution Provider (SP) assumes overall accountability for the deliverables and services requested by the Project Owner (PO).
+The Solution Provider (SP) typically holds a management position within the provider organisation. The Project Manager (PM) reports to the Solution Provider (SP)."
+Specification,"A specification is a complete, testable and documented set of requirements to be satisfied by a specific solution. Specifications can be described in use cases, business rules, story boards, etc."
+Stage,"A stage is a point, period or step within a phase, (primarily the Executing Phase) and is linked to a major achievement in terms of project outcomes.
+It is principally used in Agile Project Management."
+Stage-based Breakdown,Stage-based breakdown describes a technique used to represent and organise project work in sequential phases or stages/iterations.
+Stakeholder,"A stakeholder is any individual, group or organisation that can affect, be (positively or negatively) affected by, or perceive itself to be affected by the project.
+A stakeholder can also exert influence over the project and its deliverables."
+Stakeholders Checklist,The Stakeholders Checklist is a document created to help deal with stakeholders during the lifecycle of the project.
+Stakeholder Need,Stakeholder needs describe a desirable or mandatory capability requested by an individual or a group of people that will be used as primary input to define the high- level features of a solution.
+Steering Layer,"The Steering Level provides general project direction and guidance to keep the project focused on its objectives. It reports to the Appropriate Governance Body (AGB), which operates on a more strategic level. The Steering Layer is composed of the Project Steering Committee (PSC) roles."
+Success Criteria,"Success criteria comprise the standards by which the project is judged. Success criteria are measurements established to determine whether the project has satisfied its objectives and met its requirements. Success criteria can be qualitative or quantitative, and are ideally SMART (Specific, Measurable, Achievable, Relevant and Realistic, and Time-bound).
+Do not confuse success criteria with benefits: While success criteria can be measured at project closure, benefits are often achieved long after project closure."
+Support Costs,Support costs are those required to support the use of the project deliverables after the project has ended.
+Support Layer,"The Support Layer consists of the roles responsible for providing support to the project. The composition and structure of this layer depends on the size of the project and is defined by the Project Manager (PM).
+The support roles may be assumed by specific teams or team members, or may be provided as horizontal services by the organisation."
+Supports Role (RASCI table),"The supports role on the RASCI table refers to the person/group/entity that works with the responsible person and carries out part of the activity. Unlike the consulted role, the supports role helps to complete the activity."
+SWOT Analysis,"A SWOT analysis is a method used to evaluate the Strengths, Weaknesses, Opportunities and Threats involved in a project. It generally begins by specifying the objective of the project and then identifies the internal (strengths and weaknesses) and external (opportunities and threats) factors that are favourable or unfavourable to achieving the objective."

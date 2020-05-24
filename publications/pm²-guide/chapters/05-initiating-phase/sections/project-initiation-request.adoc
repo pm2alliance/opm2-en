@@ -1,0 +1,44 @@
+=== Project Initiation Request
+
+The Project Initiation Request is a project’s starting point and formalises its initiation.
+By creating a Project Initiation Request, the project initiator ensures that the current context/situation (i.e. problem, need or opportunity) and the project’s desired outcomes are formally captured and can be used as a basis for further exploration and elaboration.
+
+The Project Initiation Request contains basic information about the estimated effort and cost of undertaking the project as well as the timeframe for its completion and the type of delivery.
+Specifically, the document describes the impact the project is expected to bring and summarises the success criteria against which it will be evaluated.
+Additionally, the Project Initiation Request outlines the project’s relevance to the organisation’s strategic direction and highlights the key assumptions, constraints and risks as assessed at this stage.
+
+:table-data: pir-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Input
+* A problem, a need or an opportunity expressed by the initiator.
+
+[discrete]
+==== Guidelines
+* Note that though anyone can initiate a Project Initiation Request, in many cases the Project Owner (PO) delegates its creation to the Business Manager (BM).
+* Know your audience: Depending on the project size and the organisation’s approval process, approval can be informal (i.e. the Project Owner (PO) accepts it), or formal (i.e. an Appropriate Governance Body (AGB) reviews and approves it).
+* Ensure all the relevant information is included, but at this point limit details to high-level information—finer points will be added in the form of the Business Case and other Project artefacts.
+
+[discrete]
+==== Steps (for a project’s initiation)
+[arabic]
+. The Project Initiation Request is drafted.
+. The Project Initiation Request is submitted for approval to the relevant Governing or Steering Level role.
+. Once the Project Initiation Request is approved, the project is defined in more detail with a preliminary project scope description in the Business Case and further elaborated in the Project Charter.
+. The Solution Provider (SP) assigns the Project Manager (PM) and the Project Core Team (PCT). The Project Manager (PM) is typically assigned after the Business Case is approved (or at the latest before the completion of the Project Charter), while the Project Core Team (PCT) is typically assigned before the Planning Kick-off Meeting.
+
+The lifecycle of the Project Initiating Request ends with the creation of the Business Case and Project Charter.
+All the information included in the Project Initiation Request is copied over, updated and further elaborated in these two documents, which remain “live” until the end of the project.
+
+.*Fig 5.3* Relationship between the artefacts created during the Initiating Phase
+image::05.03.png[]
+
+:table-data: pir-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 5.4* Project Initiation Request inputs and main roles
+image::05.04.png[]
+
+:table-data: pir-outputs.csv
+include::../tables/outputs.adoc[]

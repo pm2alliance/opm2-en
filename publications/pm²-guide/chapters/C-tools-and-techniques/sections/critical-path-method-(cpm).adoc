@@ -1,0 +1,8 @@
+=== Critical Path Method (CPM)
+
+The Critical Path Method (CPM) is a modelling technique that uses a mathematically based algorithm to calculate the total duration of a project.
+It calculates the longest necessary path (i.e. the longest unavoidable duration) of planned activities from beginning to the end of the project, otherwise known as the critical path of the project.
+This technique helps to understand which activities have a critical influence on the overall duration of the project.
+
+Since the critical path represents the longest necessary path of activities, it also represents the shortest possible duration of the project to completion.
+Based on this information, activities can be prioritised in order to shorten the duration of the critical path by pruning the critical path activities, performing more activities in parallel or adding more resources.

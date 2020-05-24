@@ -1,0 +1,44 @@
+=== Control Cost
+
+The purpose of cost control is to manage the project costs so that they conform to the cost/effort baseline and overall project budget constraints.
+The Project Manager (PM) regularly monitors the budget and tracks the difference between budgeted, actual and expected costs.
+
+If the project budget is at risk, the Project Steering Committee (PSC) needs to be informed and corrective actions must be devised, agreed and implemented.
+If considerable cost overruns are foreseen, these need to be justified, reported to and approved by the Project Owner (PO) or the Appropriate Governance Body (AGB).
+
+*Note*: The project budget must have been approved by the Project Owner (PO) at the beginning of the project.
+
+
+:table-data: cc-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Project Handbook
+* Project Work Plan
+* Outsourcing Plan (if applicable)
+* Change Log (and other relevant Project Logs)
+* Minutes of Meetings (MoMs) and Project Reports from previous reporting periods
+
+[discrete]
+==== Steps
+[arabic]
+. Track the project’s effort/overall budget consumption as defined in the Project Handbook.
+. Regularly review the project budget with the Project Owner (PO).
+. Evaluate and communicate any differences between budgeted and actual project costs, securing approval for significant differences from the Project Owner (PO).
+. Devise and plan the implementation of corrective actions that will bring the budget back on track.
+. If the project budget needs to be considerably revised, this must be justified and documented (e.g. in the Project Progress Report). Formal approval from the Appropriate Governance Body (AGB) is required before the affected plans can be re-baselined.
+. If there is an impact on the project schedule, risks or quality, this must be reviewed and approved by the Project Owner (PO) and communicated to any affected project stakeholders.
+
+
+:table-data: cc-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 9.4* Control Cost inputs/outputs and main roles
+image::09.04.png[]
+
+:table-data: cc-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: cc-outputs.csv
+include::../tables/outputs.adoc[]

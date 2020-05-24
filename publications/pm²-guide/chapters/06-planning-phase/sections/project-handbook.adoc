@@ -1,0 +1,105 @@
+=== Project Handbook
+
+The Project Handbook summarises the project objectives and documents the selected approach for achieving the project goals.
+It documents the Critical Success Factors (CSFs), defines the key controlling processes, the conflict resolution and escalation procedure, policies and rules, and the project mindsets.
+
+The Project Handbook also documents the project governance roles and their responsibilities, and defines the plans necessary for managing the project as well as any methodology-tailoring decisions.
+The project goals and scope (found in the Initiating Phase documents) are key inputs to this artefact.
+
+The Project Handbook is an important reference document for all project members and stakeholders, and along with the Project Work Plan, is the basis on which the project is managed and executed.
+
+:table-data: ph-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Business Case and Project Charter
+* Planning Kick-off Minutes of Meeting (MoM)
+
+[discrete]
+==== Guidelines
+* Use the minutes from the Planning Kick-off Meeting as a basis for defining the Project Handbook.
+* The Project Handbook should be kept up-to-date throughout the life of the project.
+* All Project Management Plans should be considered part of the Project Handbook.
+* During the Closing Phase, the Project Handbook is an important point of reference for the Project- End Review Meeting and should be properly archived.
+
+[discrete]
+==== Steps
+[arabic]
+. Find documentation from similar projects and identify possible reusable components—this could reduce the effort, cost and time required.
+. Summarise the project objectives, dependencies, constraints, assumptions and list stakeholders.
+. Identify Critical Success Factors (CSFs) and define important project management objectives.
+. Discuss possible/necessary customisations and/or tailoring of the PM² Methodology.
+. Outline the selected delivery approach and its lifecycle (including project-specific stages).
+. Define the specific project management rules that will be applied to the project (agree on the _rules of conduct_ that will facilitate the better management and execution of the project).
+. Define a conflict resolution and escalation procedure for the project.
+. Highlight the main project controlling processes, such as change/risk/quality management.
+. Define the selected progress tracking and reporting approach.
+Determine which project artefacts (plans and other documents) are necessary for the project.
+. Document the roles involved in the project along with their respective responsibilities.
+
+:table-data: ph-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 6.4* Project Handbook inputs and main roles
+image::06.04.png[]
+
+:table-data: ph-outputs.csv
+include::../tables/outputs.adoc[]
+
+==== Project Roles & Responsibilities
+
+The main purpose of the Project Roles & Responsibilities section of the Project Handbook is to document the roles and responsibilities for the project.
+Any deviations from the standard PM² Roles & Responsibilities should be justified and documented, and any other/new roles defined with their responsibilities clearly described.
+Based on this, the Project Stakeholder Matrix can be tailored to the project and named people assigned to all project roles (preliminary information is taken from the Project Charter).
+
+==== Project Management Plans
+
+PM² suggests several Project Management Plans (artefacts) which outline the various project management processes.
+These plans identify how an organisation manages relatively standard processes.
+These plans are the:
+
+[arabic]
+. Requirements Management Plan
+. Project Change Management Plan
+. Risk Management Plan
+. Quality Management Plan
+. Issue Management Plan
+. Communications Management Plan
+
+Depending on the organisation and the project, different levels of documentation detail may be required.
+When sufficient, a brief definition of each management process or plan can be provided in the Project Handbook.
+When a more extensive and detailed description is needed, separate management plans can be instituted based on the PM² templates and guidelines provided.
+
+==== Project-Specific Plans
+
+PM² defines a set of recommended project plans, which can be used for any type of project and provides templates and guidelines for each.
+However, in contrast to the standard Management Plans, which only require light customisation and tailoring, the Project-Specific Plans usually require more effort because their content is specific to the project.
+
+The optimal level of detail included in Project-Specific Plans depends on the type, size and complexity of the project, the project management context and environment, and the experience and competences of the project team.
+
+All Project-Specific Plans to be used in a project should be listed in the Project Handbook.
+
+==== Domain-Specific Artefacts
+
+These plans are specific to the project domain (i.e. the project type) and are very often an integral part of the project planning and the overall project documentation.
+No templates are provided by PM².
+
+However, the artefacts should still be identified and listed in the Project Handbook, as they are part of the project’s planning-phase outputs.
+Examples of domain-specific artefacts include system designs (for IT projects), architectural layouts (for renovation/moving projects) and laws/policies (for policy projects).
+
+==== Other
+
+*Escalation Procedure:* An escalation procedure and tolerances should be defined (and tailored) in the Project Handbook.
+This should be referenced by the Management Plans to ensure that a consistent approach is applied.
+
+The purpose of the escalation procedure is to provide an agreed and effective way for escalating issues and decisions when this is required.
+For example, it documents how important issues can be raised to a higher level of management for resolution.
+This ensures that the appropriate level of management is involved (or at least informed) if an issue cannot be resolved at a lower level.
+
+*Resource Needs:* The Project Handbook must also define how the resources (people and equipment) allocated to the project will be used to serve the project’s best interests.
+
+As the work to be done becomes clearer, the skills needed to perform the work will also have to be recorded in the Project Handbook.
+A Training Plan can be annexed to the Project Handbook if personnel need to be trained in missing skills.
+If more people with these skills need to be hired, the hiring process must be described in the same section of the Handbook.
+Finally, the way resources will be released at the end of the project (or when their work is complete) must also be formalised here.

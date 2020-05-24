@@ -1,0 +1,10 @@
+[appendix]
+
+include::introduction.adoc[]
+
+include::sections/pm²-and-agile-management.adoc[]
+
+include::sections/pm²-programme-management-(pm²-pgm).adoc[]
+
+include::sections/pm²-and-portfolio-management.adoc[]
+

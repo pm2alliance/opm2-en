@@ -1,0 +1,47 @@
+=== Manage Issues and Decisions
+
+The Project Manager (PM) manages project issues and decisions.
+Issues are identified, evaluated and assigned for resolution to relevant project stakeholders as per the Issue Management process, which can be documented in either an Issue Management Plan or the Project Handbook.
+The Issue Log is used to manage project issues, while the Decision Log is used to document all relevant decisions (see Appendix B). Decisions may be implemented by the Project Manager (PM) or escalated to the Project Steering Committee (PSC), depending on their importance.
+Note that issues and decisions are often linked to the resolution of other log items (e.g. risks, changes).
+
+
+:table-data: mid-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Issue Management Process
+* Project Logs
+* Minutes of Meetings (MoMs)
+
+[discrete]
+==== *Steps* (managing project issues):
+[arabic]
+. Ensure that issue management activities are carried out as per the Issues Management Process.
+. Identify issues and add them to the Issue Log.
+. Escalate the largest/highest-impact issues to the Project Steering Committee (PSC) or follow the defined escalation procedure and thresholds.
+. If the size or number of issues/actions is significant, update the Project Work Plan with major issue management activities.
+. Monitor and control the resolution of issues.
+. Update the Issue Log regularly with new issues as they arise.
+Close resolved issues.
+. Regularly report on issue status to project stakeholders (as per the Communications Plan).
+
+[discrete]
+==== *Steps* (managing decisions):
+[arabic]
+. Document decisions taken during the project (particularly during the Executing Phase).
+. Link decisions to the resolution of other log items (e.g. risks, issues and changes).
+. The Project Manager (PM) regularly reports on the status of decisions to project stakeholders.
+
+:table-data: mid-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 9.9* Manage Issues and Decisions inputs/outputs and main roles
+image::09.09.png[]
+
+:table-data: mid-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: mid-outputs.csv
+include::../tables/outputs.adoc[]

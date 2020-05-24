@@ -1,0 +1,7 @@
+[appendix]
+
+include::introduction.adoc[]
+
+include::sections/pm²-code-of-professional-conduct.adoc[]
+
+include::sections/personal-and-professional-virtues.adoc[]

@@ -1,0 +1,7 @@
+=== Gantt Charts
+
+A Gantt Chart is a common project management tool used to represent the schedule, phases and activities of a project in a single visual (generally a type of horizontal bar chart). It focuses on project sequence, duration, dependencies and status in a manner that is easy to understand.
+
+A Gantt Chart represents the order in which activities need to be carried out and provides an overview of the progress that has been achieved at any point in time.
+A Gantt Chart is used to communicate a project schedule in a visual way but is also used to show progress made and current schedule status by adding percent-complete shadings and a vertical “today” line.
+The main strength of this technique is the ability to clearly display the status of each activity at a glance.

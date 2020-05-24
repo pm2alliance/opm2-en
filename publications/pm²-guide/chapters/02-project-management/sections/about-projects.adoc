@@ -1,0 +1,79 @@
+=== About Projects
+
+==== What is a project?
+
+A project is a *temporary* organisational structure set up to create a *unique* product or service (output) within certain constraints such as time, cost and quality.
+
+* *Temporary* means that the project has a well-defined start and end.
+* *Unique output* means that the project’s product or service has not been created before.
+It may be similar to another product, but there will always be a degree of uniqueness.
+* A project’s output may be a *product* (e.g. a new application) or a *service* (e.g. a consulting service, a conference or a training programme).
+
+The project is defined, planned and executed under certain external (or self-imposed) *constraints*. These can relate to scheduling, budgeting, quality, but also to the project’s organizational environment (e.g. risk attitude, capabilities, available capacity, etc.)
+
+.*Fig 2.1* Key project characteristics
+image::02.01.png[width=613,height=99]
+
+A successful project ends when its objectives have been achieved and all deliverables have been produced and accepted by the organisation or person that requested the project (the client). The deliverables are then handed over to the client and the project team is disbanded.
+
+Projects are different from normal day-to-day work (operations) and are best managed with a special temporary organisational structure in order to:
+
+* define the project scope and its deliverables (products or services)
+* create a business justification for the investment (by defining the project’s value for the organisation, outlining the business context, listing alternative solutions, etc.)
+* identify project stakeholders and define a project core team
+* create the project plans to help guide and manage the project
+* assign and coordinate project work to teams
+* monitor and control the project daily (progress, changes, risks, issues, quality, etc.)
+* hand over the deliverables and administratively close the project.
+
+.*Fig 2.2* A project as a transformational process which turns ideas into reality
+image::02.02.png[]
+
+==== Why we do projects
+
+Every project aims to introduce a new product/service or to change an existing one.
+Achieving the goal is expected to bring about benefits to the organisation (e.g. a new organisation-wide document management system can increase productivity by introducing a new way of searching, reading and filing documents). A project can also be seen as a transformational process, which turns ideas into reality.
+
+Projects may be carried out to maintain current business operations (e.g. sustain the current level of service, relationships, productivity), to transform business operations, or to improve the way of working so the organisation can be more efficient in the future.
+
+Projects start for many different reasons:
+
+* In response to a client request for a new product or service.
+* In response to a market demand or opportunity for a new product or service.
+* In response to a change in legislation or organisational needs.
+* In response to an audit which outlines improvements that should be made.
+* In response to a new product or service from a competitor.
+* To make use of a new technology.
+* To integrate processes in the light of the merger of two or more departments.
+* To update an existing process.
+* To relocate to new premises.
+* To raise awareness on a topic.
+* To provide a proof-of-concept.
+* To migrate information to a new document management system.
+* To improve an existing service.
+
+==== Project outputs, outcomes, benefits
+
+Although project teams tend to focus their efforts on producing deliverables, it should be remembered that project deliverables are merely a means to an end.
+The real purpose of a project is to achieve given outcomes that will yield measurable benefits.
+
+Therefore, it is important for everyone involved in managing and executing a project (managers and team members) to understand the relationship between project outputs, outcomes and benefits.
+They must be able to identify the outputs, outcomes and benefits of their projects.
+Without this understanding, the project participants can lose sight of the project’s original purpose and produce deliverables, which are of little (or no) value to the organisation.
+Thus:
+
+* Project outputs (deliverables) are products/services, which introduce something new (a change).
+* The change results in an outcome.
+* The benefits are the measurable improvements resulting from this outcome.
+
+.*Fig 2.3* Project outputs, outcomes and benefits
+image::02.03.png[]
+
+[.underline]#Notes:#
+
+* Project outcomes and benefits are often realised only after the project has closed.
+* The term 'Impact' is also used to describe Benefits in EU funded projects.
+
+The table below illustrates this with a simple example:
+
+include::../tables/outputs-outcomes-benefits-examples.adoc[]

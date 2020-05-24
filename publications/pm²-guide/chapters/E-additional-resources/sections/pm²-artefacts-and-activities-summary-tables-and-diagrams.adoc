@@ -1,0 +1,72 @@
+=== PM² Artefacts & Activities Summary Tables and Diagrams
+
+[discrete]
+==== **RAM (RASCI)—**Responsible, Accountable, Supports, Consulted, Informed
+|===
+h| Initiating                       | AGB   | PSC   | PO    | BM    | BIG   | SP    | PM    | PCT
+| Project Initiation Request        |I      | n.a.  |*A/S*  |*R*    |*S*/C  |I      | n.a.  | n.a.
+| Business Case                     |I      |C      |*A*    |*R*    |C      |*S*    |*S*    | n.a.
+| Project Charter                   |I      |*A*    |C      |*S*    |C      |*S*    |*R*    |C
+| *Planning*                        |*AGB*  |*PSC*  |*PO*   |*BM*   |*BIG*  |*SP*   |*PM*   |*PCT*
+| Planning Kick-off Meeting         |I      |*A*    |C      |*S*    |C      |C      |*R*    |C
+| Project Handbook                  |I      |I      |*A*    |*S*    |C      |I      |*R*    |C
+| Project Stakeholder Matrix        |I      |I      |*A*    |*S*    |C      |I      |*R*    |C
+| Project Work Plan                 |I      |*A*    |C      |*S*/C  |C      |C      |*R*    |*S*/C
+| Outsourcing Plan                  |*A*    |C      |C      |C      |I      |*S*    |*R*    |I
+| Deliverables Acceptance Plan      |I      |*A*    |C      |*S*    |I      |C      |*R*    |C
+| Transition Plan                   |I      |*A*    |C      |C      |C      |C      |*R*    |C
+| Business Implementation Plan      |I      |I      |*A*    |*R*    |C      |I      |*S*    |I
+
+9+| *Management Plans*
+| Requirements Management Plan      |I      |I      |*A*    |C      |C      |I      |*R*    |*S*
+| Project Change Management Plan    |I      |I      |*A*    |C      |I      |I      |*R*    |I
+| Risk Management Plan              |I      |C      |*A*    |C      |I      |I      |*R*    |I
+| Issue Management Plan             |I      |I      |*A*    |C      |C      |I      |*R*    |C
+| Quality Management Plan           |I      |*A*    |C      |C      |C      |C      |*R*    |C
+| Communications Management Plan    |I      |I      |*A*    |*S*    |C      |I      |*R*    |C
+
+h| Executing                        | AGB   | PSC   | PO    | BM    | BIG   | SP    | PM    | PCT
+| Executing Kick-off Meeting        |I      |*A*    |C      |*S*/C  |C      |C      |*R*    |C
+| Project Coordination              |I      |I      |*A*    |*S*    |I      |I      |*R*    |I
+| Quality Assurance                 |I      |I      |I      |*S*    |C      |I      |*A*    |*R*
+| Project Reporting                 |I      |I      |*A*    |*S*/C  |I/C    |I/C    |*R*    |C
+| Information Distribution          |I      |I      |*A*    |C      |I      |I      |*R*    |C
+
+h| Monitor & Control                | AGB   | PSC   | PO    | BM    | BIG   | SP    | PM    | PCT
+| Monitor Project Performance       |I      |I      |*A*    |C      |C      |I      |*R*    |C
+| Control Schedule                  |I      |I      |*A*    |C      |C      |I      |*R*    |C
+| Control Cost                      |I      |I      |*A*    |C      |C      |I      |*R*    |C
+| Manage Stakeholders               |I      |I      |*A*    |*S*/C  |I      |C      |*R*    |I
+| Manage Requirements               |I      |I      |*A*    |C      |C      |I      |*R*    |*S*
+| Manage Project Changes            |I      |C      |*A*    |*S*    |I      |I      |*R*    |C
+| Manage Risks                      |I      |C      |*A*    |*S*/C  |C      |I      |*R*    |C
+| Manage Issues & Decisions         |I      |I      |*A*    |*S*    |C      |I      |*R*    |C
+| Manage Quality                    |I      |I      |I      |*S*/C  |C      |*A*    |*R*    |C
+| Manage Deliverables Acceptance    |I      |I      |*A*    |*S*    |C      |C      |*R*    |C
+| Manage Business Implementation    |I      |I      |*A*    |*R*    |C      |I      |*S*    |I
+| Manage Transition                 |I      |*A*    |C      |C      |C      |C      |*R*    |C
+| Manage Outsourcing                |*A*    |C      |C      |C      |I      |*S*    |*R*    |I
+
+h| Closing                          | AGB   | PSC   | PO    | BM    | BIG   | SP    | PM    | PCT
+| Project-End Review Meeting        |I      |*A*    |C      |*S*    |C      |C      |*R*    |C
+| Project-End Report                |I      |*A*    |C      |*S*    |C      |C      |*R*    |C
+| Administrative Closure            |I      |C      |*A*    |C      |I      |C      |*R*    |I
+|===
+
+[%autowidth.stretch,grid="none",frame="none",stripes="none"]
+|===
+| *AGB* (Appropriate Governance Body)   | *BIG* (Business Implementation Group)
+| *PSC* (Project Steering Committee)    | *SP* (Solution Provider)
+| *PO* (Project Owner)                  | *PM* (Project Manager)
+| *BM* (Business Manager)               | *PCT* (Project Core team)
+|===
+
+[discrete]
+==== The PM² Artefacts Landscape
+
+image::e.01.01.png[image,width=920,height=533]
+
+[discrete]
+==== Overview of PM² Activities & Artefacts
+
+image::e.01.02.png[image,width=944,height=597]

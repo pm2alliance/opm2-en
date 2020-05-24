@@ -1,0 +1,10 @@
+=== Critical Chain Method (CCM)
+
+The Critical Chain Method (CCM) is a modelling technique used to plan and schedule a set of activities or projects.
+It is similar to the Critical Path Method (CPM), but takes into account resources and their levelling, as well as the behaviour of the Project Manager (PM) when estimating the duration of project activities.
+
+The technique is based on the observation that activity time estimates for projects are close to double the time required to complete the activities.
+Reasons that lead to a delay can include not taking advantage of the early finish of an activity, pacing of the team members to fill the time available for the completion of a task, waiting until the last moment to really focus on the task at hand, etc.
+
+The Critical Chain Method (CCM) assumes that a Project Manager’s (PM) estimates of duration for activities are padded, and immediately proceeds to reduce them.
+Additional buffers (project buffer, feeding buffer, resource buffer) are then added to account for the reduction in project estimates.

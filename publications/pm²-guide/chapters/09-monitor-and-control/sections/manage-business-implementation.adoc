@@ -1,0 +1,45 @@
+=== Manage Business Implementation
+
+The effective execution of all business implementation activities is critical for smooth operations, even after the project’s outputs have been delivered to the stakeholder/user community.
+Business implementation activities are thus complementary to transition activities.
+
+Note that business implementation activities will almost always be required long after the project has ended, so it is good practice to also define post-project change activities.
+The implementation of these activities is the responsibility of the permanent organisation and they are usually carried out as part of ongoing operations or future projects.
+
+
+:table-data: mbi-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Business Implementation Plan
+* Project Handbook
+* Project Work Plan
+* Transition Plan
+
+[discrete]
+==== Steps
+[arabic]
+. Ensure that the Business Implementation Plan is complete and realistic.
+. Ensure that all business implementation activities within the scope of the project are included in the Project Work Plan (i.e. are defined and scheduled, with the resources they require estimated).
+. Focus on the project business implementation activities, that is, those activities that will be implemented during the project’s duration and clearly fall under the project’s budget and control.
+. Manage the execution of all (project) business implementation activities:
+* Redesign, adapt or update any affected business processes.
+* Implement the communication activities defined in the Business Implementation Plan.
+* Implement the planned organisational change management activities.
+* Ensure that all training activities are completed.
+* Manage business continuity plans for business-critical systems.
+. Report on the status of business implementation activities, including any changes.
+
+
+:table-data: mbi-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 9.13* Manage Business Implementation inputs/outputs and main roles
+image::09.13.png[]
+
+:table-data: mbi-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: mbi-outputs.csv
+include::../tables/outputs.adoc[]

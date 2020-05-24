@@ -1,0 +1,5 @@
+[%autowidth.stretch,options="header"]
+|===
+| *RAM* (RASCI) | *AGB* | *PSC* | *PO* | *BM* | *BIG* | *SP* | *PM* | *PCT*
+| Business Case |I      |C      |*A*   | *R*  |C      | *S*  |*S*   | n.a.
+|===

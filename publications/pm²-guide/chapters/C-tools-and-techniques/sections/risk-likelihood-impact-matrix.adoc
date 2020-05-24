@@ -1,0 +1,14 @@
+=== Risk Likelihood/Impact Matrix
+
+The Risk Likelihood/Impact Matrix (sometimes called the Likelihood-Impact Matrix or Risk Matrix) is used in the qualitative assessment of risks, after the project risks have been identified.
+The matrix is designed as a tool to supplement the risk log or risk register.
+
+The Risk Likelihood/Impact Matrix is based on two criteria: the likelihood that a risk will materialise and the potential impact caused by the risk event.
+Most commonly five bands are used for each of the dimensions (also called bands) of the matrix: 1=Very low, 2=Low, 3=Medium, 4=High, 5=Very high.
+
+The two factors are then combined by multiplying their values, resulting in the Risk Level.
+Measured on a relative scale from 1 to 25, the Risk Level will trigger different risk response strategies.
+
+The cells of the matrix are painted in different colours to indicate the criticality of the risk, typically Green for low-level risks (risk level <=2), Yellow for medium-level risks (risk level between 3 and 16), and Red for high-level risks (risk level >=20).
+
+Based on the risk appetite of the organisation, adequate risk-response strategies can be developed for each identified risk.

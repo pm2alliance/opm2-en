@@ -1,0 +1,18 @@
+=== Project Owner (PO)
+
+The Project Owner (PO) is the client of the project, and as such sets the business objectives and ensures that project outcomes are in line with business objectives and priorities.
+As the key Directing Layer role from the requestor side, the Project Owner (PO) is accountable for the overall project’s success, and later becomes the owner of the project’s outputs (product or service).
+
+[discrete]
+==== Responsibilities:
+
+* Acts as the project champion, promoting the project’s success.
+* Chairs the Project Steering Committee (PSC).
+* Provides leadership and strategic direction to the Business Manager (BM) and Project Manager (PM).
+* Sets the business objectives and accepts the Business Case for the project.
+* Owns the business risks and ensures that project outcomes are in line with business objectives and priorities.
+* Mobilises the resources necessary for the project, in accordance with the agreed budget.
+* Regularly monitors project progress.
+* Coordinates the resolution of escalated issues and conflicts.
+* Drives organisational change and monitors proper evolution and change implementation.
+* Approves and signs-off on key management milestone artefacts (Business Case, Project Charter, Project Handbook, Project Management Plans, Business Implementation Plan, etc.).

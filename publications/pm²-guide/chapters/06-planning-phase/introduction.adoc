@@ -1,0 +1,15 @@
+[[ch06]]
+== Planning Phase
+
+The second phase of a PM² project is the Planning Phase.
+It begins with the Planning Kick-off Meeting and ends once all project plans have been developed and baselined, and an appropriate management and implementation approach has been established.
+Most of a project’s artefacts are created during the Planning Phase.
+
+.*Fig 6.1* Planning Phase activities and main outputs
+image::06.01.png[]
+
+:table-data: ../table-data/artefacts.csv
+include::tables/artefacts.adoc[]
+
+.*Fig 6.2* Planning Phase artefacts
+image::06.02.png[]

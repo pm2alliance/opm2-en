@@ -1,0 +1,48 @@
+=== Project-End Review Meeting
+
+The Project-End Review Meeting launches the Closing Phase of the project after the Executing Phase is deemed complete.
+The goal of this meeting is to ensure that project members discuss their experience of the project so that Lessons Learned and best practices can be captured.
+Also in this meeting team and contractor performance are evaluated, and ideas and recommendations for post-project work are discussed.
+
+:table-data: perm-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Business Case and Project Charter
+* Project Handbook and Project Work Plan
+* All Project Plans (particularly the Transition & Business Implementation Plans)
+* Relevant Project Reports and Logs
+
+[discrete]
+==== Steps
+Before the Project-End Review Meeting:
+[arabic]
+. Plan the meeting and set the Meeting Agenda with the points to be discussed.
+. Send out the Meeting Agenda in advance.
+. Address and logistical needs and prepare documentation or hand-outs for the meeting.
+. Make sure participants will be present and fully prepared.
+
+During the Project-End Review Meeting:
+[arabic]
+. The Project Owner (PO) will normally express the organisation’s appreciation to the whole project team and key project stakeholders.
+. Ensure someone is designated to take the Minutes of Meeting (MoM).
+. Present project statistics and data on performance and achievements.
+. Discuss the overall project experience.
+. Discuss problems and challenges faced during project and the way in which they were addressed.
+. Discuss Lessons Learned and Best Practices that may be useful for future projects.
+
+After the Project-End Review Meeting:
+[arabic]
+. Compile Lessons Learned and Post-Project Recommendations.
+. Produce the Project-End Report.
+. Communicate the results of the meeting to the relevant stakeholders.
+
+:table-data: perm-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 8.3* Project-End Review Meeting inputs/outputs and main roles
+image::08.03.png[]
+
+:table-data: perm-outputs.csv
+include::../tables/outputs.adoc[]

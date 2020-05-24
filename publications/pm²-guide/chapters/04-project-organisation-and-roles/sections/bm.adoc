@@ -1,0 +1,16 @@
+=== Business Manager (BM)
+
+The Business Manager (BM) represents the Project Owner (PO) on a daily basis within the project and helps in defining the project’s business objectives via the Project Initiation Request, Business Case and Business Implementation Plan.
+The Business Manager (BM) collaborates closely with the Project Manager (PM) and coordinates client-side activities and roles (e.g. user and business representatives), ensuring that the project’s deliverables fulfil the business and user needs.
+
+[discrete]
+==== Responsibilities:
+
+* Guarantees cooperation and an efficient communication channel with the Project Manager (PM).
+* Coordinates the Business Implementation Group (BIG) and acts as a liaison between the User Representatives (URs) and the provider organisation.
+* Ensures that the products delivered by the project fulfil the user’s needs.
+* Manages the activities on the business side of the project and ensures that the required business resources are made available.
+* Decides on the best way to introduce business change or re-engineering actions, when needed.
+* Ensures that the business organisation is ready to accommodate the project’s deliverables when they are made available by the Solution Provider (SP).
+* Leads the implementation of the business changes within the user community.
+* Coordinates the schedule and delivery of any user training (and production of related material).

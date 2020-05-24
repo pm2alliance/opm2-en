@@ -1,0 +1,81 @@
+=== About Project Management
+
+==== What is Project Management?
+Project Management can be described as the activities of planning, organising, securing, monitoring and managing the resources and work necessary to deliver specific project goals and objectives in an effective and efficient way.
+
+The project management approach used should always be tailored to the needs of the project.
+When using PM², a Project Manager (PM) should use (and if needed after tailoring) only those parts that contribute to the effective management of their project.
+
+==== Project Documentation
+
+Project documentation is a key activity in project management.
+It carries through from the start of a project to its completion.
+Project documentation:
+
+* sharpens thinking by forcing people to put vague thoughts and plans into words
+* crystallises planning
+* defines the project scope for approval, ensuring that all project stakeholders and project team members share the same expectations on what is to be delivered and when
+* provides all stakeholders with a clear picture of the project requirements
+* facilitates communication with internal and external groups
+* provides a baseline for monitoring and controlling a project’s progress
+* provides a record of important decisions
+* provides the information required by official audits
+* supports organisational memory and acts as a historical reference, which can be used to increase the chances of success of future projects
+
+Project documentation should of course, adhere to the quality standards of the organisation and the project regarding format, style, etc.
+However, above all, it should add value fulfilling its purpose and be clear and easy to understand.
+
+==== The Project Support Office (PSO)
+
+A Project Support Office (PSO) is an organisational body (or entity) that provides services, which support project management.
+These can range from providing simple support functions to helping link projects to strategic goals.
+Not all organisations have a Project Support Office (PSO).
+
+A Project Support Office (PSO) can:
+
+* offer administrative support, assistance and training to Project Managers (PMs) and other staff
+* collect, analyse and report on project progress data and information
+* assist with project scheduling, resource planning, coordination and Project Management Information System (PMIS) use
+* maintain a central project repository (of Project Documents, Risks, Lessons Learned)
+* coordinate configuration management and quality assurance activities
+* monitor adherence to methodology guidelines and other organisational standards
+* tailor the project management methodology to new best practices and help project teams implement the updated methodology effectively.
+
+==== Programme Management
+A programme is defined as a number of related projects grouped together to facilitate a level of management which allows objectives and benefits to be achieved that would have been impossible if the projects were managed individually.
+
+Programmes, like projects, are a way of achieving strategic goals and objectives.
+However, programme management is different from multi-project management (managing many projects in parallel). Thus, while a Programme Manager (PgM) coordinates efforts between projects, s/he does not directly manage the individual projects.
+
+==== Project Portfolio Management
+A project portfolio is a collection of projects, programmes and other activities, which are grouped together to allow better control over their financial and other resources and to facilitate their effective management in terms of meeting strategic objectives.
+The projects or programmes in a portfolio are not necessarily inter-dependent on inter-related.
+From a strategic point of view, portfolios are higher-level components than programmes and projects.
+It is at the portfolio level that investment decisions are made, resources allocated, and priorities identified.
+
+It is very important for people involved in project definition and management to understand the differences between—and specific management requirements of—projects, programmes and portfolios.
+They should also be able to define or position their work at the right level (i.e. know if their work would be better managed as a programme or a network of projects), while always being aware of the management and organisational context of their work (see Appendix D).
+
+.*Fig 2.4* Relationships between strategy, project, programme, portfolio and operations
+image::02.04.png[]
+
+==== Projects vs Operations
+
+Projects are temporary and should therefore have a definite start and end.
+A project should be considered complete when it is determined that its goals and objectives have been accomplished.
+Once this happens, the project team should be disbanded.
+
+Operations, on the other hand, comprises the ongoing day-to-day activities undertaken by a permanent organisation to deliver services or products.
+
+However, people often find themselves involved in so-called projects that have been going on for years, working with moving targets or a continuously expanded scope, which sometimes includes activities that should be classified as maintenance or operations.
+These are situations where the projects have been allowed to either become uncontrollable, or to move into operations (maintenance) mode.
+
+In most projects, the operations period begins after the project’s main products have been produced and accepted by the client.
+
+How do you recognise that a project has slipped into operations mode?
+
+* The main project deliverables have been produced and the client has accepted them.
+* The main project output (deliverable) is in use.
+* Support is provided to users.
+* Maintenance activities are undertaken.
+* Minor updates (improvements) are planned and implemented over time.

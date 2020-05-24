@@ -1,0 +1,7 @@
+=== Earned Value Management (EVM)
+
+Earned Value Management (EVM) is a technique used to monitor and control the performance of projects, providing an objective view of performance based on the project financials.
+Both cost and value are measured in terms of cost units (e.g. person days or euro). Earned Value Management (EVM) provides relatively objective metrics—or key performance indicators (KPIs)—to proactively manage project performance.
+Some indicators reflect on progress made so far, or deviations from the plan from a cost or work value point of view, while other indicators focus on forecasting total budget deviation, or on the productivity levels required to complete the project on schedule.
+
+The principal metrics being used are the Planned Value (PV), also known as Budgeted Cost of Work Scheduled (BCWS), the Actual Cost (AC), also known as Actual Cost of Work Performed (AVWP) and the Earned Value, also known as Budgeted Cost of Work Performed (BCWP). Through the combination of the above metrics we can have various KPIs, e.g. Schedule Variance (SV) and Schedule performance Index (SPI), Cost Variance (CV) and Cost Performance Index (CPI) or even more advanced ones for forecasting future project performance, like the Estimate at Completion (EAC), the Estimate to Complete (ETC) and the To Complete Performance Index (TCPI).

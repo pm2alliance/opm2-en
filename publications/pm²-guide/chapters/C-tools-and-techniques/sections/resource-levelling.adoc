@@ -1,0 +1,8 @@
+=== Resource Levelling
+
+Resource Levelling is a technique used to analyse the unbalanced use of project resources and to resolve conflicts related to resource allocation (i.e. human resources, material or equipment).
+
+Resource Levelling focuses on an efficient/optimal resource allocation in order for the project to be completed within the defined timeline.
+Project Managers (PMs) analyse dependencies between projects or activities to ensure that activities can be executed in a timely manner.
+Taking into account the identified constraints, Resource Levelling can be performed.
+Resource Levelling can for example require the delay of specific tasks until resources are available, resource reallocation etc.

@@ -1,0 +1,44 @@
+=== Manage Transition
+
+Transition management ensures a controlled and smooth transition from the old state to the new state in which the new product/service developed by the project is put in place.
+It includes the management of any relevant communication activities and requires close cooperation between the Project Manager (PM) and the Business Manager (BM) to ensure the correct transfer of project deliverables to the client organisation.
+
+:table-data: mt-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Transition Plan
+* Project Work Plan
+* Communications Management Plan
+* Deliverables Acceptance Plan
+* Business Implementation Plan
+
+[discrete]
+==== Steps
+[arabic]
+. Ensure that the project acceptance criteria are met (and hence that all requirements are met and the deliverables are fully operational).
+. Ensure that the Transition Plan is carried out effectively.
+If there is no separate Transition Plan, the Project Manager (PM) needs to:
+* Identify the various roles and stakeholders responsible for the transition process.
+* Identify what must be achieved before the transition can be considered complete.
+* If applicable, ensure that data backups and rollback scenarios are prepared.
+* Ensure that business implementation activities are carried out and user training is delivered.
+* Ensure that the delivery of the project’s outputs is coordinated, communicated and accepted.
+* Ensure that all maintenance and support activities begin as planned (if applicable).
+* Ensure that all relevant documentation and other materials are handed over.
+. Ensure that the Project Owner (PO) has provisionally accepted the deliverables before the transition is complete.
+. Ensure that the ownership of, and responsibility for, project deliverables is transferred to the Project Owner (PO).
+. Ensure that the relevant acceptance document(s) are completed.
+
+:table-data: mt-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 9.12* Manage Transition inputs/outputs and main roles
+image::09.12.png[]
+
+:table-data: mt-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: mt-outputs.csv
+include::../tables/outputs.adoc[]

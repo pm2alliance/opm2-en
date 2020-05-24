@@ -1,0 +1,17 @@
+=== PM² Phase Drivers and Key Artefacts
+
+Projects depend on people to define, plan and execute them.
+These project drivers change from phase to phase in a PM² project.
+
+During the Initiating Phase, the Project Owner (PO) is the main driver, initiating the project and being accountable for all documentation.
+
+In the Planning Phase, the main driver is the Project Manager (PM), who is responsible for coordinating the delivery of all project plans.
+
+The carrying out of the Project Work Plan and creation of the project deliverables in the Executing Phase is driven by the Project Core Team (PCT).
+
+Finally, the Closing Phase is driven by the stakeholders who evaluate the project’s overall performance.
+
+.*Fig 3.8* PM² Swimlane Diagram
+image::03.08.png[]
+
+include::../tables/key-phases-description.adoc[]

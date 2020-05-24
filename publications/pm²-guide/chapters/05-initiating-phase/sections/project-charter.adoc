@@ -1,0 +1,48 @@
+=== Project Charter
+
+The Project Charter provides a basis for the more detailed project planning.
+It defines the project’s objectives (i.e. scope, time, cost, quality), high-level requirements, risks and constraints, as well as the project milestones and deliverable(s).
+
+The charter is a key element of the project approval process (along with the Business Case). It includes the _what_, _how_ and _when_ fundamentals of the project and provides a baseline against which progress can be measured.
+Although the Project Charter can be initiated by the Business Manager (BM), it is ultimately the responsibility of the Project Manager (PM) to complete it and submit it for approval.
+
+:table-data: pc-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Project Initiation Request
+* Business Case
+
+[discrete]
+==== Guidelines
+* The Project Charter should be brief so that it can be sent to project stakeholders as soon as possible, and so that it is easy for them to review and understand.
+* Avoid presenting detailed requirements.
+Instead present high-level needs and features.
+* Detailed requirements may be captured in other artefacts (e.g. in a Requirements Document), or in an appendix to the Project Charter to be elaborated during the planning phase.
+* Ensure that input from all concerned project stakeholders is considered.
+* Ensure that once created, the Project Charter is updated and distributed as required.
+
+[discrete]
+==== Steps
+[arabic]
+. The Business Manager (BM) will first consult the main project stakeholders and takes part in drafting the Project Charter.
+. The Project Manager (PM) is responsible for delivering the document.
+. The main project stakeholders review the Project Charter and the Project Steering Committee (PSC) accepts it.
+. The Project Owner (PO) sends the Business Case and Project Charter to the appropriate decision-making body for additional approval, if needed.
+. The appropriate decision-making body evaluates and accepts or rejects the Project Charter.
+
+:table-data: pc-rasci.csv
+include::../tables/rasci.adoc[]
+
+
+.*Fig 5.6* Project Charter inputs and main roles
+image::05.06.png[]
+
+
+:table-data: pc-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+
+:table-data: pc-outputs.csv
+include::../tables/outputs.adoc[]

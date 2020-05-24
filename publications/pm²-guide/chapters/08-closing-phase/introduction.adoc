@@ -1,0 +1,28 @@
+[[ch08]]
+== Closing Phase
+
+The final phase of a PM² project is the Closing Phase.
+During The Closing Phase starts with the Project-End Review Meeting and ends with the Project Owner’s (PO) final approval, which marks the project’s administrative closure.
+During the Closing Phase, the project’s activities are completed, the project’s final state is documented, and the finished deliverables are officially transferred to the Project Owner (PO).
+
+.*Fig 8.1* Closing Phase activities and main outputs
+image::08.01.png[]
+
+.*Fig 9.2* Closing Phase artefacts
+image::08.02.png[]
+
+*Project-End Review Meeting*
+
+* The Closing Phase starts with an official Project-End Review Meeting.
+* Project performance is discussed, team and contractor performance are evaluated, and Lessons Learned are captured.
+
+*Project-End Report*
+
+* The Project-End Report is created after the Project-End Review Meeting.
+* The report documents Best Practices, pitfalls and solutions to problems encountered for use as a knowledge base for future projects.
+
+*Administrative Closure*
+
+* The Project Manager (PM) ensures that the project is approved and accepted by the relevant stakeholders.
+The finished deliverables are transferred into the care, custody and control of the Project Owner (PO) and the requestor/client organisation.
+* All documentation and records are reviewed, organised and securely archived with the help of the Project Support Office (PSO). Resources are released and the project is closed.

@@ -1,0 +1,29 @@
+
+[discrete]
+=== *Title:* The PM² Project Management Methodology Guide 3.0
+
+*Current Edition:* The PM² Guide v3.0, December 2018
+[discrete]
+==== Previous Edition:
+The PM² Guide, v2.5, September 2015 +
+The PM² Guide – Open Edition, v0.9, November 2016
+
+image:pm².png[width=141,height=60]
+
+Authors and Contributors of the PM² Methodology & Guide: +
+link:#_bookmark101[[.underline]#Appendix A: Contributions and Acknowledgements#]
+
+*Produced and published by:* the European Commission, DIGIT +
+Centre of Excellence in Project Management (CoEPM²)
+
+Email: mailto:EC-PM2@ec.europa.eu[EC-PM2@ec.europa.eu]
+{zwsp} +
+{zwsp} +
+{zwsp} +
+{zwsp} +
+[.text-right]
+--
+Join the Open PM² Community and stay in touch for updates: +
+http://europa.eu/!gb87FF[http://europa.eu/!gb87FF] +
+https://ec.europa.eu/eusurvey/runner/openpm2-contact[https://ec.europa.eu/eusurvey/runner/openpm2-contact]
+--

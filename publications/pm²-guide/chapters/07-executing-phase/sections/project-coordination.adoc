@@ -1,0 +1,37 @@
+=== Project Coordination
+
+The objective of project coordination is to facilitate the project’s progress by continuously providing information to the Project Core Team (PCT) and supporting the completion of assigned work.
+
+Project coordination includes allocating project resources to activities, performing regular quality checks of interim results, maintaining ongoing communication with all project team members, and keeping everyone involved in the project motivated through leadership, negotiations, conflict resolution and the application of appropriate Human Resource management techniques.
+
+:table-data: pc-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Project Handbook
+* Project Work Plan
+
+*Note:* Project coordination begins officially with the initiation of the project and ends with its closing.
+However, the intensity of project coordination peaks during the Executing Phase.
+
+[discrete]
+==== Steps
+[arabic]
+. Manage and direct project activities and stakeholders.
+. Assign tasks to the Project Core Team (PCT) and coordinate their execution as per the Project Work Plan.
+. Provide information to the Project Core Team (PCT) as required for the progress of project.
+. Verify the completion of tasks and accept interim work deliverables in line with predefined acceptance criteria.
+. Provide leadership and motivate the project team.
+. Manage project team dynamics.
+. Use negotiations, conflict resolution, and people management techniques to ensure smooth collaboration among team members and the effective progress of project work.
+
+
+:table-data: pc-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 7.4* Project Coordination inputs/outputs and main roles
+image::07.04.png[]
+
+:table-data: pc-outputs.csv
+include::../tables/outputs.adoc[]

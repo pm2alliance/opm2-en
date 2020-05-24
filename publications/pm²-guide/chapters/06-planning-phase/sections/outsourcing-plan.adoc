@@ -1,0 +1,43 @@
+=== Outsourcing Plan
+
+The Outsourcing Plan defines the _what_ and _how_ for any outsourced products or services.
+It outlines the scope of products and/or services to be purchased or contracted, identifies the outsourcing strategies that will be used, and defines the relevant responsibilities for the full outsourcing lifecycle.
+Note that the present plan should be compliant with the relevant organizational rules and procedures.
+
+:table-data: op-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Business Case and Project Charter
+* Project Work Plan
+* Project Handbook
+* Relevant organisational procurement rules and procedures
+
+[discrete]
+==== Steps
+[arabic]
+. Identify the deliverables and activities that need to be outsourced, along with the timeframe within which the outsourcing should take place.
+. Decide who can interface with the contractors and who is responsible for signing the contract.
+Note that there might be organisation-level rules on contracting to be followed.
+. List the evaluation criteria for contractors.
+This ensures that a contractor is selected on the basis of pre-set criteria and that no single person or group influences the decision.
+The criteria could include the following: capability, previous experience in similar projects, anything else of relevance.
+. Identify any constraints that may affect the outsourcing process (an organisation’s pre-existing agreements or preferred suppliers may require the project team to work with specific suppliers or contractors).
+. Identify the method(s) by which new products may be obtained (i.e. lease/purchase, tendering process). Factors like time/capacity constraints may also influence the choice of method.
+. Identify the people within the organisation who must approve purchases.
+. Provide a timeline for all the contracted activities and deliverables.
+This will ensure that the contractor is committed to having resources available to meet the pre-agreed timeline.
+. Identify any documentation deliverables expected from the contractors (e.g. manuals, etc.).
+
+:table-data: op-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 6.7* Outsourcing Plan inputs and main roles
+image::06.07.png[]
+
+:table-data: op-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: op-outputs.csv
+include::../tables/outputs.adoc[]

@@ -1,0 +1,17 @@
+include::introduction.adoc[]
+
+include::sections/house-of-pm².adoc[]
+
+include::sections/pm²-lifecycle.adoc[]
+
+include::sections/pm²-phase-drivers-and-key-artefacts.adoc[]
+
+include::sections/what-is-a-pm²-project.adoc[]
+
+include::sections/pm²-mindsets.adoc[]
+
+include::sections/tailoring-and-customisation.adoc[]
+
+include::sections/pm²-and-agile-management.adoc[]
+
+

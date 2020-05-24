@@ -1,0 +1,11 @@
+=== Solution Provider (SP)
+
+The Solution Provider (SP) assumes overall accountability for project deliverables and represents the interests of those who design, manage and implement (or outsource) the project’s deliverables.
+
+As the key Directing Layer role from the provider side, the Solution Provider (SP) usually has a management position in the functional hierarchy of the organisation undertaking the project, and therefore often works with the Project Owner (PO) in defining the project’s business objectives.
+
+[discrete]
+==== Responsibilities:
+* Assumes overall accountability for the project deliverables and services requested by the Project Owner (PO).
+* Mobilises the required resources from the provider side and appoints the Project Manager (PM).
+* Approves the objectives of any outsourced activities and deliverables and becomes accountable for the contractor’s performance.

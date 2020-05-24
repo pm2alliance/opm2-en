@@ -1,0 +1,40 @@
+=== Communications Management Plan
+
+The Communications Management Plan helps to ensure that all project stakeholders have the information they need to perform their roles throughout the project.
+Planning and executing project communication activities is essential for project success.
+
+The Communications Management Plan defines and documents communication activities, their goals, content, format, frequency and audience.
+It also defines how to communicate project status and the assignment of activities to the various stakeholders and includes a communication strategy for each key stakeholder, based on their interests, expectations and influence in the project.
+
+:table-data: cmp-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Project Charter
+* Project Handbook
+* Project Stakeholder Matrix
+* Project Work Plan
+
+[discrete]
+==== Steps
+[arabic]
+. Review the guidelines set out in the Communications Management Plan template to get a better understanding of how to tailor and customise the Communication Management Plan.
+. Ensure that there is no duplication of communication activities described in other management plans such as the Quality Management Plan, the Risk Management Plan, etc.
+. If certain processes are already described in the Project Handbook (e.g. the escalation process), reference them to avoid duplication and simply document any changes.
+. Identify project stakeholder groups based on the Project Stakeholder Matrix.
+. When determining the strategy for each communication activity, consider the interests and influence of both internal and external organisations to the project.
+. For each target group, determine what information needs to be communicated, and the purpose of the communication.
+. Define all artefacts (e.g. Project Reports) and other means to collect, analyse and distribute project information and manage stakeholders’ expectations.
+. Determine the frequency of the communication activities, their format and the media to be used for the communications (e.g. reports, presentations, meetings, emails, calls).
+. Determine who will be responsible for each communication activity and describe the expected results.
+. Ensure that the communication management plan is communicated to the project stakeholders.
+
+:table-data: cmp-rasci.csv
+include::../tables/rasci.adoc[]
+
+:table-data: cmp-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: cmp-outputs.csv
+include::../tables/outputs.adoc[]

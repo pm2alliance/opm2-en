@@ -1,0 +1,47 @@
+=== The Open PM² Initiative
+
+Open PM² is a European Commission initiative, which brings the PM² Methodology and its benefits closer to its broader stakeholders and user community.
+
+The Open PM² Initiative provides European Union institutions, contractors and public administrations, as well as broader stakeholders, with open access to the PM² Methodology and associated resources.
+Its goal is to enable increased effectiveness in the management and communication of project work and thus to serve the objectives of the European Union and the needs of member states and citizens.
+
+[.text-center]
+.*Fig 1.1* Open PM² Synergies.
+image::01.01.png[width=400,pdfwidth=50%,scaledwidth=50%]
+
+The Initiative also seeks to rectify mistakes of the past, when efforts were duplicated and divergent project management approaches were sponsored rather than promoting convergent approaches based on _similarities_ and the _common interest_ of the broader European community.
+
+By opening PM², the Initiative aims to enhance project management competency within Europe, leading to increased project efficiency and success.
+
+Open PM² does this by:
+
+* rationalising project management approaches across European Union Institutions and beyond
+* establishing a common language and processes, resulting in effective project communication
+* providing a common set of productive mindsets
+* enabling transparency and visibility for cross-organisational project collaborations
+* enabling better project management, leading to improved cost/effort efficiency
+* enabling the improved monitor and control of European Union-funded projects and grants
+* applying the European Commission decision of 12 December 2011 (2011/833/EU) on the _"reuse of Commission documents to promote accessibility and reuse"_.
+
+==== Open PM² Publications
+
+The Centre of Excellence in PM² (CoEPM²) provides a central online location for all PM² information, publications, etc.
+
+* PM² Publications: http://europa.eu/PM2/Publications[http://europa.eu/PM2/Publications]
+* Contact: mailto:EC-PM2@ec.europa.eu[EC-PM2@ec.europa.eu]
+
+==== Project Support Network (PSN)
+
+The PM² Project Support Network (PSN) is a network of Local Project Support Offices (LPSOs) which are coordinated and supported by the Centre of Excellence in PM² (CoEPM²). The PM² Project Support Network (PSN) aims to become a decentralised project management support network which provides guidance and support to PM² users on both the PM² Methodology and the effective use of project management tools & techniques more broadly.
+
+The Project Support Network (PSN):
+
+* promotes the exchange and sharing of knowledge, experiences and best practices
+* makes it possible to collect feedback to continuously improve and build on the PM² Methodology
+* enables the Local Project Support Offices (LSPOs) to support each other as a community
+* depends on the contributions of PM² champions (individuals and organisations).
+
+Join the Open PM² Community and stay in touch for updates:
+
+* http://europa.eu/!gb87FF[http://europa.eu/!gb87FF]
+* https://ec.europa.eu/eusurvey/runner/openpm2-contact[https://ec.europa.eu/eusurvey/runner/openpm2-contact]

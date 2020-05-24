@@ -1,0 +1,31 @@
+=== Lessons Learned and Post-Project Recommendations
+
+The purpose of formal Lessons Learned and Post-Project Recommendations is to make it possible for project teams and the permanent organisation at large to benefit from the experience acquired during the project.
+It is also important to capture ideas and recommendations for post-project work relating to the operation of the product/service delivered, such as extensions, maintenance and ideas for follow-up projects.
+
+*Note:* Improvement opportunities and Post-Project Recommendations should be captured in some form as they come up during the project.
+Otherwise, particularly in longer projects, the ideas might get lost by the time the project reaches the Closing Phase.
+
+There are many benefits to formalising Lessons Learned and Post-Project Recommendations.
+When project team members share their perspectives and provide feedback it provides useful insights that, the requestor/client side can use to manage post-project activities more effectively.
+
+:table-data: ll-participants.csv
+include::../tables/participants.adoc[]
+
+Because all projects are different, the Lessons Learned process cannot be generic.
+However, projects have common aspects, which can be discussed: project definition and planning (scope, deliverables, resources, etc.), project communication, project documentation, change control, risk/issue management, decision- making, successes, mistakes and failures, team dynamics, overall project performance.
+
+[discrete]
+==== Guidelines:
+* The Lessons Learned session should be a part of the Project-End Review Meeting (though separate sessions could be organised at the end of project phases or major milestones).
+* It may be preferable to have the Lessons Learned session facilitated by someone who has not been intimately involved in the project, allowing the Project Manager (PM) to contribute as a participant.
+* The discussion should be structured (using project phases, categories of activities, etc. as the organisational principle) to cover every aspect of the project.
+* Improvement ideas should be organised into groups to help the team better visualise the appropriate next steps required to implement them.
+* In some cases, it could make sense to address the Lessons Learned over multiple sessions, each devoted to a different topic (technical issues, business implementation, etc.).
+* The Project Steering Committee (PSC) should be invited to the Lessons Learned session(s) as this will allow its members to transfer the Lessons Learned to other projects.
+
+:table-data: ll-rasci.csv
+include::../tables/rasci.adoc[]
+
+:table-data: ll-outputs.csv
+include::../tables/outputs.adoc[]

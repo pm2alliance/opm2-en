@@ -1,0 +1,60 @@
+=== PM² Mindsets
+
+The PM² processes, artefacts, tools and techniques help project teams make decisions on trade-offs
+
+between a project’s time, cost, scope and quality dimensions.
+
+The PM² Mindsets are the attitudes and behaviours that help project teams focus on what is crucial to achieving their project’s goals.
+They help project teams navigate the complexities of managing projects in organisations and make the PM² Methodology both more effective and complete.
+
+Thus, Project Managers (PMs) and project teams that practise PM²:
+
+[arabic]
+. *Apply PM²* best practices to manage their projects.
+. *Remain mindful* that project management methodologies are there to serve projects and not the other way around.
+. Maintain an *outcomes orientation* in relation to all projects and project management activities.
+. Are *committed to* delivering project results with *maximum value* rather than just following plans.
+. *Foster* a project culture of collaboration, clear *communication* and *accountability*.
+. *Assign* project roles to the most *appropriate* people for the benefit of the project.
+. *Balance* in the most productive way the often-conflicting project management “Ps” of product, purpose, process, plan, people, pleasure/pain, participation, perception and politics.
+. *Invest* in developing technical and behavioural competences to *become better* project contributors.
+. *Involve* project stakeholders in the *organisational change* needed to maximise project benefits.
+. *Share knowledge*, actively manage Lessons Learned, and contribute to the *improvement* of project management within their organisations.
+. Draw *inspiration* from the PM² Guidelines on Ethics and Professional Virtues (see Appendix F).
+
+To remain mindful of the PM² Mindsets, Project Managers (PMs) and project teams that practise PM² should ask themselves the following important Infrequently Asked Questions (IAQs):
+
+* *Do we know what we are doing?* Tip: Develop a clear and shared project vision.
+Manage the project using a holistic approach and optimise the whole project, not just parts of it.
+Follow a process but stay Agile and try to regularly remind yourself why you are doing something.
+* *Do we know why we are doing it? Does anyone really care?* Tip: Make sure your project matters.
+Understand its goals, value and impact, and how it relates to the organisational strategy.
+Define upfront what project success is and deliver maximum value and real benefits, not just outputs.
+* *Are the right people involved?* Tip: People make projects work.
+The primary criterion for involving people and assigning project roles should be to serve the needs and objectives of the project, and not politics, friendship, functional hierarchy, proximity or convenience.
+* *Do we know who is doing what*? Tip: Know what you should be doing, and make sure others know what they should be doing.
+Is it clear to everyone? Clearly define and understand roles, responsibilities and accountabilities.
+* *Deliver at any cost or risk*? Tip: Show respect for people’s work and organisational funds and avoid high-risk behaviour and tactics.
+Always keep in mind that it is not just about the end result - how you get there also matters.
+Manage your projects based on positive values and principles.
+* *Is this important*? Tip: Everything is NOT equally important.
+Identify, and agree on, the project’s Critical Success Criteria (CSC), Minimum Viable Product and Critical Success Factors (CSFs), and allocate effort and attention both tactically and strategically for the benefit of both the project and project management goals.
+* *Is this a task for “them” or for “us”*? Tip: Make sure that client and provider groups work as one team towards a common goal.
+Real teamwork really works; so foster clear, effective and frequent communication.
+* *Should I be involved*? Tip: Contribute from any position.
+Be proud of the skills, value and positive attitude you bring to the project.
+Help everyone who needs to be involved get involved.
+Promote and facilitate the contributions of all stakeholders.
+* *Have we improved*? Tip: Commit to ongoing self- and organisational improvement by gathering and sharing knowledge.
+Project teams should reflect on how they can become more effective and adjust their behaviour accordingly.
+* *Is there life after the project*? Tip: The product (or service) lifecycle has just begun! Make sure you have contributed to its success.
+
+The PM² Mindsets are the glue that holds the PM² processes and practices together.
+They provide a common set of beliefs and values for all PM² practitioners.
+
+The PM² Mindsets:
+
+* help project teams navigate through the complexities of project realities.
+* help project teams (re)position project management goals in a wider organisational context.
+* remind project teams what is important for project success.
+* are useful reminders of effective attitudes and behaviours.

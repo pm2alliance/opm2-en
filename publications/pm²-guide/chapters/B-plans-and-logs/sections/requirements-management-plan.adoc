@@ -1,0 +1,47 @@
+=== Requirements Management Plan
+
+The Requirements Management Plan defines and documents the requirements management approach, process steps and responsibilities, as well as tools, techniques and artefacts that will be used.
+Note that requirements themselves are documented and managed in separate artefact(s) (e.g. requirements matrix).
+
+Effective requirements management is a critical success factor for projects, as requirements are the starting point for all project work, and principally affect the project risk, duration and budget.
+
+Requirements are traditionally defined in detail early in the project lifecycle.
+However, depending on the type, scope and chosen project strategy, the requirements management process may need to accommodate a more agile definition and elaboration of requirements, thereby allowing for frequent and less formal requirements management cycles.
+
+The Requirements Management Plan can be tailored and customised to the project’s needs.
+In the absence of a more specialised role, the Project Manager (PM) is responsible for executing the process from project initiation until all requirements have been implemented and validated.
+
+
+:table-data: rqmp-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+===== Inputs
+* Project Charter
+* Project Handbook
+* Project Stakeholder Matrix
+
+[discrete]
+===== Steps
+[arabic]
+. Check if a requirements management process already exists at the organisational level.
+. Tailor the Requirements Management Plan to the project’s needs.
+Create it as a standalone document or as a section within the Project Handbook.
+. Define what a requirement is, and what the possible states of its lifecycle are.
+. Ensure that the requirements management process is aligned with the change management process, and that requirement changes are traced to the project’s deliverables and activities.
+. Define the roles and responsibilities for each process step.
+Define clearly who is responsible for approving and validating the implementation of new requirements.
+. Define the tools and techniques that will be used to identify, evaluate, prioritise and manage requirements (e.g. brainstorming sessions, prototyping, MoSCoW, etc.).
+. Define the possible formats of representation of requirements for the project (e.g. text, use cases, diagrams, user stories, etc.)
+. Define the artefacts and repositories used for the documentation and management of the requirements (e.g. specification document or requirements traceability matrix).
+. Define the requirements validation process and make sure it is aligned with the overall deliverables acceptance process.
+. Ensure that the requirements management process is communicated to the project stakeholders.
+
+:table-data: rqmp-rasci.csv
+include::../tables/rasci.adoc[]
+
+:table-data: rqmp-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: rqmp-outputs.csv
+include::../tables/outputs.adoc[]

@@ -1,0 +1,42 @@
+=== Business Implementation Plan
+
+The Business Implementation Plan aims to increase the likelihood of achieving the project’s desired outcomes and benefits.
+It documents an assessment of the project’s impact on the organisation's processes, culture and people and outlines the change-management and communications activities that need to take place to ensure that the project outputs are effectively integrated into the organisation’s environment.
+
+Depending on the organization, the business implementation activities can be performed as part of the same project or as a separate one.
+These activities become part of the Project Work Plan and are scheduled and controlled as part of the overall project.
+
+
+:table-data: bip-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Business Case and Project Charter
+* Project Handbook and Project Work Plan
+* Transition Plan
+* Quality Management Plan
+
+[discrete]
+==== Steps
+[arabic]
+. Understand the pre- and post-project states and analyse the project’s impact on the organisation’s processes, people and culture.
+. Plan any redesigning or updating of affected business processes.
+. Develop a communication strategy and define the necessary change-management activities.
+. Identify possible sources of resistance to the desired change(s), analyse the attitude of key stakeholders and plan their involvement in change-management activities.
+. Determine the training needs of the people in the organisation.
+. Include all project-related business implementation activities in the overall Project Work Plan
+. Identify the change implementation (and change sustaining) activities to be carried out by the organisation after the project ends, possibly as future/follow-up projects.
+
+:table-data: bip-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 6.10* Business Implementation Plan inputs and main roles
+image::06.10.png[]
+
+
+:table-data: bip-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: bip-outputs.csv
+include::../tables/outputs.adoc[]

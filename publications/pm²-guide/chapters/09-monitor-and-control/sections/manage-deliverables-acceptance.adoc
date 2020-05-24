@@ -1,0 +1,50 @@
+=== Manage Deliverables Acceptance
+
+A project may produce one or more deliverables.
+Each of these deliverables must be formally accepted.
+Deliverables acceptance management ensures that these deliverables meet the predefined objectives and criteria outlined in the Deliverables Acceptance Plan, so the project requestor can formally accept them.
+
+Note that final project acceptance takes place in the Closing Phase.
+
+
+:table-data: mda-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Deliverables Acceptance Plan
+* Project Work Plan
+* Quality Management Plan
+* Outsourcing Plan (if applicable)
+
+[discrete]
+==== Steps
+[arabic]
+. The Project Manager (PM) ensures that the acceptance procedures and guidelines are applied and the necessary environments (space, infrastructure, tools, etc.), materials and information are provided for the acceptance process to take place.
+. The Project Steering Committee (PSC) approves the application of the documented acceptance strategy and acceptance schedule.
+. The project deliverables are accepted if the acceptance activities (as described in the Deliverables Acceptance Plan) are carried out within a pre-specified tolerance range.
+Note that project deliverables can be conditionally accepted, even with a set of known defects or issues, if these are documented and if there is a plan in place for addressing them.
+. The Business Manager (BM) provides (qualified) resources to support the users’ acceptance of the deliverables.
+. The Project Manager (PM) ensures that supporting deliverables (such as documentation) are supplied in addition to the main deliverables (taking an Information System as an example, such deliverables could include end-user support material, a User Manual, an Operations Manual, training materials, release notes, etc.).
+. The Project Owner (PO) formally accepts the project’s deliverables.
+
+*Note:* When domain-specific (e.g. technical) documentation is delivered for acceptance, it needs to be reviewed by a subject matter expert/representative.
+
+For example:
+
+* A stakeholder with business knowledge representing the business organisation—e.g. a User Representative (UR)—should review a User Manual.
+* A stakeholder from the support and maintenance organisation should review an Operations Manual.
+* A stakeholder from the organisation responsible for training should review training materials.
+* A stakeholder from the service operations organisation should review release notes.
+
+:table-data: mda-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 9.11* Manage Deliverables Acceptance inputs/outputs and main roles
+image::09.11.png[]
+
+:table-data: mda-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: mda-outputs.csv
+include::../tables/outputs.adoc[]

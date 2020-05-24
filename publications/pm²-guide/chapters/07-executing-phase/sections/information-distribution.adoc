@@ -1,0 +1,33 @@
+=== Information Distribution
+
+Information distribution refers to the methods used to keep project stakeholders informed about relevant project details through the regular distribution of project reports, as per the Communications Management Plan and project stakeholder needs.
+
+:table-data: id-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Communications Management Plan
+* Project Work Plan
+* Project Reports and Project Logs
+* Minutes of Meetings (MoMs)
+
+[discrete]
+==== Guidelines
+* Relevant information resulting from the execution of project plans should be communicated to appropriate parties at the right time and in the appropriate format.
+* If meetings are used to distribute information, ensure they are frequent enough to serve the communication needs of the project stakeholders.
+* Keep stakeholders informed by sending them regular Status and Progress Reports that chart project progress against the baseline schedule and budget.
+
+[discrete]
+==== Steps
+[arabic]
+. Carry out the tasks detailed in the Communications Management Plan.
+. Inform stakeholders about updates to the Project Work Plan.
+. Communicate any changes/updates to any key project documents and logs.
+. Send out the Project Reports as per the Communications Management Plan.
+
+:table-data: id-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 7.7* Information Distribution inputs and main roles
+image::07.07.png[]

@@ -1,0 +1,9 @@
+=== Make or Buy Analysis
+
+A Make or Buy Analysis helps the organisation to take an informed decision about what to outsource and what not to outsource.
+Portfolio managers and project sponsors are often faced with the dilemma to make or buy, considering the availability and skills of resources at hand.
+
+The various factors to be considered for a Make or Buy Analysis include cost comparison, technology and business processes, supplier-related information and support systems.
+
+Potential reasons for a make decision include cost effectiveness, intellectual property concerns, quality control issues or supplier unreliability issues.
+Potential reasons for buy decision include cost considerations, lack of technical expertise, suppliers’ technical experience and/or insufficient in-house resources.

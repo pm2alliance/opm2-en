@@ -1,0 +1,135 @@
+=== The PM² Lifecycle
+
+The PM² project lifecycle has four phases with a different type of activity predominant in each phase (i.e. initiating activities are predominant in the Initiating Phase, etc.). However, while phase-related activities peak in terms of effort during a specific phase, activities of this type can also be executed during neighbouring phase(s) (e.g. planning activities are also repeated in the Executing Phase).
+
+A project moves on to the next phase when the goals of its current phase have been deemed achieved as the results of a formal (or less formal) phase-exit review.
+
+.*Fig 3.2* The PM² project lifecycle: indicative phase overlapping and cumulative effort
+image::03.02.png[]
+
+The focus of a project shifts from initiating and planning activities in the beginning to executing, monitoring and controlling activities in the middle and acceptance, transitioning and closing activities at the end.
+
+Inexperienced project teams sometimes underestimate the importance of the work done in the initial project phases and start working on deliverables that are inadequately defined or planned.
+This results in the delivery of outputs, which are of poor quality and of little value to end-users.
+This is a common and costly mistake, which is often the root cause of overall project failure and the failure to realise the project’s intended benefits.
+
+include::../tables/project-phases.adoc[]
+
+==== Initiating Phase
+
+image::03.02.01.png[]
+
+
+The first phase of a PM² project is the Initiating Phase.
+
+During this phase, the people involved formulate the project’s objective(s), ensure the project’s alignment to the organisation’s strategic objectives, undertake some initial planning to get the project off to a good start, and put together the information required to gain approval to continue to the Planning Phase.
+The main input of this phase is a (client) request to address a need, problem or opportunity.
+
+The following activities are part of the Initiating Phase:
+
+* Creation of the Project Initiation Request containing information about the requestor, business needs and desired project outcomes.
+* Creation of the Business Case, which provides the project justification and defines its budgetary requirements outlined in sections covering the business context, problem description, project description, possible alternative solutions, costs and timetable.
+* Creation of the Project Charter, which provides more details on the project definition in terms of scope, cost, time and risk.
+It also defines milestones, deliverables, project organisation, etc.
+
+.*Fig 3.3* Overview of the Initiating Phase
+image::03.03.png[]
+
+The Business Case and Project Charter define the project’s scope and direction.
+The Project Manager (PM) and the Project Core Team (PCT) reference and use both throughout the project.
+
+At the end of the Initiating Phase, the Project Steering Committee (PSC) or other Appropriate Governance Body (AGB) reviews the above documents and decides whether to allow the project to move forward.
+
+==== Planning Phase
+
+
+image::03.02.02.png[]
+
+The second phase of a PM² project is the Planning Phase.
+
+During the Planning Phase, the project’s objective is developed into a specific and workable plan ready to be executed.
+The Project Work Plan specifies the project scope and appropriate approach, decides on a schedule for the tasks involved, estimates the necessary resources and develops the detail of the project plans.
+Several times during the Planning Phase, the Project Work Plan can be updated.
+Once agreed and finalised it is baselined and signed off.
+
+The following activities are part of the Planning Phase:
+
+* Running the Planning Kick-off Meeting to officially start the Planning Phase.
+* Creating the Project Handbook, which defines the project’s management approach.
+* Developing the Project Work Plan (Work Breakdown, Effort and Costs, Schedule).
+* Updating the Project Stakeholder Matrix, which identifies all project stakeholders.
+* Creating other important plans such as the Communications Management Plan, the Transition Plan and the Business Implementation Plan.
+
+.*Fig 3.4* Overview of the Planning Phase
+image::03.04.png[]
+
+The Project Manager (PM) uses the outputs of the Planning Phase to request approval to move on to the Executing Phase.
+This decision to move on is taken by the Project Steering Committee (PSC).
+
+==== Executing Phase
+
+image::03.02.03.png[]
+
+
+The third phase of a PM² project is the Executing Phase.
+During the Executing Phase the project team produces the project deliverables (outputs) as outlined in the Project Work Plan.
+This is typically the stage of the project lifecycle that involves the most resources and requires the most monitoring.
+
+The following activities are part of the Executing Phase:
+
+* Running the Executing Kick-off Meeting.
+* Distributing information based on the Communications Management Plan.
+* Performing Quality Assurance (QA) activities as defined in the Quality Management Plan
+* Coordinating project, work people and resources, and resolving conflicts and issues.
+* Producing the project deliverables in accordance with the project plans.
+* Handing over the deliverables as described in the Deliverables Acceptance Plan.
+
+.*Fig 3.5* Overview of the Executing Phase
+image::03.05.png[]
+
+Once the project deliverables have been accepted by the Project Owner (PO), the Project Manager (PM) can request approval to move on to the Closing Phase.
+This decision to move on is taken by the Project Steering Committee (PSC).
+
+
+==== Closing Phase
+
+image::03.02.04.png[]
+
+The final phase of a PM² project is the Closing Phase.
+
+During a project’s Closing Phase, the finished deliverables are officially transferred into the care, custody and control of the Project Owner (PO) and the project is administratively closed.
+Information on overall project performance and Lessons Learned is captured in the Project-End Report.
+The Project Manager (PM) ensures that the deliverables produced are accepted, all project documents are correctly filed and archived, and that all resources used by the project are formally released.
+
+The following activities are part of the Closing Phase:
+
+* Finalising all activities in order to formally close the project.
+* Discussing the overall project experience and Lessons Learned with the project team.
+* Documenting Lessons Learned and best practices for future projects.
+* Closing the project administratively and archiving all project documents.
+
+.*Fig 3.6* Overview of the Closing Phase
+image::03.06.png[]
+
+==== Monitor & Control
+
+image::03.02.05.png[]
+
+Monitor & Control activities run throughout the project’s lifecycle.
+During Monitor & Control, all work is observed from the point of view of the Project Manager (PM). Monitoring is about measuring ongoing activities and assessing project performance against project plans.
+Controlling is about identifying and taking corrective action to address deviations from plans and to address issues and risks.
+
+.*Fig 3.7* Monitor & Control activities
+image::03.07.png[]
+
+==== Phase Gates and Approvals
+
+At the end of each phase, the project passes through a review and approval gate.
+This ensures that the project is reviewed by the appropriate people (i.e. the Project Manager (PM), Project Owner (PO), the Project Steering Committee (PSC) or other delegated role) before it moves on to the next phase.
+These checkpoints contribute to the overall project management quality and allow the project to proceed in a more controlled way.
+
+===== The three PM² phase gates are:
+
+* *RfP* (Ready for Planning): at the end of the Initiating Phase
+* *RfE* (Ready for Executing): at the end of the Planning Phase
+* *RfC* (Ready for Closing): at the end of the Executing Phase.

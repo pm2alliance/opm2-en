@@ -1,0 +1,42 @@
+=== Manage Risk
+
+Risk management is a systematic ongoing process for identifying, assessing and managing risks so that they conform to the organisation’s accepted risk attitude.
+Risk management improves the project team’s confidence by proactively managing any potential event that might have a positive or negative impact on project objectives.
+
+The Risk Management Process can be tailored and customised to a project’s needs and can be documented either in a Risk Management Plan or in the Project Handbook.
+A Risk Log is used to document and communicate the risks and relevant risk-response actions and responsibilities (see Appendix B).
+
+
+:table-data: mr-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Business Case and Project Charter
+* Risk Management Process
+* Risk Log
+
+[discrete]
+==== Steps
+[arabic]
+. *Identify risks:* The purpose of this step is to identify and document the risks that can have impact on the project’s objectives.
+Note that new risks may arise at any point during the project and should be added to the Risk Log for further analysis/action.
+. *Carry out a risk assessment:* The purpose of this step is to assess the likelihood of each risk and the severity of its impact on project objectives.
+This assessment is necessary before any risk response can be planned.
+Medium to high level risks are dealt with at a higher priority level.
+. *Develop a risk-response strategy:* The purpose of this step is to choose the best possible strategy to meet an identified risk and to plan actions necessary to implement this strategy.
+. **Control risk-response activitie**s: The purpose of this step is to monitor and control the implementation of risk-response activities and to revise/update the Risk Log based on a regular reassessment.
+. *Record:* Update the Project Work Plan with clear risk-response tasks whenever deemed necessary.
+. *Report:* Regularly inform the Project Steering Committee (PSC) about risk-related activities.
+
+:table-data: mr-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 9.8:* Manage Risk inputs/outputs and main roles
+image::09.08.png[]
+
+:table-data: mr-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: mr-outputs.csv
+include::../tables/outputs.adoc[]

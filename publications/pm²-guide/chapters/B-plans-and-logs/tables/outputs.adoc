@@ -1,0 +1,4 @@
+[%autowidth.stretch,format="csv",grid="all",frame="all",stripes=none,options="header"]
+|===
+include::../table-data/{table-data}[]
+|===

@@ -1,0 +1,40 @@
+=== Project Change Management Plan
+
+The Project Change Management Plan defines and documents the change process for a project.
+It defines the activities, roles and responsibilities related to identifying, documenting, assessing, approving, prioritising, implementing, controlling and communicating requested project changes.
+
+Project change management brings transparency, accountability and traceability to all project changes implemented after the project scope and project plans have been baselined.
+The escalation procedure ensures that changes with a significant impact on project performance are properly assessed and approved by the appropriate level of authority.
+The Project Change Log is used to document requested changes and trace all related decisions and planned actions.
+
+:table-data: pcmp-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Business Case and Project Charter
+* Project Handbook
+* Project Work Plan
+
+[discrete]
+==== Steps
+[arabic]
+. Check if there is a pre-existing project change management process at the organisational level.
+. Tailor the Project Change Management Plan to the project’s needs (e.g. define different steps depending on the type of change, its urgency or impact). Create it as a standalone document or as a section within the Project Handbook.
+. Ensure that there is no duplication of information contained in other management plans or the Project Handbook (e.g. the escalation procedure).
+. Define what is considered to be a change for the project, as well as the possible types of changes.
+. Define the artefacts and the tools and techniques that will be used to identify and assess changes (e.g. the Change Request Form or the Project Change Log).
+. Define who is responsible for approving changes at the various impact levels, and how this decision is communicated to the rest of the team.
+. Tailor the Change Log (if needed) and customise it to reflect any customisations of the Project Change Management Plan (e.g. scales of urgency, change impact and priority).
+. Describe the change monitoring and control activities, their frequency and supporting tools and techniques, e.g. review of changes at a predefined frequency based on the Change Log.
+. Ensure that the change management process is communicated to the project team and stakeholders.
+
+
+:table-data: pcmp-rasci.csv
+include::../tables/rasci.adoc[]
+
+:table-data: pcmp-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: pcmp-outputs.csv
+include::../tables/outputs.adoc[]

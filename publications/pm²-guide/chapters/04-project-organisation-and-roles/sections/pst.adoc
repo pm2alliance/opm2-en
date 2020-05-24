@@ -1,0 +1,31 @@
+=== Project Support Team (PST)
+
+The Project Support Team (PST) is an optional role that consists of the people responsible for providing support to the project.
+Its composition and structure depend on the needs of the project.
+The Project Support Team (PST) is often composed of representatives from various horizontal services or units.
+
+[discrete]
+==== Responsibilities:
+
+* Provides administrative support to the project.
+* Defines requirements for reporting and communication.
+* Administers Project Steering Committee (PSC) meetings and drafts related reports.
+* Supports the Project Manager (PM) in planning, monitoring and controlling the project.
+* Advises on project management tools and administrative services.
+* Manages the project documentation (versioning, archiving, etc.).
+
+[discrete]
+==== Project Support Office (PSO)
+
+The Project Support Office (PSO), also called Project Management Office or Project Office, is an optional structure that can provide services to project teams such as the application of the methodology and use of the artefacts, information systems, governance, logistics and various support.
+
+[discrete]
+==== Project Quality Assurance (PQA)
+
+Assigned by the Project Steering Committee (PSC) and working independently of the Project Manager (PM), the Project Quality Assurance (PQA) ensures the high quality of the project and its deliverables, by reviewing processes and artefacts, identifying non-conformities with the set quality standards and recommending corrective actions.
+This is an optional role in an organisation, reporting directly to the Project Steering Committee (PSC), and may take the form of either a group or individual staff member.
+
+[discrete]
+==== Other
+
+Depending on the project’s nature and characteristics, the Project Support Team (PST) can be further extended and include representatives from other departments/units, e.g. Legal, Procurement, Data Protection, etc.

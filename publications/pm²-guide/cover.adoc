@@ -1,0 +1,33 @@
+[.text-right]
+--
+[discrete]
+== European Commission
+[discrete]
+=== Centre of Excellence in Project Management (CoEPM²)
+
+{zwsp} +
+{zwsp} +
+{zwsp} +
+{zwsp} +
+{zwsp} +
+{zwsp} +
+
+*PM² Project Management Methodology*
+
+*Guide 3.0*
+
+image:pm²-opmm.png[image,width=153,height=109]
+
+{zwsp} +
+{zwsp} +
+{zwsp} +
+{zwsp} +
+{zwsp} +
+{zwsp} +
+{zwsp} +
+{zwsp} +
+
+
+
+Brussels | Luxembourg, 2018
+--

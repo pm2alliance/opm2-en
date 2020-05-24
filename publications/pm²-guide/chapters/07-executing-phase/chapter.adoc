@@ -1,0 +1,13 @@
+include::introduction.adoc[]
+
+include::sections/executing-kick-off-meeting.adoc[]
+
+include::sections/project-coordination.adoc[]
+
+include::sections/quality-assurance.adoc[]
+
+include::sections/project-reporting.adoc[]
+
+include::sections/information-distribution.adoc[]
+
+include::sections/phase-gate-rfc.adoc[]

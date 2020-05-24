@@ -1,0 +1,52 @@
+=== Executing Kick-off Meeting
+
+The Executing Phase starts with the Executing Kick-off Meeting.
+This meeting ensures that the whole Project Team is aware of the project’s key elements and rules.
+
+:table-data: kom-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Business Case and Project Charter
+* Project Handbook
+* Project Work Plan
+* All project plans and logs
+* Any requirements documents
+
+[discrete]
+==== Steps
+Before the Executing Kick-off Meeting:
+[arabic]
+. Plan the meeting.
+. Draft the Meeting Agenda clearly indicating the main points to be discussed.
+. Send out the Meeting Agenda in advance.
+. Ensure the attendance of the required participants.
+. Address any logistical needs and prepare documentation or hand-outs for the meeting.
+
+During the Executing Kick-off Meeting:
+[arabic]
+. Ensure that someone is designated to take the Minutes of Meeting (MoM), including action points.
+. Present the Project Handbook and the Project Work Plan with the appropriate level of detail.
+. Present the Communications Management Plan.
+. Agree on the conflict resolution process and present the escalation procedure.
+. Present the Project Stakeholder Matrix.
+. Present the Risk Management, Issue Management and Project Change Management processes as well as the Quality Assurance & Control activities.
+. Clarify the expectations of the Project Core Team (PCT).
+. Agree on the team’s ground rules
+
+After the Executing Kick-off Meeting:
+[arabic]
+. Send out the Minutes of Meeting (MoM) to the relevant stakeholders.
+The minutes should include a summary of project issues raised, risks identified, decisions taken and changes proposed.
+Note that the issues, risks, decisions and project changes should also be recorded in the relevant logs.
+
+
+:table-data: kom-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 7.3* Executing Kick-off Meeting inputs/outputs and main roles
+image::07.03.png[]
+
+:table-data: kom-outputs.csv
+include::../tables/outputs.adoc[]

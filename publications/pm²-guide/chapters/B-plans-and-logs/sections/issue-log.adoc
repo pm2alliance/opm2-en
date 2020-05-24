@@ -1,0 +1,70 @@
+=== Issue Log
+
+[cols=","]
+|===
+2+h| *Issue Identification and Description*
+| ID |
+The issue identifier.
+
+| Category |
+Issue category related to the area affected by the issue (e.g. business, IT, people & organisation, external or legal).
+
+| Title |
+Short title for the issue.
+
+| Description |
+A description of the issue and its impact.
+
+| Status |
+The issue status can be any of the following:
+
+*Open:* The issue has been identified and requires attention and, if possible, a resolution.
+
+*Postponed:* This status is set if resolving the issue is postponed due to other priorities.
+
+*Resolved:* This status indicates that all necessary actions are completed, and the issue is resolved.
+
+*Closed:* This status indicates that all work is completed and verified.
+The issue can then be marked as closed.
+
+| Identified by |
+The name of the person who identified the issue.
+
+| Identification date |
+The date on which the issue was raised.
+
+2+h| *Issue Assessment and Action Description*
+
+| Action details (effort & responsible) |
+Description of the recommended action to be taken, and the steps, deliverables, timescale, resources and effort involved.
+
+| Urgency |
+A numerical value denoting how urgent the issue is.
+The possible values are:
+
+*5=Very high, 4=High, 3=Medium, 2=Low, 1=Very low*
+
+| Impact |
+A numerical value denoting the issue’s impact.
+The possible values are:
+
+*5=Very high, 4=High, 3=Medium, 2=Low, 1=Very low*
+
+| Size |
+Issue size represents the effort needed to resolve the issue.
+The possible values are:
+
+*5=Very high, 4=High, 3=Medium, 2=Low, 1=Very low*
+
+| Target date |
+The date on which the issue is expected to be resolved.
+
+| Issue owner |
+The person accountable for resolving the issue.
+
+| Escalation |
+Whether or not the issue is to be escalated to the Directing or Steering Layers (*Yes* or *No*).
+
+| Traceability/Comments |
+The ID(s) of the tasks (in the Project Work Plan) that implement the issue actions, and/or the IDs of related changes, risks or decisions (Log entries). Also include any additional information/comments related to the issue.
+|===

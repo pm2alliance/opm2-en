@@ -1,0 +1,11 @@
+include::introduction.adoc[]
+
+include::sections/objectives.adoc[]
+
+include::sections/intended-audience.adoc[]
+
+include::sections/about-pm².adoc[]
+
+include::sections/coepm².adoc[]
+
+include::sections/open-pm².adoc[]

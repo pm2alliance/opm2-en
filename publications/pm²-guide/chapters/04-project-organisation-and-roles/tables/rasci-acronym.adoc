@@ -1,0 +1,36 @@
+[cols=",,",options="header",]
+|===
+2+| *RASCI*
+a| *Description*
+
+a| *R*
+a| **R**esponsible
+a|
+Does the work.
+Others can be asked to assist in a supporting role.
+There is just one responsible person for any given task.
+
+a| *A*
+a| **A**ccountable
+
+a|
+Ultimately answerable for the correct and thorough completion of the work.
+There is just one accountable person for any given task.
+
+a| *S*
+a| **S**upports
+a|
+As part of a team, roles with a support function work with the person responsible.
+The support role helps complete the task.
+
+a| *C*
+a| **C**onsulted
+a|
+Those whose opinions are requested and with whom there is two-way communication.
+The consulted role does *not* help complete the task.
+
+a| *I*
+a| **I**nformed
+a|
+Those who are kept informed of progress.
+|===

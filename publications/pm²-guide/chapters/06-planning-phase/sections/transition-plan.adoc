@@ -1,0 +1,45 @@
+=== Transition Plan
+
+The Transition Plan defines the goals, prerequisites, activities and responsibilities associated with transitioning from the old (pre-project) to the new (post-project) state.
+It seeks to minimise the impact of any disruptions on the business during the transition period, and to facilitate the roll-out of project outputs in a smooth and timely fashion, allowing them to be used efficiently and with no serious transition issues.
+
+A successful transition is an important prerequisite for achieving the planned project benefits.
+All transition activities become part of the Project Work Plan and are scheduled and controlled as part of the overall project.
+
+:table-data: tp-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Business Case and Project Charter
+* Project Work Plan
+* Project Change Management Plan
+* Business Implementation Plan
+
+[discrete]
+==== Steps
+[arabic]
+. Identify the roles and responsibilities linked to all aspects of the transition process.
+. Document what must be completed before the transition can start and finish.
+. Determine whether any changes need to be made to the physical (or virtual) environments within which the project outputs will be released.
+. Identify possible business interruptions and ensure that they are communicated to all affected stakeholders in a timely fashion.
+. Determine the coordination.
+. Determine the needs between various stakeholders (e.g. clients, users, etc.).
+. Ensure that operational support and maintenance needs are defined.
+. Define and schedule the transfer of responsibility for the deliverables from the Solution Provider (SP) to the Project Owner (PO)
+. Ensure that a formal announcement of the start and end of the transition is planned.
+. Include all transition activities in the Project Work Plan.
+. Ensure that the Transition Plan is communicated to the relevant project stakeholders.
+
+:table-data: tp-rasci.csv
+include::../tables/rasci.adoc[]
+
+
+.*Fig 6.9* Transition Plan inputs and main roles
+image::06.09.png[]
+
+:table-data: tp-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: tp-outputs.csv
+include::../tables/outputs.adoc[]

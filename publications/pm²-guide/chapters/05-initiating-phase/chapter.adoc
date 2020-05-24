@@ -1,0 +1,11 @@
+include::introduction.adoc[]
+
+include::sections/initiating-meeting.adoc[]
+
+include::sections/project-initiation-request.adoc[]
+
+include::sections/business-case.adoc[]
+
+include::sections/project-charter.adoc[]
+
+include::sections/phase-gate-rfp.adoc[]

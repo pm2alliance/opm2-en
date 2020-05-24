@@ -1,0 +1,80 @@
+=== PM² Programme Management (PM²-PGM)
+
+A programme is a collection of projects aimed towards a common goal which are managed in a coordinated way to obtain benefits and control that could not be obtained from managing them individually.
+
+Programmes may also include work outside the scope of the discrete projects in the programme.
+Programme management is the process of managing these interrelated projects to better achieve the programme’s objectives and benefits.
+
+The programme management layer interacts with the project management layer in that it initiates and coordinates the projects within the programme.
+The programme itself is initiated from the portfolio management layer within the organisation.
+
+.*Fig D.4* Relationships between strategy, project, programme, portfolio and operations
+image::d.04.png[]
+
+==== Programme Lifecycle
+
+A programme has a defined start and end during which all programme activities are performed, and the projects are delivered.
+The PM² programme lifecycle has four phases, which are similar but distinct to the PM² project lifecycle: The Initiating Phase, the Planning Phase, the Executing Phase and the Closing Phase.
+Throughout the whole life of the programme Monitor & Control activities are performed.
+
+The Executing Phase can also contain several Stages, each one being linked to a major achievement in terms of programme outcome, which enables the realisation of the benefits.
+
+The typical programme management activities performed during each phase go hand-in-hand with a number of programme artefacts.
+
+
+.*Fig D.5* The PM² Programme Lifecycle and Artefacts Landscape
+image::d.05.png[]
+
+==== Initiating Phase
+
+The need for a programme and the key stakeholders are identified in the Programme Initiation Request.
+Based on the desired benefits and the estimated costs presented in the Programme Business Case, the programme viability is assessed, and a decision is taken on whether to authorise this programme.
+If the Programme Business Case is accepted, a Programme Charter is created defining the programme objectives, a high-level roadmap and budget, along with the programme organisation.
+During this phase the Programme Logs are also created.
+
+
+==== Planning Phase
+
+The stakeholders are further analysed in the Programme Stakeholder Matrix, which leads to an adapted way of distributing information defined in the Programme Communication Plan.
+The way of working in the programme is documented in the Programme Handbook.
+The programme scope and work is broken down in smaller and more manageable chunks, and grouped in several interrelated projects and programme-level activities.
+This work is scheduled in the Programme Work Plan, which is closely linked to the various Project Initiation Requests framing the projects within the programme.
+During this phase the programme business implementation activities are also planned and documented in the Programme Business Implementation Plan, with a focus on planning necessary organisational changes and on benefits realisation.
+
+
+==== Executing Phase
+
+The planned projects are initiated and coordinated during this phase, producing their output.
+The programme status is regularly reported to management using the Programme Status Report.
+Possible programme (and significant project-scope changes) are documented in the Programme Change Log.
+As the project outputs are delivered, the programme activities related to organisational change are also implemented, facilitating the realisation of programme benefits.
+Finally, when all the projects are completed, and the programme objectives are achieved, the programme can move to the Closing Phase.
+
+
+==== Closing Phase
+
+The Lessons Learned and Post-Programme Recommendations are formulated in the Programme-End Report, facilitating the sustainability of the realised benefits after the programme has ended.
+The programme organisation is disbanded, all resources released, and the programme is closed administratively.
+
+
+==== Monitor & Control
+
+Throughout the programme duration Monitor & Control activities are performed.
+The overall programme performance is monitored, programme-level changes, risks and issues are managed, and any required corrective measures are taken.
+In addition, the programme-level business implementation and benefits realisation activities are also managed.
+As a result of the Monitor & Control activities, the baselined Programme Work Plan and the Programme Business Implementation Plan may be updated as necessary.
+
+[discrete]
+==== Programme Organisation
+
+.*Fig D.6* The PM²-Programme organisation
+image::d.06.png[]
+
+The *Programme Owner (PgO)* is accountable for the programme’s success, whereas the day-to-day management of the programme is delegated to the Programme Manager (PgM), whose focus is to achieve the programme outcomes.
+
+The *Programme Business Manager (PgBM)* represents the Programme Owner (PgO) on a daily basis within the programme and collaborates closely with the Programme Manager (PgM). The focus of this role is to realise the programme benefits, enabled by the programme outcomes.
+
+The *Programme Steering Committee (PgSC)* comprises the Programme Owner (PgO), Programme Business Manager (PgBM) and *Programme Manager (PgM)*. Other expert roles can participate as needed.
+The Programme Steering Committee (PgSC) is responsible for realising the programme’s objectives and benefits.
+
+A programme can also have a temporary *Programme Support Team (PgST)* to provide administrative assistance to the programme and its component projects.

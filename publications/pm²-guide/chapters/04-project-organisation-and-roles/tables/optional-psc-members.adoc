@@ -1,0 +1,39 @@
+[cols=",",options="header",]
+|===
+a| *Roles*
+a| *Description*
+
+a| User Representative (UR)
+a|
+Represents the interests of the project’s users, ensuring that project deliverables are fit-for-purpose.
+
+a| Contractor’s Project Manager (CPM)
+a|
+Responsible for the outsourced parts of the project.
+
+a| Architecture Office (AO)
+a|
+Plays an advisory role on architectural aspects of IT projects.
+
+a| Project Support Office (PSO)
+a|
+Administers Project Steering Committee (PSC) meetings and project documentation.
+Produces consolidated reports for large projects.
+
+a| Project Quality Assurance (PQA)
+a|
+Responsible for quality assurance and auditing.
+
+a| Document Management Officer (DMO)
+a|
+Ensures the coherent implementation of document management roles.
+
+a| Data Protection Coordinator (DPC)
+a|
+Consults and advises on data protection issues.
+
+a| Local Information Security Officer (LISO)
+a|
+Consults and advises on security issues.
+
+|===

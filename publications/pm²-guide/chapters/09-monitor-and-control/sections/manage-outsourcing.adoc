@@ -1,0 +1,38 @@
+=== Manage Outsourcing
+
+The Project Manager (PM) manages the delivery of all products and/or services that have been outsourced.
+This work is undertaken in conjunction with the relevant procurement groups and the Contractor’s Project Manager (CPM) in order to ensure that the contractor effectively manages the outsourced work and delivers according to the time, cost and quality expectations defined in the Outsourcing Plan.
+
+
+:table-data: mo-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Outsourcing Plan
+* Business Case and Project Charter
+* Project Work Plan
+
+[discrete]
+==== Steps
+[arabic]
+. The Project Steering Committee (PSC) ensures that the contractor is chosen according to the organisation’s processes and standards and to the criteria defined for the project.
+. The Project Steering Committee (PSC) ensures that all contracts clearly define the expectations of both parties.
+. The Project Manager (PM) ensures that the working methods detailed in the project’s Outsourcing Plan are applied.
+. The Project Manager (PM) monitors costs and schedules.
+. The Contractor’s Project Manager (CPM) reports on the project’s status and progress to the Project Manager (PM) and, if necessary, the Project Steering Committee (PSC).
+. The Project Manager (PM) manages changes to the outsourced work.
+. The Project Manager (PM) and/or Project Steering Committee (PSC) validate interim and final deliverables and/or milestones based on agreed criteria and as defined in the Outsourcing Plan.
+. The Project Manager (PM) ensures that the required formal approval is received on time and in accordance with organisational standards.
+
+:table-data: mo-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 9.14* Manage Outsourcing inputs/outputs and main roles
+image::09.14.png[]
+
+:table-data: mo-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: mo-outputs.csv
+include::../tables/outputs.adoc[]

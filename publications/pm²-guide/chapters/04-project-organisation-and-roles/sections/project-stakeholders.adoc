@@ -1,0 +1,7 @@
+=== Project Stakeholders
+
+Project stakeholders are people (or groups) who can affect, be affected by, or believe to be affected by the activities carried out during a project’s lifecycle and/or by its output(s) and outcome(s). Stakeholders can be directly involved in a project’s work, members of other internal organisations or external to the organisation (e.g. contractors, suppliers, users or the general public).
+
+The number of stakeholders depends on the complexity and scope of a project.
+However, the more people the project has an impact on, the more likely it is that it will affect people who have some power or influence over the project.
+Given that stakeholders can be useful supporters of the project or may choose to block it, the effective management and involvement of them is crucial for its success.

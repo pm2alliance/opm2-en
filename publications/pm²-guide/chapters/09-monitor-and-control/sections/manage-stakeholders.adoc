@@ -1,0 +1,43 @@
+=== Manage Stakeholders
+
+Managing project stakeholders is a critical project management activity that begins in the Initiating Phase of the project, when project expectations and requirements are identified, and ends in the Closing Phase, when stakeholders’ overall project experience and satisfaction are recorded.
+
+Responsibility for this activity belongs to the Project Manager (PM). However, all members of the Project Steering Committee (PSC) should also be involved, in particular the Business Manager (BM) who should help manage stakeholders on the requestor side (e.g. users).
+
+
+:table-data: ms-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Project Handbook
+* Project Stakeholder Matrix
+* Communications Management Plan
+* Deliverables Acceptance and Transition Plans
+* Business Implementation Plan
+
+[discrete]
+==== Steps
+[arabic]
+. Analyse the expectations, attitudes, level of interest and influence of key project stakeholders.
+Beware of stakeholders who are less than enthusiastic or opposed to the project.
+. Devise communication and management strategies that encourage stakeholders to get involved and contribute.
+. Continually monitor stakeholder reactions or changing attitudes and manage accordingly.
+A one- off analysis exercise is not enough, especially for longer-term and/or complex projects.
+Use the Stakeholders Checklist to identify specific actions to be taken at specific moments in the project.
+. Ensure that any planned stakeholder management activities are time-bound and focused.
+Keep in mind that the contribution/involvement of various stakeholders may be different in each project phase.
+. Align the Communications Management Plan with Stakeholder Management needs, particularly in the areas of project acceptance, transition, and business implementation.
+
+
+:table-data: ms-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 9.5* Manage Stakeholders inputs/outputs and main roles
+image::09.05.png[]
+
+:table-data: ms-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: ms-outputs.csv
+include::../tables/outputs.adoc[]

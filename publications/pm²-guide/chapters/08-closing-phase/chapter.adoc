@@ -1,0 +1,9 @@
+include::introduction.adoc[]
+
+include::sections/project-end-review-meeting.adoc[]
+
+include::sections/lessons-learned-and-post-project-recommendations.adoc[]
+
+include::sections/project-end-report.adoc[]
+
+include::sections/administrative-closure.adoc[]

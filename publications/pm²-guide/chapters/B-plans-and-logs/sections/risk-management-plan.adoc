@@ -1,0 +1,39 @@
+=== Risk Management Plan
+
+The Risk Management Plan defines and documents the Risk Management Process for a project.
+It describes how risks will be identified and assessed, what tools and techniques can be used, what the evaluation scales and tolerances are, the relevant roles and responsibilities, how often risks need to be revisited, etc.
+The Risk Management Plan also defines the risk monitoring and escalation process as well as the structure of the Risk Log, which is used to document and communicate the risks and their response actions.
+
+Risk management brings visibility to risks and accountability as to how they are handled, and ensures that project risks are proactively dealt with and regularly monitored and controlled.
+
+:table-data: rmp-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Business Case and Project Charter
+* Project Handbook
+* Project Work Plan
+
+==== Steps
+[arabic]
+. Check if there is a pre-existing risk management process at the organisational level.
+. Tailor the Risk Management Plan to the project’s needs (e.g. delete/add steps or activities, expand on or change the activities’ description or related responsibilities, etc.). Create it as a standalone document or as a section within the Project Handbook.
+. Ensure that there is no duplication of information contained in other management plans or the Project Handbook (e.g. the escalation procedure).
+. Define the tools and techniques that will be used to identify, assess and monitor risks (e.g. brainstorming, Risks Database, Risk Breakdown Structure, Likelihood-Impact Matrix, Decision Tree Analysis, the Risk Log, etc.).
+. Customise the scales used for assessing risks (i.e. likelihood, impact and overall risk level).
+. Determine (with the involvement of key stakeholders) the project’s risk appetite (the amount of risk that stakeholders are prepared to accept).
+. Decide on how frequently the Risk Log should be reassessed, considering both project and organisational conditions and policies.
+. Specify the escalation and communication procedures for risks that need special attention (i.e. which project stakeholders need to be informed if critical risks are triggered).
+. Identify the applicable risk response strategies both for identified threats and opportunities (i.e. avoid, transfer/share, reduce, accept or exploit, enhance, share and accept respectively).
+. Determine the level of detail with which risk response actions should be described in the Risk Log (e.g. action description, action owner, planned effort, etc.). Note that activities that need considerable effort should be included in the Project Work Plan.
+. Ensure that the risk management process is communicated to the project team and stakeholders.
+
+:table-data: rmp-rasci.csv
+include::../tables/rasci.adoc[]
+
+:table-data: rmp-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: rmp-outputs.csv
+include::../tables/outputs.adoc[]

@@ -1,0 +1,23 @@
+=== RAM (RASCI) — Documenting Responsibility Assignments
+
+The Responsibility Assignment Matrix (RAM) is a way of representing and clarifying the roles and responsibilities for a given activity.
+The RAM is also known as a RASCI table (pronounced rasky), which stands for:
+
+include::../tables/rasci-acronym.adoc[]
+
+Stakeholders should be reminded of their roles and responsibilities during the project.
+This Open PM² guide includes a RAM (RASCI) table for each artefact in the Initiating, Planning and Closing Phases and for each of the activities in the Executing Phase and in Monitor & Control (see Appendix E).
+
+*Example:* The RAM for the Standard PM² roles involved in creating the Business Case document.
+
+include::../tables/rasci-bc-example.adoc[]
+
+[discrete]
+==== Notes:
+
+* *Accountable*: The Project Owner (PO) is accountable (S/he provide adequate resources).
+* *Responsible*: The Business Manager (BM) is responsible for creating the Business Case.
+* *Supports*: The Solution Provider (SP) and the Project Manager (PM) work with the Business Manager (BM) to develop the Business Case.
+The final responsibility, however, lies with the Business Manager (BM).
+* *Consulted*: The Project Steering Committee (PSC) and User Representatives (URs) are consulted.
+* *Informed:* The Appropriate Governance Body (AGB) will be informed about the outputs or status of the task (it will be provided with information).

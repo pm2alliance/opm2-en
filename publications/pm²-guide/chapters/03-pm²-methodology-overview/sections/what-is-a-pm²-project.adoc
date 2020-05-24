@@ -1,0 +1,21 @@
+=== What is a PM² Project
+
+Many PM² best practices can be applied to any type of project or work activity.
+However, to be able to apply the whole PM² Methodology, a project must have certain characteristics.
+
+Thus, a PM² project:
+
+* is (above all) a project (i.e. not operations, not a work activity, not a programme, etc.)
+* has a duration of more than 4–5 weeks and involves more than 2–3 people
+* runs within an organisation and can be subject to internal or external audits
+* requires a clearly defined governance structure and clearly assigned roles and responsibilities
+* requires approval of its budget and scope
+* includes more than just construction/delivery activities
+* includes transition and business implementation activities
+* requires a certain level of documentation, transparency and reporting
+* requires a certain level of control and traceability
+* has a broad base of internal (and external) stakeholders
+* may require the collaboration of several organisations or organisational units
+* contributes to raising the organisation’s project management maturity.
+
+The number of the above characteristics, apparent in a project, drive the tailoring and customization that will have to be applied to the PM2 methodology.

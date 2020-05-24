@@ -1,0 +1,31 @@
+=== Project Steering Committee (PSC)
+
+The Project Steering Committee (PSC) comprises at least the four roles in the Managing and Directing Layers, providing a balanced mix of requestor- and provider-side representatives.
+Other roles can also participate as per the project’s needs.
+
+.*Fig 4.2* The Project Steering Committee (PSC): Permanent and indicative optional roles
+image::04.02.png[]
+
+The Project Steering Committee (PSC) is chaired by the Project Owner (PO) and is the key decision-making and issue-resolution body for the project.
+Any significant decisions that may affect the project or the team’s ability to deliver on the objectives will be escalated to the Project Steering Committee (PSC). Approval of key documents, resolution of important project issues or significant change requests will be discussed and decided upon here.
+
+[discrete]
+==== Responsibilities:
+
+* Champions the project and raises awareness of it at a senior level.
+* Guides and promotes the successful execution of the project at a strategic level, keeping the project focused on its objectives.
+* Ensures adherence to the organisation’s policies and rules (e.g. IT governance, data protection, information security, document management, etc.).
+* Provides high-level monitoring and control of the project.
+* Authorises transition between Phases unless this is performed by the Appropriate Governance Body (AGB).
+* Authorises deviations and scope changes with a high project impact and has the final say on decisions.
+* Deals with escalated issues and conflicts.
+* Drives and manages organisational change related to the project’s outcomes.
+* Approves and signs off key management milestone artefacts (i.e. Project Charter, Project Work Plan).
+
+[discrete]
+==== Optional Project Steering Committee (PSC) members:
+
+People with other roles can also participate in the Project Steering Committee (PSC) as per the project’s needs.
+Some indicative roles are listed in the table below.
+
+include::../tables/optional-psc-members.adoc[]

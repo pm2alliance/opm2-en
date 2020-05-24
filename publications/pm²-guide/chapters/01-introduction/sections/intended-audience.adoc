@@ -1,0 +1,14 @@
+=== Intended Audience
+
+* Entry-level Project Managers (PMs) and project teams wishing to learn more about project management and the PM² Methodology.
+* Experienced Project Managers (PMs) and team members who wish to learn more about the PM² Methodology.
+* Project teams that wish to start using the PM² Methodology in their projects.
+
+This guide can be read from beginning to end, to learn about the methodology, or it can be used as a reference, to help you as you practise PM².
+
+*It provides:*
+
+* A common vocabulary (glossary) which makes it easier for project teams to communicate and apply project management concepts.
+* Best practices—it is up to the Project Managers (PMs) and project teams to choose the PM² practices that will bring most value to their projects.
+* A link to the Agile PM² and PM² Project Portfolio Management models.
+* Links to PM² resources (online resources, Artefact templates and examples).

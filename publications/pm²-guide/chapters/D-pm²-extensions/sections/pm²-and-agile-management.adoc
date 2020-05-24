@@ -1,0 +1,31 @@
+=== PM² and Agile Management
+
+PM² recognises the complex and uncertain nature of many types of projects and the positive contribution of the _Agile way of thinking_ to their effective management.
+
+Agile approaches face various challenges, which grow with the size of the organisations in which they are applied.
+In the case of many organisations, these challenges include coordination between Agile and non- Agile teams, compliance with various organisational governance and audit requirements, and organisational architecture and interoperability constraints.
+
+.*Fig D.1* From project phases to daily cycles
+image::d.01.png[]
+
+The Agile extension to PM² incorporates Agile into the overall PM² framework and creates the foundations for moving towards increased project management and organisational agility.
+It helps project teams achieve the desired level of agility while accommodating tight procurement and audit requirements, coordination with the programme and portfolio levels, and collaboration with other projects, contractors, other organisational units and even external organisations.
+
+[discrete]
+==== The Agile extension to PM² provides (for IT projects):
+
+* Agile roles & responsibilities (as an extension to the PM² governance).
+* integration with the overall PM² project lifecycle.
+* a set of suggested Agile PM² Artefacts (as an extension to the PM² Artefacts).
+
+
+.*Fig D.2* The positioning of Agile PM² within an organisation
+image::d.02.png[]
+
+Documenting the work planned and performed by the Agile teams is critical to increasing transparency and coordination between the different layers of the PM² project organisation (i.e. between the Directing, Managing and Performing layers).
+
+A set of artefacts supports the use of Agile PM². These artefacts capture and document information related to the management approach, to specific (implementation) activities, milestones, issues and progress reporting.
+These artefacts are grouped in three categories: Agile-Specific Artefacts, Coordination & Reporting Artefacts, and Project Governance Artefacts.
+
+.*Fig D.3* Agile PM² Artefacts Landscape
+image::d.03.png[]

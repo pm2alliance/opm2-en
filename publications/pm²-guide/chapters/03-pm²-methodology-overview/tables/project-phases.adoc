@@ -1,0 +1,29 @@
+[cols=",",options="header",]
+|===
+a| *Project Phase*
+a| *Description*
+
+a| *1. Initiating*
+a|
+Define the desired outcomes.
+Create a Business Case.
+Define the project scope.
+Get the project off to a good start.
+
+a| *2. Planning*
+a|
+Assign the Project Core Team (PCT). Elaborate the project scope.
+Plan the work.
+
+a| *3. Executing*
+a|
+Coordinate the execution of project plans.
+Produce deliverables.
+
+a| *4. Closing*
+a|
+Coordinate formal acceptance of the project.
+Report on project performance.
+Capture Lessons Learned and post-project recommendations.
+Close the project administratively.
+|===

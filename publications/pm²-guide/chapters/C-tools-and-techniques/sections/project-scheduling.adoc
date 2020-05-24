@@ -1,0 +1,8 @@
+=== Project Scheduling
+
+Project Scheduling aims to identify dependencies between tasks, to assign resources for each task, to identify task start and end dates, and to work out the overall project duration.
+
+Scheduling can be done for the entire project upfront or for portions thereof, such as individual stages or iterations.
+Different scheduling methods and representations can be used: a list of dates/deadlines, a milestone plan, bar charts, network diagrams and linked bar charts (Gantt charts), all of which can be seen complementary to each other.
+
+Once approved, the project schedule is baselined and any further change to the schedule needs to follow the change management process and the corresponding governance arrangements.

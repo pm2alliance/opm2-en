@@ -1,0 +1,13 @@
+=== Stakeholder Interest/Influence Matrix (SIIM)
+
+This technique is used to facilitate and document the analysis of the interest and influence of each stakeholder in the project.
+It is of utmost importance to know the stakeholders and their relevance for the project in order to identify project champions and possible detractors.
+As the document makes reference to people within your organisation, care should be used to keep the information confidential.
+
+*Interest* indicates the level of interest a stakeholder has for the project.
+Interest is measured as the degree of enthusiasm displayed by the stakeholder in support of the project.
+Stakeholders can be positive, neutral or negative towards the project.
+
+*Influence* indicates the power the stakeholder has over the planning and implementation of activities.
+The higher a stakeholder’s power of decision, the higher their influence.
+Most often the person(s) who can make decisions on project funding and/or resources has a high influence.

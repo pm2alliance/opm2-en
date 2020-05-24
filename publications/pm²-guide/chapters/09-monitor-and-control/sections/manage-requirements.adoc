@@ -1,0 +1,55 @@
+=== Manage Requirements
+
+Requirements management is the process of gathering, documenting and validating requirements and managing their implementation and change.
+It is a process that runs throughout the project lifecycle and relates to other project management processes, such as quality and change management.
+
+The Requirements Management Process can be tailored and customised to a project’s needs.
+It can be documented either in a Requirements Management Plan or in the Project Handbook.
+Separate requirements documents are used to specify, categorise and prioritise the requirements.
+These can be standalone documents or an annex to the Project Charter.
+
+:table-data: mrq-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Project Initiation Request, Business Case and Project Charter
+* Requirements Management Plan
+* Project Stakeholder Matrix
+
+[discrete]
+==== Guidelines
+* A requirement is a capability that a product or service must have in order to satisfy a stakeholder’s need(s).
+* High-level requirements may also be referred to as business requirements, and are usually initially specified in the Project Initiation Request, the Business Case and the Project Charter.
+* Adding further detail to the requirements produces lower-level requirements.
+These can be described in a variety of formats (e.g. text, use cases or user stories, models, business processes, sketches or graphics, etc.) and are documented in various requirements artefacts.
+* The agreed and approved requirements of all stakeholders constitute the project’s baseline scope.
+* Any change to the baselined requirements should be made in accordance with the change management process described in the Change Management Plan.
+* For each identified requirement, there should be a corresponding test to validate its acceptance.
+The test should be documented in the appropriate document (Deliverable Acceptance Plan, Deliverable Acceptance Checklist or Quality Review Checklist).
+* Requirements should describe the need not the solution—non-ambiguous terms should be used and technology- or solution-oriented statements should be avoided.
+* Even if requirements have been gathered before the project starts, it is still the responsibility of the Project Manager (PM) to ensure they are managed properly.
+
+[discrete]
+==== Steps
+[arabic]
+. *Specify the requirements:* Together with the project stakeholders, gather the project requirements and document them clearly in the Requirements Artefacts.
+Structure them by adding relevant metadata.
+. *Evaluate the requirements:* The project team assesses the feasibility, consistency and completeness of the requirements, and estimates the effort/costs needed to implement them.
+The Project Manager (PM) balances the list of requirements against project constraints (budget, time, etc.) and makes a proposal to the project stakeholders.
+. *Approve the requirements:* The Project Manager (PM) and key stakeholders—such as the Project Owner (PO) or Business Manager (BM)—negotiate and agree on the requirements for the project.
+. *Monitor the implementation of requirements:* The Project Manager (PM) continuously monitors the Project Core Team’s (PCT) implementation of the requirements, adds new requirements and changes existing ones when needed.
+. *Validate the implemented requirements:* When the requirements are implemented, User Representatives (URs) assess if the solution satisfies the initial business need.
+Formal acceptance of the project deliverables should comply with the Deliverables Acceptance process.
+
+:table-data: mrq-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 9.6* Manage Requirements inputs/outputs and main roles
+image::09.06.png[]
+
+:table-data: mrq-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: mrq-outputs.csv
+include::../tables/outputs.adoc[]

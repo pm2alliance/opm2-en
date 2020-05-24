@@ -1,0 +1,8 @@
+[[apdx-c]]
+== Project Management Tools & Techniques
+
+This section introduces a number of commonly used Project Management Tools & Techniques useful for dealing with various project management challenges.
+Each Tool & Technique is summarised in a few paragraphs providing a simple and high-level overview of that tool or technique.
+
+Note that the set of tools presented is not an exhaustive list of Project Management Tools & Techniques available.
+Relevant sources for further reading and exploration are also presented at the end of this section.

@@ -1,0 +1,79 @@
+=== Project Work Plan
+
+The Project Work Plan further elaborates the project scope and identifies and organises the project work and deliverables needed to achieve the project goals.
+It establishes a basis on which to estimate the project’s duration, calculate the required resources, and schedule the work.
+Once the tasks are scheduled, the Project Work Plan is used as a basis for monitoring progress and controlling the project.
+The Project Work Plan should be baselined but also kept up-to-date during the life of the project and capture all project related work as identified during planning phase or emerged during the executing phase (e.g. risks, issues, corrective actions etc.)
+
+:table-data: pwp-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Business Case and Project Charter
+
+[discrete]
+==== Steps
+The Project Work Plan is composed of three parts:
+[arabic]
+. Develop the *Work Breakdown:* This provides a hierarchical breakdown (subdivision) of all the work that must be done to meet the needs of the customer.
+Outlining the tasks enables an estimation of their effort and cost requirements.
+. Develop the *Effort & Cost Estimates*: This outlines expectations of the resources needed and the time required to complete each project task, within the constraints of resource availability and capabilities.
+The effort and duration estimates are used to create the project schedule and budget.
+. Develop the *Project Schedule:* This identifies dependencies between tasks, pinpointing their start and end dates, which is then used to establish the overall project duration.
+
+:table-data: pwp-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 6.6* Project Work Plan inputs and main roles
+image::06.06.png[]
+
+:table-data: pwp-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: pwp-outputs.csv
+include::../tables/outputs.adoc[]
+
+==== Work Breakdown
+
+The objective of this section of the Project Work Plan is to break the project down into smaller and more manageable components such as deliverables, work packages, activities and tasks.
+The breakdown has multiple levels, each with progressively more detailed deliverables and work.
+Taken together, these define the project output(s) and the work involved in producing them (see Appendix C).
+
+[discrete]
+===== Inputs
+* Business Case and Project Charter
+* Project Requirements
+
+[discrete]
+===== Outputs
+* Work Breakdown (part of the Project Work Plan)
+
+==== Effort & Cost Estimates
+
+The objective of this section of the Project Work Plan is to estimate the effort needed for each project task identified in the Work Breakdown based on resource availability and capabilities.
+After a task is assigned to a resource (or to a resource profile) it also becomes possible to calculate its cost.
+The estimates will be an input for the creation of the schedule (see Appendix C).
+
+[discrete]
+===== Inputs
+* Project Work Plan (Work Breakdown)
+
+[discrete]
+===== Outputs
+* Effort & Cost Estimates (part of the Project Work Plan)
+
+==== Project Schedule
+
+The objective of this section of the Project Work Plan is to document the dependencies between tasks, pinpoint their start and end dates, and work out the overall project duration.
+Detailed scheduling can be done for the entire project upfront, or alternatively, worked out (in adequate detail) only for some early parts of the Executing Phase, and then progressively developed in full detail.
+The Project Manager (PM) uses the schedule to authorise, coordinate and accept project work, and to monitor overall progress (see Appendix C).
+
+[discrete]
+===== Inputs
+* Project Charter
+* Project Work Plan (Work Breakdown, Effort & Cost Estimates)
+
+[discrete]
+===== Outputs
+* Project Schedule (part of the Project Work Plan)

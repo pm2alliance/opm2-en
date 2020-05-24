@@ -1,0 +1,9 @@
+=== Phase Gate: RfE (Ready for Executing)
+
+This is the second phase gate.
+A review and approval are recommended before the project can formally move to the next phase.
+The Project Manager (PM) uses the outputs of the Planning Phase to assess whether the goals of this phase have been achieved, and then requests approval from the Project Steering Committee (PSC) to move on to the Executing Phase.
+
+If major deviations from the approved Business Case and/or Project Charter are identified, then the Project Steering Committee (PSC) must receive an additional approval from the Appropriate Governance Body (AGB) before the project can move on to the Executing Phase.
+
+PM² provides a template Phase Exit Review Checklist for each phase that can be used by the Project Manager (PM) to guide the assessment, alongside a review of the phase’s specific goals.

@@ -1,0 +1,31 @@
+[cols=",",options="header",]
+|===
+a| *People Competences*
+a| *Perspective Competences*
+
+a|
+* Self-reflection and self-management
+* Personal integrity and reliability
+* Personal communication
+* Relationships and engagement
+* Leadership
+* Teamwork
+* Conflict and crisis management
+* Resourcefulness
+* Negotiation
+* Results orientation
+
+a|
+* Strategy
+* Governance, structures and processes
+* Compliance, standards and regulations
+* Power and interest
+* Change and transformation
+* Culture and values
+
+{zwsp} +
+{zwsp} +
+{zwsp} +
+[.text-right]
+_Source: IPMA-ICB (adapted)_
+|===

@@ -1,0 +1,32 @@
+=== Useful Online Resources
+
+The Centre of Excellence in PM² (CoEPM²) provides a central location for downloading all Open PM² information, publications, etc.
+To study PM² in more detail you can download and review the free PM² Methodology Guide and document templates, and explore the online resources:
+
+[discrete]
+==== The PM² Guide (PDF)
+You can download the PDF version of this overview document in multiple languages, as well as the full PM² Methodology Guide – Open Edition from the EU Bookshop.
+
+* PM² Methodology Guide – Open Edition: http://europa.eu/!UR34mB[[.underline]#http://europa.eu/!UR34mB#]
+
+[discrete]
+==== Open PM² Wiki
+The Open PM² Wiki details the PM² [Open Edition] approach and provides one central place for information on the Open PM² Methodology.
+To gain access to the wiki, you need to have a personal EU Login.
+If you do not have an EU Login, please create one when requested.
+
+* Open PM² Wiki: https://webgate.ec.europa.eu/fpfis/wikis/display/openPM2/[https://webgate.ec.europa.eu/fpfis/wikis/display/openPM2/]
+* Open PM² Templates: https://webgate.ec.europa.eu/fpfis/wikis/display/openPM2/Artefacts[https://webgate.ec.europa.eu/fpfis/wikis/display/openPM2/Artefacts]
+
+[discrete]
+==== Open PM² Support
+Join the Open PM² Community on Join-up: https://joinup.ec.europa.eu/collection/open-pm2-project-management-methodology[https://joinup.ec.europa.eu/collection/open-pm2-project-management-methodology]
+
+* Discuss specific project management issues, ask questions and share experiences.
+* Learn about PM², the PM² Artefacts and processes.
+* Receive support to help you start using PM².
+* Tap into the knowledge of more experienced PM² Practitioners.
+* Receive guidance in rolling out PM² in your organisation.
+* Provide feedback and share your own experience of using PM².
+
+*To register to our Mailing List:* [.underline]#https://ec.europa.eu/eusurvey/runner/openpm2-contact#

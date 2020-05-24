@@ -1,0 +1,55 @@
+=== Deliverables Acceptance Plan
+
+Deliverables acceptance planning aims to increase the likelihood that deliverables will be accepted by the client side and that the resources involved in the acceptance will be used in an efficient way.
+
+The Deliverables Acceptance Plan documents the agreed criteria and approach for deliverables acceptance.
+It also documents the relevant responsibilities, including all activities and effort required, as well as the timing and capability requirements for this so that the project’s deliverable(s) can be formally accepted by the client based on objective criteria and predefined timelines.
+
+:table-data: dap-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Project Charter and Requirements Documents
+* Project Handbook
+* Project Work Plan
+* Requirements Management Plan
+* Quality Management Plan
+
+[discrete]
+==== Guidelines
+* Ensure that there is no duplication of information contained in other plans (the Requirements Management Plan, Quality Management Plan, etc.). Align the deliverables acceptance process with the requirements validation activities as well as with other testing and quality control activities.
+* Ensure that all project deliverables are accounted for including any support material (user manuals, etc.).
+* Note that deliverables acceptance activities may not happen (only) at the end of the Executing Phase, but can follow the project’s delivery schedule.
+* Include the deliverables acceptance activities (and resources required) in the Project Work Plan.
+* The guidelines set out in the Deliverables Acceptance Plan template can be used to help tailor a deliverables acceptance process for any given project.
+
+[discrete]
+==== Steps
+[arabic]
+. Define the overall acceptance approach and schedule, as well as the tools to be used.
+. Define the acceptance criteria and tolerances for the project deliverables and define the activities needed to achieve their validation.
+. Define the process and timeline for dealing with non-acceptance (or partial acceptance).
+. Define the level of formality of the acceptance process (e.g. whether a signed Deliverables Acceptance Note is required, etc.).
+. Define clear roles and responsibilities for the acceptance of each deliverable:
+    * Determine who is responsible for the activities leading up to the acceptance of the deliverable.
+    * Determine who is responsible for providing the necessary resources.
+    * Identify the stakeholders who will validate the deliverable and define the specific knowledge and skills they require.
+    * Identify the person/group responsible for the final acceptance of the deliverable.
+. Tailor the Deliverables Acceptance Checklist based on the acceptance activities defined.
+. In the case of outsourced work, the Deliverable Acceptance Process should be documented in the contract.
+. Ensure that the Deliverables Acceptance Plan is communicated to the relevant project stakeholders
+
+:table-data: dap-rasci.csv
+include::../tables/rasci.adoc[]
+
+
+.*Fig 6.8:* Deliverables Acceptance Plan inputs and main roles
+image::06.08.png[]
+
+
+:table-data: dap-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: dap-outputs.csv
+include::../tables/outputs.adoc[]

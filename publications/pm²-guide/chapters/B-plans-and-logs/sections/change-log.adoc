@@ -1,0 +1,88 @@
+=== Change Log
+
+[cols=","]
+|===
+2+h| *Change Identification and Description*
+
+| ID |
+The change identifier.
+
+| Category |
+Categorises the change.
+
+| Title |
+A short title for the requested change.
+
+| Description |
+A more detailed description of the requested change and the impact of not implementing the change.
+
+| Status |
+The status of the change can be any of the following:
+
+*Submitted:* This is the initial status.
+Use this while the requested change is still being specified.
+
+*Assessing:* Use this status to initiate an assessment.
+
+*Waiting for approval:* Use this to initiate approval.
+Before applying this status, ensure that the investigation is complete, and the estimates shown are correct.
+
+*Approved:* This status is set once the change has been approved, as proposed, or modified
+
+*Rejected*: This status is set if the change was rejected.
+
+*Postponed:* This status is set if the change is postponed indefinitely. *Merged:* This status indicates that the change has been merged into some other change, so it is no longer being actively handled.
+Merging is common when there are many changes.
+
+*Implemented:* This status indicates that the work implementing this change has been incorporated into the Project Work Plan.
+
+| Requested by |
+The name of the person requesting the change.
+
+| Date Identified (or Submission Date) |
+The initial submission date of the change request.
+
+2+h| *Change Assessment and Action Description*
+
+| Action Details (effort & responsible) |
+Description of the recommended action, including steps, deliverables, timescale, resources and effort involved.
+
+| Size |
+The effort required to implement the change.
+The possible values are:
+
+*5=Very high, 4=High, 3=Medium, 2=Low, 1=Very low*
+
+| Priority |
+A numerical value denoting the agreed priority of the change.
+The possible values are:
+
+*5=Very high, 4=High, 3=Medium, 2=Low, 1=Very low*
+
+| Target Delivery Date |
+
+The target date for the change to be delivered.
+
+2+h| *Change Approval*
+
+| Escalation |
+Escalation to the Directing or Steering layer is needed? (*Yes* or *No*).
+
+| Decision |
+The decision taken.
+
+| Decided by |
+Person or committee that denied or approved the change.
+
+| Decision Date |
+Date on which the decision was made.
+
+2+h|*Change Implementation*
+
+| Actual Delivery Date |
+The date on which the change was actually delivered.
+
+| Traceability and Comments |
+The ID(s) of the tasks (in the Project Work Plan) that implement the change, and/or the IDs of related issues, risks or decisions.
+Also include any additional information/comments related to the change.
+|===

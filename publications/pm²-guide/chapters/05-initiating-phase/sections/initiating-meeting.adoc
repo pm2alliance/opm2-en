@@ -1,0 +1,7 @@
+=== Initiating Meeting
+
+This is an informal meeting, usually between the project initiator and the Project Owner (PO), and others who could potentially contribute to the creation of the Initiating Phase documents.
+The goal of this meeting is to introduce any pre-project information and discuss the next steps.
+
+The result of this meeting is a better understanding of the context of the (future) project, as well as a decision to move forward with the creation of the Project Initiation Request.
+Documentation and lessons learned from previous similar projects can also be used as input to this meeting.

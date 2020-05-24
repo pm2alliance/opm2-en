@@ -1,0 +1,34 @@
+[cols=",",options="header",]
+|===
+a| *Key Phase Input/Output*
+a| *Description*
+
+a| *Project Initiation Request*
+a|
+Formalises the commitment to explore a problem, need or opportunity further and captures the context.
+
+a| *Business Case*
+a|
+Captures the reasoning behind the project, provides justification and establishes the budgetary constraints.
+
+a| *Project Charter*
+a|
+Builds on the Business Case and defines the project scope, high-level requirements and deliverables.
+
+a| *Project Handbook*
+a|
+Presents the project management objectives and overall management approach.
+Documents the roles & responsibilities.
+
+a| *Project Work Plan*
+a|
+Includes a breakdown of the work to be carried out, estimates of the effort and costs involved, and the project schedule.
+
+a| *Project Deliverables*
+a|
+Lists the complete set of project deliverables as defined in the Project Charter and Project Work Plan.
+
+a| *Project-End Report*
+a|
+Summarises the project experience, project performance and Lessons Learned (successful project practices and potential pitfalls).
+|===

@@ -1,0 +1,16 @@
+[[ch05]]
+== Initiating Phase
+
+The first phase of a PM² project is the Initiating Phase.
+It begins with the identification of a need, problem or opportunity, and ends with the establishment of the plans and processes needed to take the project forward.
+Proper project initiation is critical for successful project planning and execution.
+It involves defining project objectives and constraints, and receiving formal organisational sponsorship for the project.
+
+.*Fig 5.1* Initiating Phase activities and main outputs
+image::05.01.png[]
+
+Three key project artefacts are created during the Initiating Phase: the Project Initiation Request, the Business Case and the Project Charter.
+Some of the Project Logs are also set up (i.e. Risk Log, Issue Log, Decision Log) while the Change Log is typically set up during the Planning Phase.
+
+.*Fig 5.2* Initiating Phase artefacts
+image::05.02.png[]

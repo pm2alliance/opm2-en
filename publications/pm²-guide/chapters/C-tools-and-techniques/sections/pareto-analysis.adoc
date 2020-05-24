@@ -1,0 +1,6 @@
+=== Pareto Analysis
+
+The Pareto Analysis is a formal technique to identify those issues that cause the majority of problems in a project.
+The Pareto principle states that generally 80% of the effects come from 20% of the causes (e.g. 80% of costs may be attributed to 20% of activities or 80% of risk effects may arise from just 20% of identified risks).
+
+By focusing on these top issues (the 20%), the Pareto Analysis can be useful for risk or quality management as it helps to focus on those risks or quality issues with the highest impact on a project, therefore facilitating the prioritisation of necessary mitigation or contingency actions.

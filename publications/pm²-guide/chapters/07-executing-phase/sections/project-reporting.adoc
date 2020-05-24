@@ -1,0 +1,88 @@
+=== Project Reporting
+
+The purpose of Project Reports is to communicate consolidated information concerning project performance to the appropriate stakeholders.
+Project reports typically provide information on scope, schedule, effort/cost and quality, as well as information related to the status of risks, issues, project changes and outsourcing.
+This information should be presented to the various stakeholders in the appropriate form (e.g. text or charts) and with the appropriate level of detail, as defined in the Communications Management Plan.
+
+Project Reports may also contain agreed project indicators and metrics for evaluating progress.
+The reports are formally presented and discussed during the various project meetings, and disseminated via the information distribution activities described in the Communications Management Plan.
+
+:table-data: pr-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Project Handbook
+* Project Work Plan
+* Communications Management Plan
+* Project Logs
+* Project Checklists
+* Outputs of the Monitor Project Performance activity
+
+[discrete]
+==== Guidelines
+* Project Reports are an output of project monitoring and an important input for project control and decision-making.
+They also input into the Project-End Review and are an important way of capturing historical information.
+They should therefore be properly archived during the Closing Phase.
+* Project Reports should be tailored to the project’s needs, given that they exist to serve the information and communication needs of the project stakeholders.
+
+[discrete]
+==== Steps
+[arabic]
+. List all reports to be used in the project in the Project Handbook, or more specifically in the Communications Management Plan.
+PM² provides templates for Status and Progress Reports.
+. Make sure the report templates used are fit for purpose.
+. Ensure the reports’ content, level of detail and format are well thought out and appropriate for the intended audience (stakeholders).
+. If needed, create Ad Hoc reports to address specific reporting needs (e.g. in case of a project crisis).
+
+:table-data: pr-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 7.6* Project Reporting inputs and main roles.
+image::07.06.png[]
+
+The following are examples of PM² reports:
+
+* Project Status Report
+* Project Progress Report
+* Quality Review Report
+* Contractor Status Report
+* Custom or Ad Hoc Reports
+
+[discrete]
+==== Project Status Report
+The Project Status Report is produced by the Project Manager (PM) and is regularly submitted to the Project Steering Committee (PSC) and other stakeholders as per the Communications Management Plan.
+
+It should provide a summary of the project’s performance (rather than detailed task-level information). It should include tracking information on costs, scheduling, scope/changes, risks and issues, report on the status of important milestones for the current reporting period and provide forecasts for future reporting periods.
+
+[discrete]
+==== Project Progress Report
+The Project Progress Report gives a high-level overview of the project and its status.
+It includes a project overview (project stakeholders, milestones and deliverables, project plan, budget and costs) and additional project details (scope changes, major risks/issues and actions taken, achievements).
+
+If a project is a multi-annual project and its overall vision/scope has not changed, the Project Progress Report can be used to secure project approval for the following year.
+However, if the project’s vision/scope has changed, an updated Project Charter should be submitted.
+
+[discrete]
+==== Quality Review Report
+The Project Manager (PM) produces a Quality Review Report after evaluating the results of quality- assurance activities and the effectiveness of the project’s quality-management process for all aspects of the project (scope, time, cost, quality, project organisation, communication, risks, contracts, client satisfaction, etc.).
+
+The Quality Review Report should give an overview of the status of all project quality-management activities and present the main quality assurance and control results, non-conformities, opportunities for improvement, recommendations and remediation/improvement actions, and their impact and status.
+It should also report on the status of important project configuration activities (assurance and control). The main input to the Quality Review Report is the Quality Review Checklist.
+
+[discrete]
+==== Contractor Status Report
+The Contractor Status Report is filled out by the contractor (if there is one) and should be submitted to the Project Manager (PM) in accordance with the agreed schedule.
+The report presents the project status for the current reporting period and provides forecasts for future reporting periods along with information on any new risks, disputes and issues.
+The Project Manager (PM) should include a summary/highlights of the Contractor Status Reports in the Project Status Report.
+
+[discrete]
+==== Custom or Ad Hoc Reports
+Reports should serve the project’s needs.
+If it is decided that a custom report is needed, this should be defined during the Planning Phase and documented in the Project Handbook.
+Custom reports can be domain-specific (e.g. IT-related) or project-specific (i.e. related to the particularities of the project organisation or the project management approach).
+
+Similarly, if a specific communication/reporting need arises during the project, an Ad Hoc Report can be produced to address this need.
+
+:table-data: pr-outputs.csv
+include::../tables/outputs.adoc[]

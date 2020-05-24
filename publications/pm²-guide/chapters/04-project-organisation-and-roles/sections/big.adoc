@@ -1,0 +1,31 @@
+=== Business Implementation Group (BIG)
+
+The Business Implementation Group (BIG) sits on the requestor side and consists of representatives of business and user groups.
+Coordinated by the Business Manager (BM), it is responsible for planning and implementing the business changes that need to be made for the organisation to effectively integrate the project deliverables into its everyday work.
+
+[discrete]
+==== Responsibilities:
+
+* Analyses the impact of the project’s implementation on ongoing operations, existing business processes, staff and organisational culture.
+* Participates in the design and updating of affected business processes.
+* Prepares the affected business area for the upcoming change.
+* Advises the Business Manager (BM) on the organisation’s readiness for change.
+* Embeds the project deliverables into business operations and implements the organisational change activities that fall within the project’s scope.
+
+[discrete]
+==== User Representatives (URs)
+
+User Representatives (URs) represent the interests of the project’s end-users and are part of the Business Implementation Group (BIG). It is important to designate User Representatives (URs) and involve them throughout the project, keep them up to date with developments and provide them with a sense of ownership.
+User Representatives (URs) help define project requirements and validate them at regular intervals, ensuring that the final deliverables are fit for the business purpose.
+
+[discrete]
+==== Responsibilities:
+
+* Help define the business needs and requirements.
+* Ensure that the project specifications and deliverables meet the needs of all users.
+* Review the project specification and acceptance criteria on behalf of the users.
+* Communicate and prioritise user opinions in the Project Steering Committee (PSC) and ensure that these opinions are taken into consideration when decisions are made whether or not to implement a proposed change.
+* Participate in demonstrations and pilot phases as needed.
+* Perform user acceptance tests.
+* Sign off on user-related documents (requirements document, deliverable acceptance testing, etc.).
+* Guarantee business stability during the transition towards the new operational state.

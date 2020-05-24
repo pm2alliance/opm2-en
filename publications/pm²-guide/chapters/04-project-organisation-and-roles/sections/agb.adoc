@@ -1,0 +1,14 @@
+=== Appropriate Governance Body (AGB)
+
+The Appropriate Governance Body (AGB) is the entity responsible for the strategic planning and portfolio management.
+In terms of projects, this is the body with the authority to approve a project, agree its stated objective and release the funding required to implement it.
+As a key decision-making body, this group comprises members from the requestor and provider side of the project.
+
+[discrete]
+==== Responsibilities:
+
+* Defines the corporate and business domain strategy.
+* Agrees to and implements a portfolio management framework to achieve the strategic objectives.
+* Identifies, evaluates and authorises programmes and projects for implementation.
+* Monitors and controls portfolio delivery performance.
+* Optimises and manages portfolio resources and benefits.

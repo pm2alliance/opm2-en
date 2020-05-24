@@ -1,0 +1,62 @@
+=== Getting Started with PM² - Quick Start Tips
+
+The purpose of this quick start guide is to help you get started with applying PM². Naturally, you will want to start by learning more about the PM² Methodology and review the available PM² material.
+Keep in mind, however, that you don’t have to become an expert before you can start applying the basics of PM² in your projects.
+All you need is a brief introduction to the PM² Methodology and then you can continue by following the six Quick Start steps:
+
+[grid="none",frame="none",stripes="none",cols="2,^.^",width="100%"]
+|===
+a|
+[arabic]
+. *Define the Project Governance and Create a Business Case*
+* Set up the Project Steering Committee (PSC).
+* Provide the justification for the project, capture the business requirements and establish its budgetary constraints.
+a|
+image:e.02.01.png[]
+
+a|
+[arabic,start=2]
+. *Identify stakeholders and create the Project Charter*
+* Define the project scope.
+* Identify the stakeholders who should contribute to the Project Charter.
+* Capture the high-level requirements, assumptions and constraints.
+* Decide on a project approach and estimate required resources, costs and timing.
+a|
+image:e.02.02.png[]
+
+a|
+[arabic,start=3]
+. *Set up the Project Logs*
+* Set up the Risk Log, Issue Log, Decision Log and Change Log.
+These will be used to document the management of risks, issues and changes to project scope.
+a|
+image:e.02.03.png[]
+
+a|
+[arabic,start=4]
+. *Kick-off the Project Planning with a Meeting*
+* Invite all necessary participants to the planning meeting.
+* Go over the Project Charter and ensure a common understanding.
+* Communicate the next steps for the planning of the project.
+a|
+image:e.02.04.png[]
+
+a|
+[arabic,start=5]
+. *Tailor the Project Management approach*
+* Decide which planning documents to use and how they should be tailored.
+* Define rules, assign team responsibilities and define a conflict-resolution process.
+* Identify all stakeholders who require information during the project.
+a|
+image:e.02.05.png[]
+
+a|
+[arabic,start=6]
+. *Create the Project Work Plan*
+* Break down the work that needs to be done into smaller and more manageable pieces (create the Work Breakdown).
+* Estimate the effort and cost for each piece of work.
+* Establish the detailed budgetary and resource requirements.
+* Create a work schedule (identify dependencies, assign resources and dates).
+a|
+image:e.02.06.png[]
+|===

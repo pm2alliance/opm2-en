@@ -1,0 +1,7 @@
+[arabic, start=3]
+. In addition, the following people served as project team members and contributed to the evolution of the PM² Methodology, provided text, concepts and expert knowledge, carried out reviews and assisted in developing the PM² Methodology and the PM² Guide:
+
+[%autowidth.stretch,grid="none",frame="none",stripes=none,format="csv",options="noheader"]
+|===
+include::../table-data/team-members-and-contributors.csv[]
+|===

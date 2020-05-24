@@ -1,0 +1,7 @@
+[discrete]
+=== OPEN PM² WORK GROUP MEMBERS:
+
+[%autowidth.stretch,grid="none",frame="none",stripes=none,format="csv",options="noheader"]
+|===
+include::../table-data/open-pm2-work-group-members.csv[]
+|===

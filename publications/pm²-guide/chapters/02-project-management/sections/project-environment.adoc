@@ -1,0 +1,87 @@
+=== Project Environment
+
+==== Project Organisation
+
+It would be convenient to assume that all PM² Project Managers (PMs) operate within their organisations in a homogenous environment and with consistent levels of authority and responsibility.
+This is generally not the case, however.
+
+There are typically several ways of organising projects within an organisation, which utilise one of the following structures or a combination of them.
+
+===== The Functional Structure
+
+In a functional organisational structure, project work is integrated into the work performed by the permanent organisation.
+Project members and other resources are ‘borrowed’ from multiple sections of the functional organisation.
+The Project Manager (PM) tends to have limited authority and needs to involve senior management in the management of important project issues.
+Project work is often viewed as having lower priority than everyday work.
+
+===== The Projectised Structure
+
+On the other end of the spectrum, in a projectised organisation, there is only a basic permanent (functional) hierarchy, and all work is organised and performed within temporary project organisations.
+Project resources are brought together specifically for the purpose of a project and work more or less exclusively for the project.
+At the end of the project, resources are either reassigned to another project or returned to a resource pool.
+
+===== The Matrix Structure
+
+A matrix organisation is a blended organisational structure.
+Additional temporary project organisations are created alongside the functional hierarchy to achieve specific project goals and work.
+The role of the Project Manager (PM) is recognised as central and key to the project’s success, and the Project Steering Committee (PSC) typically delegates enough authority and responsibility to the Project Manager (PM) and the Business Manager (BM) for them to manage the project and its resources.
+Matrix organisations can be further categorised as weak, balanced and strong matrix organisations, the difference being the level of authority and autonomy given to the project organisation.
+
+
+==== Developing Project Management Competences
+
+Project management involves much more than creating schedules and budgets, and Project Managers (PMs) must have a wide range of technical and behavioural skills at their disposal.
+
+To develop the competences required to manage projects effectively.
+Project Managers (PMs) need to:
+
+* understand how projects are handled within the organisation (talk to colleagues)
+* review any project methodologies, standards and frameworks that exist in the organisation
+* follow a project management course (e.g. a course offered by a recognised PM2 training provider)
+* reflect on their project management—what is successful, what could be improved?
+* become an active member of the PM² Community—participate in forum discussions and learn from questions asked by other Project Managers (PMs)
+* talk to more experienced Project Managers (PMs) about how they run their projects.
+
+
+It is up to the Project Manager (PM) to acquire these skills and invest in their project management skills set.
+Project management knowledge comes from study and practice, from discussing, sharing experiences and reflecting on what went well and what can be improved.
+
+.*Fig 2.5* What Project Managers (PMs) need to understand.
+image::02.05.png[]
+
+==== Project Management Competences
+
+Project Managers (PMs) need to:
+
+* understand the project management methodology used in their organisation (e.g. PM²)
+* have the technical competences required to effectively manage the initiation, planning, execution, control and closing of a project.
+
+On top of this, the role requires skills to work effectively with people and within the broader organisational context.
+These include the contextual and behavioural skills necessary to manage complex projects with diverse teams and stakeholder groups that have pluralistic and conflicting priorities.
+
+Project Managers (PMs) thus also need to know/understand:
+
+* how to communicate, lead, motivate, negotiate, solve problems and deal with issues, conduct meetings and workshops, report project status, etc
+* the business context and the general project environment (i.e. sociocultural, political, physical, etc.)
+* organisational policies and standards (e.g. security, organisational architecture, audits, etc.)
+* how the end-product or service will be maintained after it is delivered.
+
+Additionally, subject-specific knowledge (e.g. IT, policy, etc.) is often relevant and useful to a Project Manager’s (PM) role.
+
+Most, if not all, of the above-mentioned points are also required of Business Managers (BM).
+
+The table below lists the main competences for Projects Managers (PMs) and Business Managers (BMs):
+
+include::../tables/people-perspective-competences.adoc[]
+
+The above competences may not necessarily be independent and each can have an impact on others.
+However, the filter that determines what is more important (e.g. self or common interest, time or quality, results or balance, etc.) lies in our values and ethics.
+Therefore, competences related to the appreciation of values and ethics have a prominent position compared to the rest because it is our ethical profile that guides us on how we should apply our competencies, and determines what we consider good or bad, right or wrong, in any given situation, decision and action.
+
+Note that Project Managers (PMs) and Business Managers (BMs) should demonstrate these competencies effectively, consistently and appropriately to the given situation, while remaining aligned with organisational and professional values and ethics.
+The aim is to achieve the project goals by making (and acting on) the right decisions, at the right time, in the right way and for the right reasons.
+This can be a challenge for Project Managers (PMs), who often face tensions between making decisions based on goals and values, and meeting the needs of various stakeholders.
+
+Such decisions and tensions become easier to manage when Project Managers (PMs) have developed an ethical disposition, which involves the balancing of goals and skills, personal integrity and moral virtue.
+
+Although all virtues (logical and moral) affect all competences, the virtues of judgment, prudence and insightfulness are (comparatively) more related to demonstrating the perspective competencies, while the moral virtues of honesty, fairness, friendliness, generosity, temperance, courage, humour, and magnanimity and magnificence, are (comparatively) more related to demonstrating people competences (see Appendix F).

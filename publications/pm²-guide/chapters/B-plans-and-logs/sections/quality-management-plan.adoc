@@ -1,0 +1,70 @@
+=== Quality Management Plan
+
+The Quality Management Plan defines and documents the project’s quality requirements, the quality management approach, process and responsibilities.
+It also outlines the quality assurance and control activities undertaken throughout the project.
+
+Planning and executing quality assurance and control activities may be seen as a significant investment of time and effort, and therefore the desired balance between the planned quality, cost, time and risk should be carefully evaluated and considered.
+Appropriate quality metrics should be defined and later used to evaluate the project management quality.
+All quality-related activities should be well designed and planned.
+
+A configuration management procedure is also documented in the Quality Management Plan.
+Configuration management helps project teams handle project artefacts and deliverables effectively (i.e. to ensure that the correct versions are delivered, to prevent unauthorised changes and to provide artefact traceability).
+
+:table-data: qmp-participants.csv
+include::../tables/participants.adoc[]
+
+
+[discrete]
+==== Inputs
+
+* Project Charter
+* Project Handbook
+* Project Work Plan
+
+[discrete]
+==== Steps
+[arabic]
+. Check if there is a pre-existing quality management process at the organisational level.
+. Tailor the Quality Management Plan to the project’s needs.
+Create it as a standalone document or as a section within the Project Handbook.
+. Determine the quality management objectives and characteristics by reviewing project deliverables, success criteria, approach and other specific requirements (e.g. security requirements) as described in the Project Charter and Project Handbook.
+. Ensure that there is no duplication of information contained in other management plans or the Project Handbook (e.g. the escalation procedure).
+. Define approval criteria for phase exit reviews or for other key project management milestones.
+. Define all artefacts, and the tools and techniques that will be used for quality planning and quality assurance and control (e.g. the Quality Review Checklist).
+. Determine the quality assurance and control activities and define their frequency and timetable.
+Additionally, design metrics and acceptance tolerances for evaluating these activities.
+. Determine if a Project Quality Assurance (PQA) role (or other independent entity) is required to carry out quality assurance activities.
+. Define the roles and responsibilities for the quality process and ensure that these roles are agreed by and communicated to all stakeholders involved.
+. Review the quality characteristics with relevant stakeholders.
+Ask them to suggest quality assurance and control activities specifically for the project.
+. Define the quality and configuration procedures and records which show that quality and configuration management activities have been carried out as planned.
+. Tailor the Quality Review Checklist based on the quality control activities defined for the project.
+. Ensure that quality assurance and control activities are traceable back to specific work activities in the Project Work Plan.
+. Ensure that the document’s reviewers and approver are clearly identified.
+. Present the planned activities and timetable to the Project Steering Committee (PSC) for approval.
+. Communicate the approved plan to the project team and relevant stakeholders.
+
+[discrete]
+==== Guidelines (specific for configuration management)
+
+* Review the configuration management process set out in the Quality Management Plan and tailor it to the project’s needs (e.g. delete or add steps or activities, expand on or change the activities’ description, related responsibilities, etc.).
+* Define what will be considered to be a configuration item based on project deliverables and artefacts, and identify the attributes of such items.
+* Identify who is responsible for changes to the configuration items and for maintaining and controlling their versions and releases.
+* Define the artefacts and the tools and techniques that will be used to manage the configuration items.
+* Depending on the project’s complexity, a configuration management log can be used to control changes to the configuration items.
+* Describe the naming conventions to be used in project documentation, folders and emails.
+* Define the structure of project folders and the procedures and rights related to reviewing, changing or updating any project artefacts.
+Ensure that restricted access and confidentiality rules are correctly implemented.
+* Define any procedures related to creating copies of project data, retention periods, storage devices and sanitisation/deletion of data (if required).
+* Ensure that the configuration management procedure is communicated to the project team.
+* Key information on configuration management may also be summarised in the Project Handbook.
+
+
+:table-data: qmp-rasci.csv
+include::../tables/rasci.adoc[]
+
+:table-data: qmp-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: qmp-outputs.csv
+include::../tables/outputs.adoc[]

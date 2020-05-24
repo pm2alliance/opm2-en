@@ -1,0 +1,65 @@
+=== Planning Kick-off Meeting
+
+The Planning Phase starts with an official Planning Kick-off Meeting, the aim of which is to:
+
+* ensure that everyone understands the project scope
+* clarify the expectations of all key project stakeholders
+* identify project risks
+* discuss the project plans.
+
+At this early stage, past experiences, and especially Lessons Learned from previous similar projects, will significantly help the project team.
+
+This Planning Kick-off Meeting should be planned and run effectively as it is critical that the project goals are well understood.
+PM² provides templates for the Meeting Agenda and the Minutes of Meeting (MoM).
+
+:table-data: pkom-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Business Case
+* Project Charter
+
+[discrete]
+==== Steps
+Before the Planning Kick-off Meeting:
+[arabic]
+. Plan the meeting.
+. Draft the Meeting Agenda clearly indicating the points to be discussed.
+. Send out the Meeting Agenda in advance.
+. Ensure the attendance of required participants.
+. Address any logistical needs and prepare documentation or hand-outs for the meeting.
+
+During the Planning Kick-off Meeting:
+[arabic]
+. Introduce the meeting participants.
+. Ensure a minute-taker is identified to make notes identifying action items.
+These will be compiled and sent to participants after the meeting.
+. Walk the participants through the Project Charter so they understand the project scope.
+. Outline the goals, expectations and activities of the Planning Phase and discuss the planning timeline.
+. Describe and discuss the project roles and responsibilities.
+. Discuss the project timeline.
+. Discuss the overall approach to the project.
+This discussion can be a brainstorming session within the limits set by the Project Charter.
+. Discuss the project plans needed for the project.
+The final set of required project plans will be documented in the Project Handbook.
+. Discuss risks, constraints and assumptions.
+. Discuss or present any project supporting tools (with input from the Project Support Office, PSO).
+. Allow time for any other business (questions & answers).
+. Summarise the discussion (decisions, actions and risks).
+. Communicate the next steps.
+
+After the Planning Kick-off Meeting:
+[arabic]
+. Distribute the Minutes of Meeting (MoM) to the appropriate stakeholders (as identified in the Project Charter) as soon as possible (within two business days is considered as a best practice).
+. The Minutes of Meeting (MoM) should include a summary of project issues raised, risks identified, decisions taken and changes proposed.
+Note that the issues, risks, decisions and project changes should also be recorded in the relevant logs.
+
+:table-data: pkom-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 6.3* Planning Kick-off Meeting inputs/outputs and main roles
+image::06.03.png[]
+
+:table-data: pkom-outputs.csv
+include::../tables/outputs.adoc[]

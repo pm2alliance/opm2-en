@@ -1,0 +1,9 @@
+[appendix]
+
+include::introduction.adoc[]
+
+include::sections/pm²-artefacts-and-activities-summary-tables-and-diagrams.adoc[]
+
+include::sections/getting-started-with-pm²-quick-start-tips.adoc[]
+
+include::sections/useful-online-resources.adoc[]

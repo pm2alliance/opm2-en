@@ -1,0 +1,18 @@
+=== Project Manager (PM)
+
+The Project Manager (PM) oversees the project on a daily basis and is responsible for delivering high- quality results within the identified objectives and constraints, ensuring the effective use of the allocated resources.
+More widely, the Project Manager’s (PM) responsibility also includes risk and issue management, project communication and stakeholder management.
+
+[discrete]
+==== Responsibilities:
+
+* Executes the project plans as approved by the Project Steering Committee (PSC).
+* Coordinates the Project Core Team (PCT), ensuring the effective use of the allocated resources.
+* Ensures that project objectives are achieved within the identified constraints, taking preventive or corrective measures where necessary.
+* Manages stakeholder expectations.
+* Oversees the creation of all management artefacts (except the Project Initiation Request, Business Case and Business Implementation Plan) and secures approval from the Project Owner (PO) or the Project Steering Committee (PSC).
+* Ensures the controlled evolution, of products delivered, through proper change management.
+* Performs risk management activities for project-related risks.
+* Monitors project status and reports to the Project Steering Committee (PSC) on project progress at regular predefined intervals.
+* Escalates unresolvable project issues to the Project Steering Committee (PSC).
+* Liaises between the Directing and Performing Layers of the project.

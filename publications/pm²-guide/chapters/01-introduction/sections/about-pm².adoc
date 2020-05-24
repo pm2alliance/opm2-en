@@ -1,0 +1,28 @@
+=== About the PM² Methodology
+PM² is a Project Management Methodology developed by the European Commission.
+Its purpose is to enable Project Managers (PMs) to deliver solutions and benefits to their organisations by effectively managing the entire lifecycle of their project.
+PM² has been created with the needs of European Union Institutions and projects in mind, but is transferrable to projects in any organisation.
+
+PM² is a light and easy-to-implement methodology which project teams can tailor to their specific needs.
+PM² is fully supported by a comprehensive training programme (including workshops and coaching sessions), online documentation and an active Community of Practice (currently only available within the European Commission and to a number of affiliate European Institutions).
+
+PM² incorporates elements from a wide range of globally accepted project management best practices, captured in standards and methodologies.
+Its development has also been influenced by operational experience on various projects both within European Union Institutions and external bodies.
+
+*The PM² Methodology provides:*
+
+* a project governance structure
+* process guidelines
+* artefact templates
+* guidelines for using the artefacts
+* a set of effective mindsets
+
+*PM² improves the effectiveness of project management by:*
+
+* improving communication and the dissemination of information
+* clarifying expectations as early as possible in the project lifecycle
+* defining the project lifecycle (from Initiating to Closing)
+* providing guidelines for project planning
+* introducing monitor and control activities
+* proposing management activities and outputs (plans, meetings, decisions)
+* providing a link to agile practices (Agile PM²)

@@ -1,0 +1,11 @@
+=== Three-Point Estimates
+
+The Three-Point Estimate is commonly used, in conjunctions with Network Diagrams, to provide a weighted average of activity duration or cost.
+It is primarily a quantitative risk assessment technique that makes use of a stochastic approach rather than a deterministic one (e.g. single point estimates). The expected duration/cost and standard deviation of a project’s duration or cost is calculated based on three data points, namely an optimistic estimate of duration or cost, a most likely estimate and a pessimistic estimate.
+These estimates are then weighed to provide a weighted average of the effort, cost or duration.
+
+In addition, these estimates can be used to calculate a standard deviation, to estimate confidence levels of the weighted average per activity, and to build simple statistical models of a task’s time and cost.
+This method can be applied to forecast and mitigate risk and to assign buffers/contingencies to tasks.
+Nowadays, numerous Project Management Software, can perform automated calculation of the above through modelling and simulation (e.g. by using the Beta-PERT distribution).
+
+Involving experts increases the accuracy of the three-point estimates and reduces the degree of uncertainty of the project.

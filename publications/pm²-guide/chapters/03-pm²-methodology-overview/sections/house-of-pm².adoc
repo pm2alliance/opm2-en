@@ -1,0 +1,14 @@
+=== The House of PM²
+
+The PM² Methodology is built on Project Management best practices and is supported by four pillars:
+
+[arabic]
+. a project governance model (i.e. Roles & Responsibilities)
+. a project lifecycle (i.e. Project Phases)
+. a set of processes (i.e. project management activities)
+. a set of project Artefacts (i.e. documentation templates and guidelines).
+
+.*Fig 3.1* The House of PM²
+image::03.01.png[]
+
+The spirit of the PM² Methodology is further defined by the PM² Mindsets, which provide the glue that holds together the PM² practices and provide a common set of beliefs and values for PM² project teams.

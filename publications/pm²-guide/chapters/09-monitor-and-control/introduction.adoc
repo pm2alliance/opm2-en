@@ -1,0 +1,36 @@
+[[ch09]]
+== Monitor & Control
+
+Monitor & Control activities run throughout the duration of the project, but peak during the Executing Phase.
+All project management processes are executed as part of the Monitor & Control process group.
+
+The Monitor & Control activities are carried out based on the processes described in the Project Management Plans developed during the Planning Phase.
+The effective execution of these processes is ultimately the responsibility of the Project Manager (PM).
+
+=== Manage
+* Execute all management processes defined in the Project Management Plans, and manage the outsourcing, transition, business implementation and deliverables acceptance activities as per the relevant Project Specific Plans.
+
+=== Monitor
+* Monitor project activities and overall project performance.
+* Track the project performance against the baseline in order to facilitate reporting and controlling.
+
+=== Control
+* Devise, plan, propose and implement corrective actions to address existing or potential performance risks or issues, while updating the relevant project plans and logs.
+
+.*Fig 9.1* Monitor & Control activities and main artefacts
+image::09.01.png[width=597,height=136]
+
+Monitor & Control artefacts comprise the Project Work Plan as well as a range of Project Logs and Checklists.
+
+The *Project Logs* are regularly updated as new information becomes available (e.g. new issues can arise and new information can be added to the Issue Log).
+
+There are several *Checklists* that can be used to help the Project Manager (PM) control the project better.
+
+*PM² provides the following Checklists:*
+
+* Phase-exit Review Checklist
+* Quality Review Checklist
+* Deliverables Acceptance Checklist
+* Transition Checklist
+* Stakeholders Checklist
+* Business Implementation Checklist

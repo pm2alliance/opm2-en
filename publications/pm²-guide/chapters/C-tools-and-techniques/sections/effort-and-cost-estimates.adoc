@@ -1,0 +1,7 @@
+=== Effort and Cost Estimates
+
+The Effort and Cost Estimates technique derives from the Work Breakdown Structure (WBS): each work item (task) is estimated in terms of effort and cost.
+Effort is typically measured in person days or person months.
+This work is done in close cooperation with the task owners or other experts within the Project Core Team (PCT), to ensure more precise estimates and buy-in from the team members in charge of executing the work.
+
+A high-quality Work Breakdown Structure (WBS) forms the basis for high-quality estimates.

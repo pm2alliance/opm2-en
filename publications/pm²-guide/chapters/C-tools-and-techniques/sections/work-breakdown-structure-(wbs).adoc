@@ -1,0 +1,8 @@
+=== Work Breakdown Structure (WBS)
+
+A Work Breakdown Structure (WBS) is a hierarchical division of the project into smaller work components that can be used to assign work or to estimate effort and cost.
+A well-made Work Breakdown Structure (WBS) should be easy to understand, be complete, and should facilitate progress monitoring during execution.
+Commonly used techniques include breaking down the project by phases or stages, deliverables or outputs, by work packages, or based on the organisation, its departments and business units.
+
+The Work Breakdown Structure (WBS) constitutes a good basis for the Project Manager (PM) in assigning different responsibilities to team members.
+Each task in the structure can then be further defined: work can be estimated, risks and dependencies can be identified, and resources can be mobilised.

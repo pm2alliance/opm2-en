@@ -1,0 +1,10 @@
+=== Lessons Learned
+
+Capturing Lessons Learned is a way of identifying areas for development/improvement within a project for the purpose of helping similar projects avoid certain pitfalls in the future.
+Information that can be captured includes Lessons Learned from the management of risks, quality issues, outsourcing or contractor issues, change requests, etc.
+
+The project team can capture ideas through brainstorming sessions, reviewing project reports and logs, sending project questionnaires, etc., during the lifecycle of the project.
+The Project Manager (PM) will group and prioritise Lessons Learned in order to understand key potential improvement areas.
+
+To avoid making the same mistakes twice, Lessons Learned should be shared with other project managers.
+In some cases, Lessons Learned can lead to process improvements, enhanced checklists and templates, or more effective training courses.

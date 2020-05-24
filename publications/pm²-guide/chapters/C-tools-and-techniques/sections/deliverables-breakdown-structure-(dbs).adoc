@@ -1,0 +1,10 @@
+=== Deliverables Breakdown Structure (DBS)
+
+A Deliverables Breakdown Structure (DBS) is an essential part of Product Based Planning.
+It can be used to identify and document the deliverables of a project (both project deliverables and project management deliverables) and their interdependencies.
+This results in a hierarchical tree of deliverables and sub- deliverables (physical, functional or conceptual) that make up the entire project, which helps the project team to identify the full set of deliverables that comprise the project.
+
+A Deliverables Breakdown Structure (DBS) is similar to a Work Breakdown Structure (WBS) but is used at a different step in the planning process.
+The former can precede the latter and identifies the desired outputs (deliverables) which are then used in the creation of the Work Breakdown Structure (WBS)—identification of tasks and activities required to deliver these outputs.
+
+You could say that the Deliverables Breakdown Structure (DBS) defines what the project will produce (as a whole and as parts), and the Work Breakdown Structure (WBS) defines the work needed to produce them.

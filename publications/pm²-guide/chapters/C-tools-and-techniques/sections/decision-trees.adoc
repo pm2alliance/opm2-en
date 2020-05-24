@@ -1,0 +1,7 @@
+=== Decision Trees
+
+The decision tree is a visual decision support tool, consisting of nodes and branches that helps us describe possible alternatives (paths) by representing choices, and events with different likelihood of occurrence.
+It uses three types of nodes: (a) Decision nodes (represented by squares) (b) Chance nodes (represented by circles) and (c) End nodes (represented by triangles).
+
+In decision tree analysis (primarily being performed during project risk management), the decision tree is principally used in conjunction with the Expected Monetary Value (EMV) where we compute the EMV of each alternative (branch) and thus select the most favourable one.
+The decision tree analysis can also be performed by creating a stochastically determined structure and then simulate the outcomes (e.g. through Monte Carlo simulation), in order to derive to probability-based decisions.

@@ -1,0 +1,29 @@
+=== PM² and Agile Management
+
+PM² recognises the complex and uncertain nature of many types of project and the positive contribution of the Agile way of thinking to their effective management.
+
+Agile approaches meet various challenges, which often grow with the size of the organisations in which they are applied.
+These challenges may include coordination between Agile and non-Agile teams, compliance with various organisational governance and audit requirements, and organisational architecture and interoperability constraints.
+
+[Discrete]
+==== What is Agile?
+
+Agile is an approach to managing projects based on a specific set of principles and practices, which promote adaptive planning, evolutionary development, early incremental delivery and continuous improvement.
+It encourages rapid and flexible responses to change.
+
+Agile takes into account the inherent uncertainty of the project environment and creates an organisation that is highly adaptive.
+It uses short feedback loops to allow for rapid responses to changes in product requirements and for ongoing improvements to processes.
+
+Agile’s key characteristics are:
+
+* a focus on delivering value early on and frequently throughout a project
+* decisions made based on what is known
+* close cooperation among all parties involved
+* continuous stakeholder involvement at all levels
+* involving team members in planning
+* incremental development with short cycles
+* scope management through the continuous (re)prioritisation of tasks
+* embracing change, continuous learning and improvement
+* just enough documentation and control.
+
+PM² provides a structure that helps Agile teams achieve the desired agility while still accommodating tight procurement and audit requirements, good coordination with programme and portfolio levels, and collaboration with other projects, contractors, other organisational units and external organisations (see Appendix D).

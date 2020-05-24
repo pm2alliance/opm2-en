@@ -1,0 +1,3 @@
+[[ch02]]
+== Project Management
+This section introduces basic project management concepts and provides the context for a better understanding of the PM² Methodology.

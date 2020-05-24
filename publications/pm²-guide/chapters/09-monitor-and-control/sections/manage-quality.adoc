@@ -1,0 +1,41 @@
+=== Manage Quality
+
+Project quality management aims to ensure that the project will achieve the expected results in the most efficient way and that deliverables will be accepted by the relevant stakeholders.
+It involves overseeing all the activities needed to maintain a desired level of excellence.
+This includes performing quality planning, quality assurance, quality control and quality improvement throughout the project until the Closing Phase and the final acceptance of the project.
+Configuration management helps project stakeholders manage project artefacts and deliverables effectively by providing a single reliable reference to these artefacts and deliverables, thereby ensuring that the correct versions are delivered to the project requestor/client.
+
+The Project Manager (PM) must ensure that the objectives, approach, requirements, activities, metrics and responsibilities of the quality management process are clearly defined and documented in the Quality Management Plan.
+
+:table-data: mq-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Project Handbook
+* Project Work Plan
+* Quality Management Plan
+* Deliverables Acceptance Plan
+
+[discrete]
+==== Steps
+[arabic]
+. Define and reach agreement on project quality characteristics that take into consideration project needs, constraints and the cost of quality, following a cost/benefit analysis.
+. Plan and perform quality assurance and control activities.
+. Verify that the configuration management procedure is being followed.
+. Actively involve the whole project team and relevant stakeholders.
+. Identify any non-conformity, analyse the root cause, and implement corrective actions.
+. Identify opportunities to improve the quality of both the process and the deliverables.
+. Ensure deliverables are accepted by the relevant stakeholders in line with predefined and documented deliverables acceptance criteria and the agreed acceptance process.
+
+:table-data: mq-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 9.10* Manage Quality inputs/outputs and main roles
+image::09.10.png[]
+
+:table-data: mq-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: mq-outputs.csv
+include::../tables/outputs.adoc[]

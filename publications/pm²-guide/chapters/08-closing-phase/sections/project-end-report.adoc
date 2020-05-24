@@ -1,0 +1,47 @@
+=== Project-End Report
+
+Following the Project-End Review Meeting, the overall experience of the project is summarised in a report that documents best practices, Lessons Learned, pitfalls and solutions to problems.
+The report should be used as a knowledge base for future projects.
+
+:table-data: per-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Project-End Review Meeting Minutes (MoM)
+* Other useful information can be found in:
+** Minutes of Meetings (MoMs) of various project meetings
+** Project Reports
+** Quality Assurance and Quality Control outputs
+
+[discrete]
+==== Guidelines
+* Though written by the Project Manager (PM), the help of relevant stakeholders should be sought to produce a well-rounded and comprehensive assessment of the project.
+* The report should address each of the following subjects:
+** Project effectiveness.
+** Cost, Schedule, Scope and Quality Management.
+** Risk Management.
+** Issue Management.
+** Project Change Management.
+** Communications Management.
+** Human resources and stakeholder management.
+** Deliverables Acceptance.
+** Business Implementation and Project Transition.
+** The performance of the Project Core Team (PCT) and participating organisation.
+** Best Practices and Lessons Learned.
+** Post-Project Recommendations.
+* This document should be part of a central project repository or knowledge database describing project experiences, best practices and common pitfalls.
+
+:table-data: per-rasci.csv
+include::../tables/rasci.adoc[]
+
+
+.*Fig 8.4* Project-End Report inputs and main roles
+image::08.04.png[]
+
+
+:table-data: per-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: per-outputs.csv
+include::../tables/outputs.adoc[]

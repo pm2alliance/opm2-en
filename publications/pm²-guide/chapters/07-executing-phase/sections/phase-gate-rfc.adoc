@@ -1,0 +1,10 @@
+=== Phase Gate: RfC (Ready for Closing)
+
+This is the third and final phase gate.
+A review and approval are recommended before the project can move to the next phase.
+The Project Manager (PM) assesses whether all the goals of the Executing Phase have been achieved, verifies that all planned activities have been carried out, that all requirements have been met, and that the project’s outputs have been fully delivered.
+The Project Manager (PM) is also responsible for ensuring that the Project Owner (PO) accepts the deliverables (at least provisionally), finalises the transition and makes the outputs available to the end-users.
+
+Once all the above conditions have been met, the Project Steering Committee (PSC) can authorise the Project Manager (PM) to move the project to the Closing Phase.
+
+PM² provides a template Phase Exit Review Checklist for each phase that can be used by the Project Manager (PM) to guide the assessment, alongside a review of the phase’s specific goals.

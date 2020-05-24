@@ -1,0 +1,40 @@
+=== Control Schedule
+
+The purpose of schedule control is to ensure that project tasks are carried out as scheduled and that project deadlines are met.
+The Project Manager (PM) regularly monitors the schedule and tracks the difference between planned, actual and forecast activities/deadlines.
+
+Approved project changes (e.g. addition of new tasks or changes to the required effort or start/end dates of existing ones) that have an impact on the overall project schedule are incorporated into the Project Work Plan (updated schedule). If the schedule is at risk or considerable delays are foreseen (beyond the predefined thresholds), the Project Steering Committee (PSC) needs to be informed and corrective actions must be devised, agreed and implemented.
+If this happens, affected project stakeholders should also be notified.
+
+:table-data: cs-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Project Handbook
+* Project Work Plan
+* Change Log (and other relevant Project Logs)
+* Minutes of Meetings (MoMs) and Project Reports from previous reporting periods
+
+[discrete]
+==== Steps
+[arabic]
+. Track the evolution of project tasks as defined in the Project Handbook.
+. Update the project schedule to reflect actual task status.
+. Review the Project Work Plan on a regular basis to identify potential sources of delays.
+. Track project changes, issues and risks, and monitor their impact on the project schedule.
+. Devise, agree and implement corrective actions if the schedule status has significant (or critical) deviations from the planned schedule.
+. Inform all affected project stakeholders about changes to the project schedule and/or tasks.
+
+:table-data: cs-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 9.3* Control Schedule inputs/outputs and main roles
+image::09.03.png[]
+
+
+:table-data: cs-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: cs-outputs.csv
+include::../tables/outputs.adoc[]

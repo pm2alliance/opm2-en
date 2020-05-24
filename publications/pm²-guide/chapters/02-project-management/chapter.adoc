@@ -1,0 +1,7 @@
+include::introduction.adoc[]
+
+include::sections/about-projects.adoc[]
+
+include::sections/about-project-management.adoc[]
+
+include::sections/project-environment.adoc[]

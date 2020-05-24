@@ -1,0 +1,10 @@
+The European Commission is grateful to all those who have contributed in the development of the PM² Project Management Methodology and wishes to acknowledge their contribution and support.
+In alphabetical order:
+
+[arabic]
+. The following people provided leadership and sponsorship for the PM² and Open PM² initiatives:
+
+[%autowidth.stretch,grid="none",frame="none",stripes=none,format="csv",options="noheader"]
+|===
+include::../table-data/leaders-and-sponsors.csv[]
+|===

@@ -1,0 +1,34 @@
+=== Quality Assurance
+
+Quality Assurance is the activity of gathering evidence that proves the project work is following high-quality standards, methodologies and best practices.
+It seeks to allow us to be confident that the project will satisfy the desired scope and quality requirements within the project constraints.
+
+Quality Assurance activities include determining whether appropriate project controls are in place, confirming that they are being implemented and assessing their effectiveness.
+
+Quality Assurance activities are documented in the Quality Management Plan.
+These can be performed by the Project Manager (PM), the Project Quality Assurance (PQA) role, or other project roles such as the Project Core Team (PCT), the Business Manager (BM) or the Solution Provider (SP). External audits undertaken by entities outside the project can also be defined.
+
+:table-data: qa-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Quality Management Plan
+* Project Work Plan
+
+[discrete]
+==== Guidelines
+* These Quality Assurance activities must be part of the Project Work Plan.
+* The Project Core Team (PCT) must provide evidence of adherence to the quality assurance standards and procedures.
+
+:table-data: qa-rasci.csv
+include::../tables/rasci.adoc[]
+
+.*Fig 7.5* Quality Assurance inputs/outputs and main roles
+image::07.05.png[]
+
+:table-data: qa-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: qa-outputs.csv
+include::../tables/outputs.adoc[]

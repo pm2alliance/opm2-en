@@ -1,0 +1,56 @@
+= PM² Project Management Methodology Guide 3.0
+:doctype: book
+:docinfo:
+:toc: macro
+:toc-title: Table of Contents
+:toclevels: 3
+:pagenums:
+:imagesdir: ./pm²-guide/figures/raster/
+:front-cover-image: image::pm²-guide-cover.png[,width=1050,height=1600]
+:icons: font
+:appendix-caption: Appendix
+:sectnums:
+:sectnumlevels: 3
+:figure-caption!:
+:chapter-label:
+:copyright: EUPL 1.2
+
+include::pm²-guide/cover.adoc[]
+
+include::pm²-guide/copyright.adoc[]
+
+include::pm²-guide/title.adoc[]
+
+include::pm²-guide/toc.adoc[]
+
+include::pm²-guide/chapters/01-introduction/chapter.adoc[]
+
+include::pm²-guide/chapters/02-project-management/chapter.adoc[]
+
+include::pm²-guide/chapters/03-pm²-methodology-overview/chapter.adoc[]
+
+include::pm²-guide/chapters/04-project-organisation-and-roles/chapter.adoc[]
+
+include::pm²-guide/chapters/05-initiating-phase/chapter.adoc[]
+
+include::pm²-guide/chapters/06-planning-phase/chapter.adoc[]
+
+include::pm²-guide/chapters/07-executing-phase/chapter.adoc[]
+
+include::pm²-guide/chapters/08-closing-phase/chapter.adoc[]
+
+include::pm²-guide/chapters/09-monitor-and-control/chapter.adoc[]
+
+include::pm²-guide/chapters/A-contributions-and-acknowledgements/chapter.adoc[]
+
+include::pm²-guide/chapters/B-plans-and-logs/chapter.adoc[]
+
+include::pm²-guide/chapters/C-tools-and-techniques/chapter.adoc[]
+
+include::pm²-guide/chapters/D-pm²-extensions/chapter.adoc[]
+
+include::pm²-guide/chapters/E-additional-resources/chapter.adoc[]
+
+include::pm²-guide/chapters/F-ethics-and-conduct/chapter.adoc[]
+
+include::pm²-guide/chapters/G-glossary/chapter.adoc[]

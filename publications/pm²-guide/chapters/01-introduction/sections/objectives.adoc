@@ -1,0 +1,3 @@
+=== Objectives
+This guide sets out to provide an introduction to the PM² Project Management Methodology.
+It has been kept as lean as possible, while still providing enough information to allow for an effective understanding of the PM² Methodology as practitioners start to use it.

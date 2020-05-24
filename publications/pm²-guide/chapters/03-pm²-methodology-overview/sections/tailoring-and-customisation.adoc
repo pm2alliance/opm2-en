@@ -1,0 +1,20 @@
+=== Tailoring and Customisation
+
+To ensure that the PM² Methodology effectively serves an organisation’s and a project’s needs, some level  of tailoring or/and customisation may be required.
+
+Tailoring refers to changing specific parts of the methodology, such as process steps, the content of artefacts, the distribution of responsibilities amongst the various roles, etc.
+Organisations do this to adapt the methodology to the specific needs of their structure and culture, and to align the methodology to organisational processes, policies, etc.
+
+Tailoring makes more sense at the organisation/departmental level, but some tailoring can also take place at the project level, based, for instance, on the complexity, size or type of a project.
+In addition to any tailoring, further customisation may also be required at the project level to reflect the project’s specific management needs.
+Examples of such customisations are the definition of decision thresholds for escalation, risk tolerances based on the risk appetite of the stakeholders, etc.
+
+All tailoring and customisations should be documented in the Project Handbook.
+
+The following guidelines should be considered when tailoring or customising the PM² Methodology:
+
+* First, understand the purpose and value of the methodology element to be tailored, and then proceed with its tailoring.
+* Avoid simplifying the methodology by eliminating whole chunks (e.g. a phase, a role, an activity or an artefact), but rather scale down (or up) the scope of that element.
+* Balance the level of control a project needs against the extra effort such control requires.
+* Eliminate waste (lean approach) but remain aligned with the spirit of the PM² Methodology as this is reflected by its four pillars and mindsets.
+* Remember that the methodology was designed as an integrated whole, so avoid unnecessary deviations.

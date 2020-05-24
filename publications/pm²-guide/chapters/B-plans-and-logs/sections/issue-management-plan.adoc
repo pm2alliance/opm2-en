@@ -1,0 +1,46 @@
+=== Issue Management Plan
+
+The Issue Management Plan defines and documents the activities, roles and responsibilities related to identifying, assessing, assigning, resolving and controlling project issues.
+Issues are defined as unplanned project-related events that require a project management action.
+
+The issue management process helps the Project Manager (PM) to assess and act upon issues that have a potential impact on project scope, time, cost, quality, risk or stakeholder satisfaction.
+Related decisions can be logged in a Decision Log, which brings visibility to decisions and accountability as to how and by whom they are taken, and to whom they should be communicated.
+
+An Issue Log is used to document the identification, evaluation and assignment of issues and to trace all key decisions and planned actions.
+It also helps keep track of who is responsible for solving specific issues by a certain deadline.
+It brings visibility and accountability as to how issues are acted upon, and ensures that they are properly managed and resolved.
+
+:table-data: imp-participants.csv
+include::../tables/participants.adoc[]
+
+[discrete]
+==== Inputs
+* Project Charter
+* Project Handbook
+* Project Work Plan
+
+[discrete]
+==== Steps
+[arabic]
+. Check if there is a pre-existing issue management process at the organisational level.
+. Tailor the Issue Management Plan to the project’s needs.
+Create it as a standalone document or as a section within the Project Handbook.
+. Ensure that there is no duplication of information contained in other management plans or the Project Handbook (e.g. the escalation procedure).
+. Define what will be considered an issue for the project and customise the possible issue categories relevant to the project.
+. Define all artefacts, tools and techniques that will be used to identify, assess, assign, resolve and monitor issues (e.g. the Issue Log, root cause analysis, etc.).
+. Specify how new issues can be identified and their status communicated, and when new and open issues (and pending decisions) can be discussed (e.g. in project Status Meetings).
+. Customise the Issue Log to reflect any changes to the scales of urgency, impact and priority.
+. Define which issues (depending on their category, urgency and impact) can be handled at the (Project) Management Layer and which ones need to be escalated.
+. Describe the issue control activities, their frequency, and supporting tools and techniques (e.g. a review of issues in project Status Meetings based on the Issue Log or Project Status Reports).
+. Define how issues will be linked to their source, to related decisions, actions, risks and changes.
+. Specify the procedure for updating the Lessons Learned after an issue is resolved.
+. Ensure that the issue management process is communicated to the project team and stakeholders.
+
+:table-data: imp-rasci.csv
+include::../tables/rasci.adoc[]
+
+:table-data: imp-related-artefacts.csv
+include::../tables/related-artefacts.adoc[]
+
+:table-data: imp-outputs.csv
+include::../tables/outputs.adoc[]
