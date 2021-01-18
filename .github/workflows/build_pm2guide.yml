@@ -1,4 +1,4 @@
-name: Build
+name: Build pm2-Guide
 
 on:
   push:
@@ -18,13 +18,13 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          cd build
+          cd build/pm²-guide
           gem install bundler
           bundle install --jobs 4 --retry 3
 
-      - name: Build and test with Rake
+      - name: Build with Rake
         run: |
-          cd build
+          cd build/pm²-guide
           bundle exec rake book:build
 
       - name: Deploy to Publish Branch
@@ -33,4 +33,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: publish # The branch the action should deploy to.
           FOLDER: publish # The folder the action should deploy.
-          CLEAN: true
+          CLEAN: false
