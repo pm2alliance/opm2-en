@@ -27,8 +27,10 @@ jobs:
           cd build
           bundle exec rake book:build
 
-      - name: Upload build result
-        uses: actions/upload-artifact@v2
+      - name: Deploy to Publish Branch
+        uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
-          name: test-pdf
-          path: ./publications/pm²-guide.pdf
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: publish # The branch the action should deploy to.
+          FOLDER: publish # The folder the action should deploy.
+          CLEAN: true
