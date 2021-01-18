@@ -18,7 +18,7 @@ This repository contains the English version of the works. The translations are 
 
 - Download your copy at [PM² Alliance Publications](https://www.pm2alliance.eu/publications/)
   
-  or an automated build of the latest pre-release version from [Github](https://github.com/as-op/opm2-en/blob/publish/pm%C2%B2-guide.pdf)
+  or an automated build of the latest pre-release version from [Github](https://github.com/pm2alliance/opm2-en/raw/publish/pm%C2%B2-guide.pdf)
 
 ## Build the PDF
 
