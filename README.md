@@ -14,6 +14,33 @@ This repository contains the English version of the works. The translations are 
 
 - For an up to date version that includes amendments and corrections to the original publications, as well as for submitting any proposals/suggestions please refer to the [PM² Alliance](https://github.com/pm2alliance) repository that contains the most up-to-date version of the guide.
 
+## Download the PDF
+
+- Download your copy at [PM² Publications](https://www.pm2alliance.eu/publications/)
+  
+  or an automated build of the latest pre-release version from [Github](https://github.com/as-op/opm2-en/blob/publish/pm%C2%B2-guide.pdf)
+
+## Build the PDF
+
+- Install the command-tool [AsciiDoctor](https://asciidoctor.org/#installation) for your system.
+
+- Clone this repository
+```console
+~$ git clone https://github.com/pm2alliance/opm2-en.git opm2-en
+```
+
+- Navigate to the publications folder in the local checked out project folder
+```console
+~$ cd opm2-en/publications
+```
+
+- Run AsciiDoctor command to generate `pm²-guide.pdf`
+
+```console
+~$ asciidoctor-pdf pm²-guide.adoc
+```
+
+
 ## License & Disclaimer
 
 Staying true to the spirit of open source, the content of this repository is open source under European Public License, see the [license details](./LICENSE.md) for more information.
