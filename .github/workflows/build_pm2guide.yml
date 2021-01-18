@@ -18,13 +18,13 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          cd build/pm²-guide
+          cd .github/build
           gem install bundler
           bundle install --jobs 4 --retry 3
 
       - name: Build with Rake
         run: |
-          cd build/pm²-guide
+          cd .github/build
           bundle exec rake book:build
 
       - name: Deploy to Publish Branch
