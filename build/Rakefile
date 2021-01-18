@@ -1,0 +1,32 @@
+namespace :book do
+  def exec_or_raise(command)
+    puts `#{command}`
+    if (! $?.success?)
+      raise "'#{command}' failed"
+    end
+  end
+
+  desc 'build basic book formats'
+  task :build do
+
+    begin
+      version_string = "3.0"
+      date_string = Time.now.strftime("%Y-%m-%d")
+      params = "--attribute revnumber='#{version_string}' --attribute revdate='#{date_string}'"
+
+      #puts "Converting to HTML..."
+      #`bundle exec asciidoctor #{params} -a data-uri ../publications/pm²-guide.adoc`
+      #puts " -- HTML output at pm²-guide.html"
+
+      #puts "Checking HTML..."
+      #exec_or_raise('htmlproofer --check-html ../publications/pm²-guide.html')
+
+      puts "Converting to PDF..."
+      `bundle exec asciidoctor-pdf #{params} -D ../publish -a compress ../publications/pm²-guide.adoc 2>/dev/null`
+      puts " -- PDF output at /publish/pm²-guide.pdf"
+
+    end
+  end
+end
+
+task :default => "book:build"

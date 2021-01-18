@@ -1,0 +1,36 @@
+name: Build
+
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Ruby 2.7
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+
+      - name: Install Dependencies
+        run: |
+          cd build
+          gem install bundler
+          bundle install --jobs 4 --retry 3
+
+      - name: Build and test with Rake
+        run: |
+          cd build
+          bundle exec rake book:build
+
+      - name: Deploy to Publish Branch
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: publish # The branch the action should deploy to.
+          FOLDER: publish # The folder the action should deploy.
+          CLEAN: true

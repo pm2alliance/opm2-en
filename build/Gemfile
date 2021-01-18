@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'rake', '13.0.3'
+gem 'asciidoctor', '2.0.12'
+gem 'asciidoctor-pdf', '1.5.4'
+gem 'html-proofer', '3.18.5'
