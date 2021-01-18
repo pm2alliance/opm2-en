@@ -1,0 +1,34 @@
+name: Build
+
+on:
+  push:
+    branches: [ tooling ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Ruby 2.7
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+
+      - name: Install Dependencies
+        run: |
+          cd build
+          gem install bundler
+          bundle install --jobs 4 --retry 3
+
+      - name: Build and test with Rake
+        run: |
+          cd build
+          bundle exec rake book:build
+
+      - name: Upload build result
+        uses: actions/upload-artifact@v2
+        with:
+          name: test-pdf
+          path: ./publications/pm²-guide.pdf
