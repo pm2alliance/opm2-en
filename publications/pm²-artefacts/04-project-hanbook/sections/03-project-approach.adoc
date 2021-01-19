@@ -1,0 +1,53 @@
+=== 3. PROJECT APPROACH
+==== 3.1. Project Lifecycle
+[aqua]#<Present the project management lifecycle (phases) to be used in the project and how the project will move forward from one phase to the next (i.e. the planned approvals or gates), and describe any deviations from the standard PM2 project management lifecycle. +
+If applicable to your project, you can also define any planned work-stages or iterations and described the planned approach and key stage/iteration outputs.>#
+
+==== 3.2. PM² Tailoring – Required Project Documentation
+[aqua]#<Determine which project management plans are necessary for the project. The complexity of the project, the possible risks and the Project Steering Committee influence this decision. Use the list below or/and add/delete items in the list as per your project's needs.>#
+include::../tables/pm²-tailoring.adoc[]
+
+==== 3.3. Other Standards
+[aqua]#<Define any other methodologies specific to the project's domain (e.g. Agile PM² for IT projects) or standards that have to be considered for the planning and application of PM2 processes.># +
+Additionally to PM2, the project will follow other (domain specific) methodologies as described below:
+
+* [lime]#Agile PM² for the management of IT development;#
+* [lime]#….# +
+[aqua]#<Customise the above list as per your project or/and organization needs.># +
+The following standards were considered when defining project approach:
+
+* [lime]#Commission Decision C(2006) 3602 – Concerning the security of information systems used by the European Commission;#
+* [lime]#Decision 2001/844/EC, ECSC, Euratom - amending its internal rules of procedure, Annex: Commission Provisions on Security;#
+* [lime]#….# +
+[aqua]#<Customise the above list as per your project or/and organization needs.>#
+
+==== 3.4. Specific Project Management Rules
+[aqua]#<Define any specific project management rules that will be applied in the project. The purpose of documenting project rules is to establish an agreeable set of "rules of conduct" that will facilitate the better management and execution of the project.# +
+
+[aqua]#Project rules are usually related to defining rules regarding stakeholder/team interactions, communication, meetings, collaboration, contractors, etc., and especially those aspects which cannot be easily covered by the project methodology, communication plan, meeting and reporting templates, or which are very specific chosen project management style.# +
+
+[aqua]#Project rules can be related to the specific project or overall programme/organizational context, or/and can be derived directly from the project's critical success factors, project management objectives and the PM2 Mindsets (found in the PM2 Guide).# +
+
+[aqua]#Inputs (information) that can be used to define the project rules are: the MoMs of the Project Planning Kick-off Meeting, "pre-project" information, and lessons learned from projects with similar scope, constraints or risks, etc.>#
+
+==== 3.5. Conflict Resolution and Escalations
+[aqua]#<In this section the conflict resolution process for the project is defined. At the time of the conflict, the team can either effectively resolve it or escalate if necessary.
+Typically, conflict can arise in any of the levels below:#
+
+* [aqua]#Within the Project Core Team;#
+* [aqua]#Within a specific domain (e.g. the IT Community);
+* [aqua]#With the client/requestor side or the user community;#
+* [aqua]#With a Contractor.># +
+
+Conflicts are situations in which one or both parties perceive a threat. They are considered to be critical issues and can be raised by any of the project stakeholders. The Project Management team should proactively identify, log and raise such issues for resolution. When required, conflicts are discussed on the weekly Project Status Meetings or, if needed, escalated to the Project Steering Committee (PSC).
+
+[red]#Conflict resolution activities are registered in the Issue Log#, while conflict resolution decisions can be logged in the Decision Log. +
+
+The escalation procedure for this project is as following:
+
+* [lime]#Only issues/changes/risks with Very Low and Low impact can be approved by the Project Core Team (PCT). In this case, the Project Manager (PM) must always be informed and decisions may be registered in the Decision Log;#
+* [lime]#Issues/changes/risks with Medium impact are approved by the Managing Level (Project Manager and Business Manager) during the weekly Project Status Meetings. Decisions are registered in the Decision Log;#
+* [lime]#Issues/changes/risks with High and very High impact are approved by the Project Steering Committee (PSC) . Decisions are registered in the Decision Log;#
+* [lime]#When relevant, the Project Steering Committee (PSC) has extraordinary meetings for approving remediation actions related to urgent or very urgent issues with considerable impact or size.#
+
+[aqua]#<Customise the above process as per your project or/and organization needs.>#

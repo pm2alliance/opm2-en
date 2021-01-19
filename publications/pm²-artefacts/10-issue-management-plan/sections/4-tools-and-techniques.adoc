@@ -1,0 +1,70 @@
+== 4. TOOLS AND TECHNIQUES
+The following techniques will be used for issue management:
+
+* [lime]#Ishikawa diagram;#
+* [lime]#Pareto diagram;#
+* [lime]#….#
+
+[aqua]#Please customize the above list as per your project or/and organization needs.>#
+
+The following tools will be used for issue management:
+* [lime]#Issue Log#
+* [lime]#Decision Log#
+* [lime]#…#
+
+[aqua]#<Please customize the above list as per your project or/and organization needs.>#
+
+*Issue Log* +
+The _Issue Log_ for the project is using the PM2 Issue Log template and no changes have been done to the structure, fields or values, as following:
+[cols="20%,60%"]
+|===
+2+h|Issue Identification and Description
+|ID	|The issue identifier. It should be numbered sequentially.
+|Category|	Issue category related to the area affected by the issue (e.g. business,
+IT, people & organisation, external or legal).
+|Title|	Short title for the issue.
+|Description|	A description of the issue and consequences of doing nothing.
+|Status |	The issue status can be any of the following:
+*Open:* the issue has been identified and requires attention and, if possible, a resolution. +
+*Postponed:* this status is set if resolving the issue is postponed due to other priorities. +
+*Resolved:* this status indicates that all necessary actions are completed and the issue is resolved. +
+*Closed:* this status indicates that all work is completed and verified. The issue can then be marked as closed.
+|Identified By|	The name of the person who identifies the issue.
+|Identification Date|	The date on which the issue was raised.
+2+h|Issue Assessment and Action Description
+|Action Details (effort & responsible)|	Description of the recommended action, and the steps, deliverables, timescale, resources and effort involved.
+|Urgency|	A numeric value denoting how urgent the issue is. The possible values are: *5=Very high, 4=High, 3=Medium, 2=Low, 1=Very low*
+|Impact|	A numeric value denoting the issue’s impact. The possible values are: *5=Very high, 4=High, 3=Medium, 2=Low, 1=Very low*
+|Size|	Issue size represents the effort needed to resolve the issue. The possible values are:
+*5=Very high, 4=High, 3=Medium, 2=Low, 1=Very low*
+|Target Date|	The date on which the issue is expected to be resolved.
+|Issue Owner|	The person accountable for resolving the issue.
+|Escalation|	Whether the issue is to be escalated to the Directing or Steering Layers: *Yes* or *No*.
+|Traceability/Comments|	The ID(s) of the task (in the Project Work Plan) that implement the issue actions, or/and the IDs of related change, risk or decisions (log entries). Also include any additional information/comments related to the issue.
+|===
+The location of this artefact is found in the Appendix 1.
+
+* Decision Log* +
+The _Decision Log_ for the project is using the PM2 _Decision Log_ template and no changes have been done to the structure, fields or values, as following:
+
+[cols="25,60"]
+|===
+2+h|Decision Identification
+|ID|	The decision identifier. It should be numbered sequentially.
+|Category|	Decision category related to the area affected by the decision (e.g. Business, IT, People & Organisation, External or Legal).
+|Title |	Short title for the decision.
+|Description|	A description of the decision details and impact, if applicable.
+|Identified by|	The name of the person who identified the need for a decision.
+|People present|	Log the names of those present when the decision was made.
+|Comments |	The IDs of related Change, Risk or Issue Log entries, or meeting minutes,  and any additional information related to the decision.
+2+h|Ownership
+|Decision Owner|	The person accountable for the decision.
+|Decision Date |	Date on which the decision was taken
+|Escalation|	Whether or not the decision is to be escalated to the Directing or Steering Layers: *Yes* or *No*.
+2+h|Decision Implementation
+|Date of application|	The date on which the decision is applicable.
+|Decision communicated to:|	The group, teams and other audiences to whom the decision should be communicated.
+|===
+The location of this artefact is found in the Appendix 1.
+
+

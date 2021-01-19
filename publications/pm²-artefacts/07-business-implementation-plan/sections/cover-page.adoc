@@ -1,0 +1,1 @@
+image::../figures/raster/fp-business-implementation-plan.png[,width=1050,height=1600]

@@ -1,0 +1,2 @@
+== 8. QUALITY RECORDS
+The quality records (evidence that quality management activities have been performed) are archived in the project repository, under the "Monitor & Control" folder. The different versions of the project artefacts (created at each artefact update) will provide evidence of the performance of these activities.

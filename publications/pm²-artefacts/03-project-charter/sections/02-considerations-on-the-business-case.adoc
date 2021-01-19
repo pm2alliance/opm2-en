@@ -1,0 +1,3 @@
+=== 2. CONSIDERATIONS ON THE BUSINESS CASE
+[aqua]#<This section should include any pertinent considerations to the approved Business Case of the project. Topics such as the impact and urgency of the current situation described in the business case can be further elaborated in this section if necessary.
+Validate, at project level, the external influences and impacts, such as interfaces, needs, and regulatory requirements that are to be addressed. Re-check how urgent it is to address the situation (how quickly does it need to be addressed). Note that the urgency should not be confused with the impact because it can have a small impact but it can still be an urgent situation to address.>#

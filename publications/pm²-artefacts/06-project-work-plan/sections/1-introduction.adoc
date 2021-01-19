@@ -1,0 +1,18 @@
+== 1. INTRODUCTION
+The Project Work Plan documents all project activities needed to achieve the project goals along with their detailed effort/cost estimates, their schedule and resulting project duration and resource requirements. The Project Work Plan will be used as the basis to monitor the progress and control the project.
+
+This Project Work Plan includes the estimated effort/cost and schedule for ALL project activities, including the ones identified and described in other project plans (i.e. Transition Plan, Business Implementation Plan) as well as project management activities related to Risk Management, Quality Management (e.g. scheduled project evaluation or audits) and Deliverables Acceptance.
+
+Note that this document will always contain the latest  [underline]#baselined plan#. References to previous versions of this document (for the purposes of tracing changes) along with the relevant status reports are found in the Appendix 1: REFERENCES AND RELATED DOCUMENTS.
+
+=== 1.1. Project summary
+[aqua]#<This section can be used to elaborate project scope based on the scope baseline of the PC to the desired level of detail including deliverables and sub-deliverables.#
+
+[aqua]#This section gives you an opportunity to elaborate on the project's scope, as they may be now better understood or simply can be expressed more clearly. They should not however define any new or different scope; otherwise, formal change of the approved scope is required.#
+
+[aqua]#Update the project summary when it is affected by project scope/deliverable changes.>#
+
+[aqua]#<Note that this document should be formally updated and released whenever there is a change to the
+_baselined work plan, which _ideally_ should be harmonized with the predetermined +
+controlling period.>#
+

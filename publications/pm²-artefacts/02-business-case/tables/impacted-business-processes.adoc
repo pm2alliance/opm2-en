@@ -1,0 +1,12 @@
+[cols="<20,^5,^2,<20,5",options="header"]
+|===
+|*Process Category*|Yes/No | |*Process Category*|Yes/No
+|Policy Lifecycle | ||Financial Management|
+|Legislation Lifecycle |||Procurement|
+|Coordination|||Document Management|
+|Program Management|||Asset Management|
+|Grant Management|||Audit|
+|Communication and Dissemination (external)|||Human Resources|
+|Communication and Dissemination (internal)|||IT|
+|Strategic Management|||Other|
+|===

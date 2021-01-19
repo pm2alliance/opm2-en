@@ -1,0 +1,170 @@
+=== 4. PROJECT PROCESSES
+==== 4.1. Risk Management
+[aqua]#<This is a high level description of the risk management process to be used, which can be customized to the specific project and organizational context as necessary. Consider creating a separate more extensive project's Risk Management Plan for large, complex projects. (See the PM² Risk Management Plan template)>#
+
+The project risk management process defines the activities to identify, assess, prioritise, manage +
+and control risks that may affect the execution of the project and the achievement of its outputs. This is a [lime]#four step# process:
+
+* [lime]#*Risk Identification:* risks are continuously identified throughout the project lifecycle by any project stakeholder and documented in the Risk Log (by any project team member).#
+* [lime]#*Risk Assessment:* risks are assessed based on their likelihood of occurrence and the impact in project scope and constraints. The product of their likelihood and impact (in 3 or 5 point scales) defines the Risk Level which is then used as a reference for their prioritisation and risk response development.#
+* [lime]#*Risk Response Development:* there are four strategies to be considered as risk responses to threats: Avoid, Transfer or Share, Reduce or Accept a risk. After the strategy for each risk has been selected, specific actions to implement the strategy will be defined, described, scheduled and assigned, while a Risk Owner assumes the responsibility for its implementation. These actions will be incorporated into the Project Work Plan.#
+* [lime]#*Risk Control:* the Project Status Meetings are used to revise the status of risks, probabilities and impacts, and related actions, and to identify new risks. Risks will be revised weekly, but also after the occurrence of any significant event. If any of the identified risks occur, then the Project Manager (PM) will implement the contingency plans and communicate the issue to the Project Steering Committee (PSC).#
+
+[aqua]#<Customise the above process as per your project or/and organization needs.>#
+
+==== 4.2. Issue Management
+[aqua]#<This is a high level description of the project issue management process to be used, which can be customised to the specific project and organizational context. Consider creating a separate more extensive project's Issue Management Plan for large, complex projects. (see the PM² Issue Management Plan template)># +
+The project issue management process defines the activities related to identifying, documenting, assessing, prioritizing, assigning, resolving and controlling issues. It is a [lime]#four step# process that the Project Manager (PM) executes whenever required throughout the project lifecycle:
+
+* [lime]#*Issue Identification:* Issues can be identified by any project stakeholder throughout the project lifecycle, using different communication channels such as meetings, emails, and reports. The issues are registered in the Issue Log.#
+* [lime]#*Issue Assessment and Action Recommendation:* a first informal assessment considers the category, impact, urgency and size of the issue, followed by a more detailed analysis to identify the root cause and recommend a solution. This information is documented in the Issue Log and used as input to the appropriate decision makers (based on the escalation process). The decision is documented in the Decision Log.
+* [lime]#*Actions Implementation:* After issues are evaluated and the remediation actions approved, the Project Manager (PM) will incorporate these actions into the Project Work Plan and update project related documentation such as project plans and logs#
+* [lime]#*Issue Control:* Project Status meetings will# [red]#be performed weekly# [lime]#and used to revise the status of issues and related actions, and to identify new issues. Additionally, the Project Manager (PM) will report monthly the status of the major issues to the Project Steering Committee (PSC) and, when adequate, to other project stakeholders#
+
+[aqua]#<Customise the above process as per your project or/and organization needs.>#
+
+==== 4.3. Requirements Management
+[aqua]#<This is a high level description of the requirements management process to be used, which can be customised to the specific project and organizational context. Consider creating a separate more extensive Requirements Management Plan for large, complex projects. (see the PM² Requirement management Plan template)>#
+
+The requirements management process comprises the activities related to the specification, evaluation, approval, monitoring and validation of the project's requirements. This process consists of the following steps:
+
+* [lime]#*Specify Requirements:* gather the project requirements together with the project stakeholders and document them unambiguously in the Requirements Document. Structure them by adding relevant metadata.#
+* [lime]#*Evaluate Requirements:* the project team assesses the feasibility of the requirements and estimates the costs to realise them. The Project Manager (PM) balances the list of requirements with the other project constraints (budget, time, etc.) and proposes them to the project stakeholders.#
+* [lime]#*Approve Requirements:* the Project Manager (PM) negotiates and agrees the requirements that will be realized during the project with the relevant stakeholders, such as the Project Owner (PO) or the Business manager (BM). The approved requirements become the baseline of the project scope.#
+* [lime]#*Monitor Requirements Implementation:* the Project Manager (PM) continuously monitors the implementation of the requirements by the Project Core Team (PCT), besides the discovery of new requirements or changes to existing requirements.#
+* [lime]#*Validate Implemented Requirements:* when the requirements are implemented the solution is validated by the business user in order to assess if the initial business need is satisfied. Formal acceptance of the project deliverables should comply to the Deliverables Acceptance Management process.#
+
+[aqua]#<Customise the above process as per your project or/and organization needs.>#
+
+==== 4.4. Project Change Management
+[aqua]#<This is a high level description of the project change management process to be used, which can be customised to the specific project and organizational context. Consider creating a separate more extensive Project Change Management Plan for large, complex projects. (see the PM² Project Change Management Plan template)>#
+
+The project change management process defines the activities related to identifying, documenting, assessing, approving, prioritising, planning and controlling changes, and communicating them to all relevant stakeholders. [lime]#It is a five step process that the Project Manager (PM) executes whenever required throughout the project lifecycle:#
+
+* [lime]#*Change Identification:* a request for a change can be submitted formally via a Change Request Form, or can be identified and raised during meetings as a result of decisions, issues or risks. The Change Log contains information to identify the change, such as the requestor, a short description, identification date, etc.#
+* [lime]#*Change Assessment and Action Recommendation:* the size and impact of the change on the project scope, schedule, cost, quality, risk, and other project boundaries is assessed, where after a recommended action will be documented by the Project Manager (PM) in the Change Log., This information is then used as an input to the formal change approval by the appropriate decision makers.#
+* [lime]#*Change Approval:* the approval of a project change will follow the defined escalation process for this project. For changes which do not have significant impact on delivery time and budget, the changes can be approved during the Project Status Meetings. Other changes (having a size L or XL) are approved by the Project Steering Committee (PSC). The decision details are documented in the Change Log.#
+* [lime]#*Change Implementation:* the activities related to the implementation of approved changes will be documented in the Project Work Plan.#
+* [lime]#*Change Control:* new or open changes will be identified/reassessed weekly during the Project Status Meetings and the Project Manager (PM) will then update the Change Log with the results of the analysis/review. For the Medium, High and very High Size changes, the Project Manager (PM) will report on a monthly basis their status to the Project Steering Committee (PSC) and, when adequate, to other project stakeholders.#
+
+[aqua]#Customise the above process as per your project or/and organization needs.>#
+
+==== 4.5. Quality Management
+[aqua]#This is a high level description of the quality management approach to be used, which can be customised to the specific project and organizational context. Consider creating a separate more extensive Quality Management Plan for large, complex projects. (See the PM² Quality Management Plan template)>#
+
+The project quality management process comprises all activities (related both to processes and deliverables) that will increase the ability to meet the project expected results identified in the Project Charter. The process is comprised of [lime]#five steps:#
+
+* [lime]#*Define Quality Characteristics:* identify the objectives, approach, requirements, activities and responsibilities of the project's quality management process and how it will be implemented throughout the project. Quality management activities will be added to the Project Work Plan. The Quality Review Checklist and Deliverables Acceptance Checklist are created during the Planning phase.#
+* [lime]#*Perform Quality Assurance:* the quality assurance activities will be performed by evaluating the design of project controls, by confirming that they are implemented, and by assessing their operational effectiveness.
+These activities will consider the project quality objectives along with the project risks. In addition, quality assurance validates compliance with the organisation’s rules and regulations, as well as with relevant governmental and industry rules, regulations and legislation. Quality assurance activities will be performed by a Project Quality Assurance (PQA) person, and by the project organization (PCT, BM, SP).#
+* [lime]#*Perform Quality Control:* the Quality Review Checklist will be used by the Project Manager (PM) for evaluating the quality control activities and to validate compliance with the plans in terms of scope, time, cost, quality, project organization, communication, risks, contracts, and client satisfaction. Additionally, the Project Manager (PM) will summarize and document the Quality Review Checklist findings, their impact, recommendations along with any remediation/improvement actions. The project logs will then also be used to document related risks, issues, decisions and changes.#
+* [lime]#*Perform Deliverables Acceptance (see also section 4.8):* the Deliverables Acceptance Checklist supports the monitoring of the status of all activities that are pre-condition to the delivery of project outputs to the Project Owner (PO) and their formal acceptance. Project deliverables are accepted if the acceptance activities are successfully performed and within the pre-specified tolerances. The project deliverables may be conditionally accepted even with a set of known issues, provided that these are documented and that there is a plan for addressing them.#
+* [lime]#*Perform Final Acceptance:* the Project Manager (PM) will report on project performance in the Project-End +
+Review Meeting and develop the Project-End Report. The project documentation and records will be updated, reviewed and +
+archived.# [red]#The final acceptance is obtained from the Project Owner (PO), through the Project Acceptance Note, where after the project end is communicated to all relevant stakeholders.#
+
+[aqua]#<Customise the above process as per your project or/and organization needs.>#
+
+==== 4.6. Configuration Management
+[aqua]#<This is# [red]#a high level description# [aqua]#of the configuration management approach to be used, which can be customised to the specific project and organizational context. For large or complex projects, consider integrating this plan into a separate more extensive Quality Management Plan. (See the PM² Quality Management Plan template)>#
+
+The project configuration management procedure comprises the identification of project configuration items (CIs), their attributes and status codes, the establishment of baselines, the definition of roles and responsibilities for authorised changes to CIs, and the maintenance and control of a project repository.
+*Storage of project management artefacts*
+The Project Manager (PM) will structure the project management artefacts per PM2 phase, following the below folder convention:
+
+* [lime]#01 Initiating#
+* [lime]#02 Planning#
+* [lime]#03 Executing#
+* [lime]#04 Monitor & Control#
+* [lime]#05 Closing#
+
+*Naming convention of project management artefacts*
+
+The following artefact naming convention will be used:
+[lime]#(XX).(DocumentName).(ProjectName).(yyyy-mm-dd).v(x.x),# where
+
+* (XX) (two numerical characters) unique artefact number within the folder indicating the artefact sequence.
+* v(x.x) indicates the artefact version. Version numbers like "0.x" mean that the document hasn't been approved yet; minor changes will be reflected in the decimal (revisions number) and major changes (formal reviews) in the version number.
+
+*Versioning of project management artefacts*
+
+[lime]#All project management artefacts are under version control, except for the project logs and checklists.#
+
+==== 4.7. Communications Management
+[aqua]#<This is a high level description of the communications management approach to be used, which can be customised to the specific project and organizational context. Consider creating a separate more extensive Communication Management Plan for large, complex projects. (See the PM² Communication Management Plan template)>#
+
+[lime]#The communications management process determines how to communicate most efficiently and effectively to the various stakeholders. It defines and documents the communication items content, format, frequency, the audience and expected results. It also defines how to communicate project status and the assignment of activities to the various stakeholders, and the communication strategy for each stakeholder, based on their interests, expectations and influence in the project.#
+[lime]#The following project meetings will be organised:#
+include::../tables/project-meetings.adoc[]
+[lime]#The following project meetings will be delivered:#
+include::../tables/project-reports.adoc[]
+
+[aqua]#<Customise the above process as per your project or/and organization needs.>#
+
+==== 4.8. Deliverables Acceptance Management
+[aqua]#<Present a high level summary of the deliverables acceptance management approach to be used, in order to guarantee a formal process for client deliverable acceptance or/and simply provide a link to the project's Deliverable Acceptance Plan.>#
+
+The quality management process comprises the activities related to deliverables acceptance, in order to increase the ability to meet the project’s acceptance criteria. This process consists of three steps:
+
+* [lime]#*Define Acceptance Criteria:* define the acceptance criteria for each one of the project deliverables. This information is derived from project scope, approach, requestor needs, deliverables, expected benefits and requirements (as defined in the Business Case, Project Charter, Project Handbook, Project Work Plan, Requirements documentation and other relevant documents).#
+* [lime]#*Perform Acceptance Activities:* verify if the deliverables comply with the acceptance criteria. The deliverables acceptance activities are detailed and scheduled in the Project Work Plan.#
+* [lime]#*Perform Deliverables Acceptance (provisional/final):* obtain formal approval from the Project Owner (PO) for each project deliverable. The provisional/final acceptance should be documented in the Deliverables Acceptance Note. Project deliverables are accepted if the acceptance activities (as described in this plan) are successfully performed and within the pre-specified metrics, tolerances and timeframe. Project deliverables may be provisionally accepted by an expert/user in the concerned acceptance domain, even with a limited set of non-critical issues, provided that these are documented, agreed by the relevant stakeholders, and that there is a plan for addressing them. The rejection of deliverables will follow the project issue management process. After the resolution of the issues, deliverables are re-tested and submitted again for approval.#
+
+[aqua]#<Customise the above process as per your project or/and organization needs.>#
+
+==== 4.9. Transition Management
+[aqua]#<Present a high level summary of the transition management approach to be used in order to guarantee the successful transition from the current state to the new desired state, with clear considerations to minimizing disruptions in operations, or/and simply provide a link to the project's Transition Plan.>#
+
+The transition management process comprises the activities related to ensure a smooth transition from the "project mode" to the "operations mode". This process consists of the following steps:
+
+* [lime]#*Identify Transition Goals:* identify the goals to reach at the end of the transition. Define what must be achieved in order to consider the transition successful. Document any prerequisites that must be fulfilled before the transition can start.#
+* [lime]#*Identify Transition Activities:* define and estimate all transition activities that must be accomplished before, during and after the transition in order to reach the transition goals.  Determine the responsible for each activity. Integrate these activities in the overall Project Work Plan and manage them as being part of normal project activities. Don't forget coordination, communication or other more specific transition activities, such as: backups, data conversion, training, developing a roll-back plan, etc.#
+* [lime]#*Develop Transition Schedule:* determine the transition timeline and milestones. Estimate the length of the transition period and the extent of overlap with other project activities. Develop a high-level schedule for all transition activities.#
+
+[aqua]#<Customise the above process as per your project or/and organization needs.>#
+
+
+==== 4.10. Business Implementation Management
+[aqua]#<Present a high level summary of the business implementation management approach to be used in order to prepare and change the performing organisation to use the project's outputs and achieve the benefits as specified in the Business Case or/and simply provide a link to the project's Business Implementation Plan.>#
+
+The business implementation management process comprises the activities related to prepare and manage the changes to the organisation that will occur as a result of the project. This process consists of the following steps:
+
+* [lime]#*Identify Impact on Processes:* assess how the project will affect already existing business processes in the performing organization. Define the new business processes. Strive to disrupt normal business operations as little as possible during project implementation.#
+* [lime]#*Identify Impact on People:* assess how the project will impact the people using the project's outputs. Consider resistance-to-change, communication, functional support, training, etc.#
+* [lime]#*Identify Cultural Impact:* assess how the project will have an impact on the organizational culture. Consider individual or group behavior, organizational practices or shared values.#
+* [lime]#*Define Implementation Strategy:* define the communication strategy, promotional and other change activities that fall within the project's responsibilities and that will promote a smooth implementation of the project's outputs into the organization.#
+* [lime]#*Define Change Activities:* define necessary change activities that support the implementation strategy. Consider project activities, change activities for the organisation and post-project change activities.#
+* [lime]#*Benefits Tracking:* Identify, describe and recommend activities and metrics for measuring the benefits realisation of the project in the future.#
+
+[aqua]#<Customise the above process as per your project or/and organization needs.>#
+
+==== 4.11. Resource Management
+[aqua]#<This section should present how the necessary resources will be acquired, managed and, if necessary, released at the end of the project. Resources can be human (people with specific skills) or non-human (for example hardware, licences, a building, a meeting room.#
+
+[aqua]#In particular for human resources, this section should describe how external resources can be contracted (allowed framework contracts etc.), measured and released. For internal resources, any temporary authority delegation, re-organisation in the hierarchy, need to be clarified in order to avoid authority conflicts. If additional training is needed the following elements from the Resource Plan can be added.>#
+
+*Training Needs*
+
+The purpose of this section is to document and track the training required for the project, capture project training records and document any waivers for required project training. This summary of project-specific training will also be used to bring new people on board to the project.
+
+Note that the training needs [red]#do not refer to any user/stakeholder training on the final deliverables,# but only cover any training that members of the Project Team will need to be more effective in their project work. For example, training on the PM2 Methodology may be deemed as necessary for the Project Manager (PM) and Business Manager (BM), or technical trainings for any technical Project Core Team (PCT) Members.
+
+Training on project-specific procedures/methods/tools will be provided to the project team and any other groups that the project interfaces with, as required.  This training will be provided by or acquired by the Project Manager (PM).
+
+[aqua]#<Examples of project-specific training include, but are not limited to:#
+
+* [aqua]#Project’s Issues Management procedure#
+* [aqua]#Technical aspects of the project#
+* [aqua]#Configuration Management System and associated procedures being used by the project#
+* [aqua]#Etc.>#
+
+include::../tables/training-needs.adoc[]
+
+[aqua]#*Resource ID* – unique identifier of the team member to be trained# +
+[aqua]#*Resource*– name of team member# +
+[aqua]#*Training/skill* – this is a specific item which requires training# +
+[aqua]#*Current skill level* – identifies the skill level that the team member actually has in this item# +
+[aqua]#*Desired skill level* – identifies the skill level that the team member must acquire in order to deliver the requested project results# +
+[aqua]#*Method of Delivery* – identifies the method of delivery (i.e., self-study, project kick-off meeting, scheduled training session, formal classes, mentoring, coaching, etc.)# +
+[aqua]#*Delivered by* – identifies who will deliver the training when the method of delivery is by a person or a group (i.e., Project Manager, Learning Services, experienced team member, etc.)# +
+[aqua]#*Target Delivery Date* – this is the planned date for training on this item to be completed.#

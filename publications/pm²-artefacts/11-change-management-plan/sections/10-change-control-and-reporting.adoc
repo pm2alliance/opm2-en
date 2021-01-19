@@ -1,0 +1,8 @@
+== 10. CHANGE CONTROL AND REPORTING
+[aqua]#Please customise the description as per your project or/and organization needs.>#
+
+New or open changes will be identified/reassessed [lime]#weekly# during the [lime]#Project Status Meetings# and the Project Manager will then update the Change Log with the results of the analysis/review.
+
+For the [lime]#Medium, High and very High Size changes#, the Project Manager will report on a [lime]#monthly basis# their status to the [lime]#Project Steering Committee (PSC)#, the Change Control Board (CCB) or Change Advisory Board (CAB) and, when adequate, to other project stakeholders (as per the Communications Management Plan), e.g. to the [lime]#Corporate Governance Bodies# (i.e. via the [lime]#yearly# _Project Progress Report_).
+
+[aqua]#<Please reference the Communications Management Plan or to other documents supporting change control and reporting.>#

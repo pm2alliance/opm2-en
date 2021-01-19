@@ -1,0 +1,43 @@
+[%autowidth.stretch,grid="none",frame="none",stripes="none"]
+|===
+^|Change Request Form
+|
+^|[maroon]#<Project Name>#
+|===
+
+
+[cols="20,40,20,30"]
+|===
+h|Project:|[aqua]#< Project Name and ID# h|Change ID:|[aqua]#<link to the change log>#]
+|===
+|===
+4+h|Change Request
+h|Change Title:| 	|	Identification Date:|	<dd/mm/yyyy>
+h|Requested by:|	<The name of the requestor/group>|	Category:|
+h|Priority: 3+|	 +++<input type="checkbox">+++ Very High +++<input type="checkbox">+++ High  +++<input type="checkbox">+++ Medium +++<input type="checkbox">+++ Low +++<input type="checkbox">+++ Very Low
+4+h|Change Description & Details
+|===
+|===
+|[aqua]#<The purpose of this form is to capture the need and characteristics of a project change request. The change request is the first step of the change request process. Once the change request is logged into the Change Log, then this form is updated with the assigned Change ID and the form is archived.>#
+
+Current Situation: +
+[aqua]#<Describe the current situation (a problem, an opportunity or a new need – why is there a need for a change in the project?>#
+
+Desired Situation: +
+[aqua]#< Describe the desired situation. What is the goal and benefits of this change request?>#
+
+Impact or Risks: +
+[aqua]#<Describe the impact or risks of not implementing this change. If this impact or risks can be quantified, then this can help with the analysis (cost benefit analysis) and final decision regarding the implementation (or not) and the priority of this change.>#
+
+Out of Scope: +
+[aqua]#<Clarify what is out of the scope of this change request. This clarifies further the boundaries of the requested change and ensures that only the needed change is implemented.>#
+|
+|===
+
+|===
+h|References and Related Documents h|	Location
+|XYZ.doc |	[aqua]#U:\ProjectX\Documents\#
+||
+||
+||
+|===

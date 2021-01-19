@@ -1,0 +1,13 @@
+== 10. RELATED PM² PLANS
+[discrete]
+==== Project Handbook
+The Project Handbook establishes the high-level approach for implementing the project goals, which includes required documentation, standards to be considered and the high level summary of the quality and configuration management approach. The location of this artefact is referred in the Appendix 1.
+[discrete]
+==== Communications Management Plan
+The Communications Management Plan helps to ensure that all project stakeholders have the information they need to perform their roles throughout the project. It defines and documents the communication items content, format, frequency, the audience and expected results. The location of this artefact is referred in the Appendix 1.
+[discrete]
+==== Deliverables Acceptance Plan
+The management of the formal customer’s acceptance of project deliverables (responsibilities, activities and the criteria for the deliverables acceptance) is described in the Deliverables Acceptance Plan. The location of this artefact is found in the Appendix 1.
+[discrete]
+==== Issue Management
+The management of issues and decisions is described in the Issues Management Plan. This artefact defines how issues are identified, evaluated, and assigned for resolution and how decisions are implemented. Issue management supports the resolution of issues before deliverables / project acceptance. The location of this artefact is found in the Appendix 1.

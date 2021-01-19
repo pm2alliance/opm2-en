@@ -1,0 +1,21 @@
+== 4. PROJECT SCHEDULE
+This section documents the dependencies between tasks, resource assignments for each task, task start and end dates and the overall project schedule and duration.
+
+[aqua]#<Different scheduling methods and representations can be used. For instance, a list of dates/deadlines, milestone plans, bar charts, network diagrams and linked bar charts can be used, and very often be complementary to each other. Note that the effectiveness of each scheduling method (or combination) depends on the type, size, complexity and dynamics, and documentation and control requirements of each project.>#
+
+[.text-center]
+.workplan_schedule
+image::../figures/raster/workplan-schedule.png[width=400,pdfwidth=50%,scaledwidth=50%,align=center]
+
+[aqua]#<Template for documenting project scheduling information. Make sure the identifiers are aligned with the Work Breakdown in section 2.>#
+[.text-center]
+.[aqua]#<Example: Bar chart (schedule representation)>#
+image::../figures/raster/barchart.png[width=400,pdfwidth=50%,scaledwidth=50%,align=center]
+
+<Don't forget to delete this example from your final Work Plan>#
+
+[aqua]#<For the documentation of your effort/cost estimation, you can use any template or representation that accommodates your project's needs and project/organisational requirements. >#
+
+[aqua]#<For smaller projects, a high level description of the project schedule as a milestones schedule may be adequate. For other cases, a more complete "Gantt chart" representation of the schedule may be useful.>#
+
+[aqua]#<We remind you that you are not obliged to use the templates provided here as examples. You can use your own template or software application and then simply copy & paste it into this document, or simply reference the relevant file (offer a link or a folder/file location).>#

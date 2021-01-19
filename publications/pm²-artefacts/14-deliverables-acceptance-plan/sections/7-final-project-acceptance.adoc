@@ -1,0 +1,7 @@
+== 7. FINAL PROJECT ACCEPTANCE
+
+Apart from the acceptance of the specific project deliverables, additional acceptance activities are required to formally accept the project as a whole.
+
+[aqua]#<Use the tables available in section 4.1. up to section 4.3 to describe the specific acceptance criteria, activities and processes, tools and techniques involved in the acceptance of the project as a whole>.#
+
+If the project successfully passes all acceptance tests, then the Project Owner (PO) is expected to sign the Final Project Acceptance Note.  This happens during the closing phase of the project.

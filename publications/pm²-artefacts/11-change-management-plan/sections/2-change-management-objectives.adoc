@@ -1,0 +1,6 @@
+== 2.CHANGE MANAGEMENT OBJECTIVES
+Project change management aims to bring transparency, accountability and traceability to all project changes implemented after the project scope and project plans have been baselined. It ensures that changes with a significant impact in any of the project dimensions (i.e. scope, time, cost, quality or risk) are properly assessed, agreed on and approved by the appropriate level of authority.
+
+A project change can result e.g. from a scope change, a new requirement (quality,…), an identified issue, a preventive action to reduce the risk level, or from a decision taken to change any of project baselines (scheduling, staffing or budget).
+
+Note that managing changes to configuration items (e.g. project artefacts and deliverables) is part of quality management and are therefore documented in the _Quality Management Plan_.

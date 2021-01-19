@@ -1,0 +1,9 @@
+[options="header"]
+|===
+|Report|	Responsible |	Frequency
+|Project Status Report|	Project Manager (PM)|	With Status meeting
+|Project Progress Report|	Project Manager (PM)|	With Project Review Meeting
+|Quality Review Report|	Project Manager (PM)|	Quarterly
+|Outsourcing (Contractor)| Status Report	Contractor|	Monthly
+|Project-End Report|	Project Manager (PM) |	With Project-End Review
+|===

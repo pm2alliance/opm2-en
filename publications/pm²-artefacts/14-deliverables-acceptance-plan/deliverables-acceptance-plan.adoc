@@ -1,0 +1,35 @@
+= Deliverables Acceptance Plan
+:doctype: book
+:doctitle: Deliverables Acceptance Plan
+:docinfo:
+:toc: macro
+:toc-title: Table of Contents
+:toclevels: 3
+:pagenums:
+
+include::sections/first-page.adoc[]
+
+include::sections/intro-page.adoc[]
+
+include::../toc.adoc[]
+
+include::sections/1-introduction.adoc[]
+
+include::sections/2-deliverables-acceptance-objectives.adoc[]
+
+include::sections/3-deliverables-acceptance-approach.adoc[]
+
+include::sections/4-define-acceptance-criteria-activities.adoc[]
+
+include::sections/5-perform-acceptance-activities.adoc[]
+
+include::sections/6-accept-reject-deliverables.adoc[]
+
+include::sections/7-final-project-acceptance.adoc[]
+
+include::sections/8-related-pm²-plans.adoc[]
+
+include::sections/appendix-references-and-related-documents.adoc[]
+
+
+

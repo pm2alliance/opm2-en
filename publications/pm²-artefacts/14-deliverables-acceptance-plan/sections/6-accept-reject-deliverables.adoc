@@ -1,0 +1,32 @@
+==  6. ACCEPT/REJECT DELIVERABLES
+The purpose of this step is to obtain formal approval for each project deliverable defined in this Plan. It comprises the verification of deliverables to ensure they meet the predefined objectives and set of criteria defined in this document. After executing the acceptance activities and based on the results achieved, the Project Owner (PO) can formally accept, reject or provisionally accept them.
+
+The _Deliverables Acceptance Checklist_ supports the monitoring of the status of all activities that are pre-conditions to the delivery of project outputs to the Project Owner (PO) and his/her formal acceptance. The provisional/final acceptance should be documented in the Deliverables Acceptance Note, defined in this plan.
+
+Project deliverables are accepted if the acceptance activities (as described in this plan) are successfully performed and that acceptance results fall within the pre-specified metrics, tolerances and timeframe.
+
+If the acceptance metrics and tolerances are not met, the deliverable is rejected. The rejection of deliverables is considered an issue, and will follow the project issue management process. After the resolution of the issue(s), deliverables are re-tested and submitted again for approval.
+
+=== 6.1. Provisional Acceptance
+Deliverables acceptance is a specific procedure that involves the formal acceptance by the client of a set of deliverables, previously agreed. Each deliverable has its own criteria defined and the specific activity to be executed in order to be accepted, supported by a specific process and/or tools and techniques.
+
+Project deliverables may be provisionally accepted by an expert or designated user representative, potentially with a limited set of non-critical issues, provided that these are documented, agreed by the relevant stakeholders, and that there is a plan for addressing them (in this case, deliverables are provisionally accepted with the condition that the identified issues will be resolved before the beginning of the closing phase).
+
+=== 6.2. Deliverables Acceptance Note
+[aqua]#<Define the structure and fields that will be used for documenting the provisional and final deliverables acceptance. Note that PM2 doesn't provide a template for this purpose; nevertheless, this section defines a possible Deliverables Acceptance Note structure and fields as an example.>#
+
+The purpose of the Deliverables Acceptance Note is to formalise the acceptance of project deliverables by the Project Owner (PO) and/or other relevant stakeholders, within the agreed criteria and timeframe.
+
+The Deliverables Acceptance Note will be structured as following:
+
+[lime]#The following deliverables were verified and accepted by:#
+
+[cols="^10,^90,^90,^90,^90,^90",options="header"]
+|===
+|#|	Deliverable |	Criterion|	Result|	Verified by|	Accepted by
+| <|[aqua]#<Identify the deliverable that is being evaluated># <|[aqua]#<Describe the criterion that was used to evaluate compliance against the expected outputs.># <|[aqua]#<Identify the result considering the metric. State if the result is "Okay" or "Not okay" and if it is provisional or final acceptance.># <|[aqua]#<Name or role of the person/group responsible for the validation/provisional acceptance of the deliverable. Refer the date of sign-off.># <|[aqua]#<Name or role of the person/group responsible for the final acceptance of the deliverable. Refer the date of sign-off.>#
+|||||||
+|===
+
+<The above table can be used as a basis for the Deliverables Acceptance Note (if required).>
+The location of this artefact is referred in the Appendix 1.

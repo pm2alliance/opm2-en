@@ -1,0 +1,11 @@
+== 9. RELATED PM² PLANS
+Project Handbook
+The Project Handbook establishes the high-level approach for implementing the project goals, which includes required documentation, standards to be considered and conflict resolution and escalations procedures. The location of this artefact is found in the Appendix 1.
+
+[discrete]
+==== Communications Management Plan
+The _Communications Management Plan_ helps to ensure that all project stakeholders have the information they need to perform their roles throughout the project. It defines and documents the communication items content, format, frequency, the audience and expected results. The location of this artefact is found in the Appendix 1.
+
+[discrete]
+==== Risk Management
+The _Risk Management Plan_ documents how risks will be identified, who owns this responsibility and how often the risks need to be revisited. It also defines the risk-monitoring approach and determines to whom risks will be escalated. The location of this artefact is found in the Appendix 1.

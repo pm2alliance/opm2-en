@@ -1,0 +1,27 @@
+== 5. QUALITY ASSURANCE ACTIVITIES
+The Project Manager (PM) is the overall accountable of the quality assurance activities within the project. The Project Manager (PM) is also responsible for scheduling and initiating all formal project audits or reviews.
+
+The quality assurance activities will be performed by the Project Core Team (PCT), by the [lime]#Project Quality Assurance (PQA) team/person or by# [aqua]#<identify other organizations involved as, e.g., an internal auditor or external entities.>#.
+
+The quality assurance activities include the following:
+
+* [lime]#Compliance verification with the organisation’s policies, rules and regulations, as well as with relevant governmental and industry rules, regulations and legislation;#
+* [lime]#Artefact reviews and approvals# [aqua]#(i.e. the fact that the content of an artefact (project management deliverable) should be reviewed before it's considered finalised and sent for formal or informal approval/validation>.#
+* [lime]#Timesheets set-up; [aqua]#<i.e. the fact that timesheets are required (e.g. in email, xls, or IT platform)>.#
+* [lime]#Timesheets reviewed; [aqua]#<i.e. the fact that someone will review the accuracy of timesheet reported>.#
+* [lime]#Monthly activities reports# [aqua]#<summarising the major tasks undertaken and showing the number of days worked, during the previous calendar month)>.#
+* [lime]#Project Status Meetings;#
+* [lime]#Project Review Meetings;#
+* [lime]#Project Steering Committee meetings;#
+* [lime]#Milestone reviews;#
+* [lime]#Phase-exit reviews;#
+* [lime]#Project acceptance review;#
+* [lime]#Project and process audits;#
+* [lime]#Deliverables acceptance testing;#
+* [lime]#Audits to contractors' project quality activities;#
+* [lime]#Stakeholders' satisfaction questionnaires;#
+* [lime]#Security certification & accreditation audits.#
+
+[aqua]#<Please customise the quality assurance activities if necessary (add new or delete existent activities that are not applicable to the project.>#
+
+The project quality assurance activities are detailed and scheduled in the Project Work Plan.

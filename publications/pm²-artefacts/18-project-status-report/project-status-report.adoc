@@ -1,0 +1,13 @@
+= Project Status Report
+:doctype: book
+:doctitle: Project Status Report
+:docinfo:
+:toc: macro
+:toc-title: Table of Contents
+:toclevels: 3
+:pagenums:
+
+include::sections/first-page.adoc[]
+
+<<<
+include::sections/progress-status-report.adoc[]

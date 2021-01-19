@@ -1,0 +1,35 @@
+== 2.	*CONTEXT*
+=== 2.1	*Current Situation Description and Urgency*
+[aqua]#<This section should detail the high-level current situation description included in the Project Initiation Request, complemented by pertinent considerations regarding the urgency of addressing it.>#
+
+=== 2.2	*Current Situation Impact* +
+==== 2.2.1	Current Impact on Processes and the Organization +
+[aqua]#<This section should describe the organisational impact of the current situation as described. This impact can be detailed by describing:#
+
+* [aqua]#The impact in the organisation's strategy;#
+* [aqua]#The impact on the business processes;#
+* [aqua]#The impact on people;#
+* [aqua]#The impact on the IT landscape.>#
+
+[aqua]#Although a detailed analysis of the Business Process may be documented at a later stage of the project, this section should provide high-level answers to the following questions:#
+[arabic]
+.[aqua]#1.The impacted business processes can belong to one of the following business process categories:#
+
+include::../tables/impacted-business-processes.adoc[]
+
+.[aqua]#2.What business processes are impacted by the situation?#
+
+.[aqua]#3.What is the impact to the process owners and users(i.e. minor, moderate, and significant)?>#
+
+[aqua]#<Questions 2 & 3 are answered in the table below:#
+include::../tables/business-questions.adoc[]
+==== 2.2.2	Impact on Stakeholders and Users +
+[aqua]#<This section should describe the impact of the current situation as described above from the stakeholders/users perspective (people perspective). In this context, the user is considered as the group of people that are affected by the current situation and will be affected by the proposed solution. Any required change management efforts will be described as part of the implementation plan of the proposed solution.
+Note: In the case that the project includes an Information System (IS), this section should also detail the current working environment of the target users. Provide this information from a non-technical / end-user perspective. Provide further relevant contextual information. Suggestions are:#
+
+* [aqua]#User population;#
+* [aqua]#Which IT systems/platforms are in use today? Future platforms?>#
+* [aqua]#for doing what they have to do? Does your IT system need to integrate with those?>#
+
+=== 2.3	*Interrelations and Interdependencies* +
+[aqua]#<This section should describe the interrelations and interdependencies of the current situation and therefore relating it to other problems, opportunities or needs. These interrelations and interdependencies can be found "inside" the organisation and "outside" of the organisation. This analysis is important as it places the current situation in the broader context of the organisation and the interrelations with other environments outside the organisation (e.g. external stakeholder groups).># +

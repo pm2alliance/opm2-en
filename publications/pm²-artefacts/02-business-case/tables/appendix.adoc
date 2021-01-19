@@ -1,0 +1,10 @@
+[cols="8,<80,<60",options="header"]
+|===
+|ID |Reference or Related Document|	Source or Link/Location
+|1|[aqua]#<Example of a related document>
+<01.Project_Initiation_Request.XYZ.dd-mm-yyyy.V.1.0.docx>#|[aqua]#<Example of a location>
+< P:\PROJECTS\ProjectX\Documents\>#
+|2|[aqua]#Project folder#|[aqua]#<Insert project folder location.>#
+|3|[aqua]#<Example of a reference> <"The Communication on Risk Management, Commission(2005)1327">#|[aqua]#<Example of a source>#
+<dd/mm/yyyy, http://www.xxxx>#
+|===

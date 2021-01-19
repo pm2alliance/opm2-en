@@ -1,0 +1,79 @@
+== 4. TOOLS & TECHNIQUES
+The following techniques will be used for risk management:
+
+* [lime]#Desk reviews;#
+* [lime]#Questionnaires;#
+* [lime]#Interviews;#
+* [lime]#Brainstorming;#
+* [lime]#Workshops;#
+* [lime]#Risk checklists:#
+* [lime]#Assumption analysis;#
+* [lime]#…#
+
+[aqua]#<Please customize the above list as per your project's or/and organization's needs.>#
+
+The following tools will be used for risk management:
+
+* [lime]#Risk Management Plan;#
+* [lime]#Risk Log;#
+* [lime]#Risk Likelihood/Impact matrix;#
+* [lime]#…#
+
+[aqua]#<Please customize the above list as per your project's or/and organization's needs.>#
+
+=== 4.1. Risk Log
+The Risk Log for the project is using PM2 Risk Log template and no changes have been done to the structure, fields or values, as following:
+[cols="<5,15"]
+|===
+2+h|Risk Identification and Description
+|ID	|The risk identifier.
+|Category	|Risk category related to the area affected by the risk (e.g. business, IT,
+people & organisation, external or legal).
+|Title	|A short title for the risk.
+|Description	|A description of the risk, its causes, the kinds of problems that it could result in (potential effects), and risk dependencies.
+|Status	|The risk status can be any of the following:
+
+•	*Proposed:* this is the initial status. Use this while the risk is still being specified. +
+•	*Assessing:* use this status to initiate an assessment. +
+•	*Waiting for Approval:* use this to request approval. Before doing this, make sure that the assessment is complete and that the estimates are reliable. +
+•	*Approved:* this status is set once the risk possibility has been accepted. +
+•	*Rejected:* this status is set if the risk was rejected as not relevant. +
+•	*Closed:* this status is set once the risk has been managed (e.g. mitigation actions have be implemented) and it is not a risk for the project anymore. +
+
+|Identified by	|The person who identified the risk.
+|Identification date |	The date on which the risk was identified.
+2+h|Risk Assessment
+|Likelihood (L)|	A numerical value denoting the estimate of the probability that the risk will occur. The possible values are:
+*5=Very high, 4=High, 3=Medium, 2=Low, 1=Very low*
+|Impact (I)	|A numerical value denoting the severity of the risk’s impact (should it occur). The possible values are (negative risks):
+*-5=Very high, -4=High, -3=Medium, -2=Low, -1=Very low*
+Note: use same scale but positive values for positive risks (opportunities).
+|Risk Level (L*I)	|The risk level is the product of the likelihood and impact (*RL=L*I*).
+|Risk owner|	The person accountable for managing and monitoring the risk.
+|Escalation	|Whether or not the risk is to be escalated to the Directing or Steering Layers (*Yes* or *No*).
+2+h|Risk Response
+|Risk response Strategy	|The possible strategies to deal with the identified (negative) risks are:
+
+- *Avoid:* risk avoidance, modifying the project or project plan to eliminate the conditions or activities that introduce the risk. +
+- *Reduce:* risk mitigation or reduction through the proactive implementation of risk reduction activities. +
+- *Accept:* acceptance of the risk. In this case, contingency plans should be defined in case the risk occurs (active acceptance). +
+- *Transfer/Share:* transfer or share the risk with other entities, e.g. through insurance, subcontracting etc.
+|Action details
+(effort & responsible) |	Description of the mitigation action(s), including its objective, scope, deliverables, and the person responsible and estimated effort needed.
+|Target date |	The date on which the action is expected to be implemented.
+|Traceability/Comments	|The ID(s) of the tasks (in the Project Work Plan) that implement the risk response actions, and/or the IDs of related changes, issues or decisions (log entries). Also include any additional information/comments related to the risk.
+|===
+
+[aqua]#<Please customize the Risk Log structure as per your project's or/and organization's needs.>#
+
+The location of this artefact is found in the Appendix 1.
+
+=== 4.2. Risk Likelihood/Impact Matrix
+This project is using the PM2 _Risk Likelihood/Impact  Matrix_, as following:
+The risk level will be calculated by the product of likelihood and impact in the following way:
+
+[.text-center]
+.Risk Likelihood/Impact matrix.
+image::../figures/raster/pi_matrix.png[width=400,pdfwidth=50%,scaledwidth=50%,align=center]
+
+[aqua]#<Please customize the above matrix as per your project's or/and organization's needs.>#

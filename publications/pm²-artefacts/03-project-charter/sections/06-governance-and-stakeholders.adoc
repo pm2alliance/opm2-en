@@ -1,0 +1,10 @@
+=== 6. GOVERNANCE AND STAKEHOLDERS
+==== 6.1 Structure
+[aqua]#<This section should describe the organisational structure of the project team and stakeholders, preferably providing a graphical representation. Please also refer to (or simply reference) the PM2 Methodology which, for instance, defines and describes the members and responsibilities of the Project Steering Committee (PSC) (i.e. Project Owner (PO), Business Manager (BM), Solution Provider (SP), Project Manager (PM)) .>#
+
+==== 6.2 Roles and Responsibilities
+[aqua]#<This section should describe the Roles and Responsibilities of the Project Governance.  You can refer to the PM2 Methodology and include the assignment of the Standard PM2 Roles and Responsibilities, or/and define any deviations from the Standard.>#
+
+==== 6.3 Other Stakeholders
+[aqua]#<This section should identify all the stakeholders of the project and provide a brief profile description of the key stakeholders (and user groups) involved in the project, and the key problems that they perceive to be addressed by the proposed solution. It does not describe their specific requests or requirements as these should be captured in a separate artefact, however, it provides the background and justification for why the requirements are needed.>#
+

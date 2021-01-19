@@ -1,0 +1,81 @@
+== 9. CONFIGURATION MANAGEMENT
+[aqua]#<The purpose of the project configuration management process is to help project stakeholders to manage project artefacts and deliverables effectively and to provide a single reliable reference to them, ensuring that the correct versions are delivered to the project requestor / client. Additionally, it helps the Project Manager (PM) to identify the latest state of project artefacts and be able to gather all sources, documents, and other information for the project, prevent unauthorised changes, guarantee artefacts traceability, e.g. audit purposes, and return to previous versions (fall-back procedure).#
+
+Projects can follow configuration management procedures which already exist in an organisation/Unit, or use the guidelines provided below by the PM2 methodology.>
+
+The project configuration management procedure comprises the identification of project configuration items (CIs), their attributes and status codes, the establishment of baselines, the definition of roles and responsibilities for authorised changes to CIs, and the maintenance and control of a project repository.
+
+The project configuration management covers:
+
+*	Definition of project CIs;
+*	File and email naming conventions;
+*	Versioning and tracking of project documents;
+*	Control of the release of project artefacts and deliverables and changes to them;
+*	Periodic reviews to CIs records, to see if the configuration procedure is being undertaken and if records match the actual status;
+*	Storage and archiving of project management artefacts, including folder structure and naming conventions;
+*	Security of the CIs, i.e., CIs access management, CIs copies / backups, fall-back procedures and retention period.
+
+The periodic review of CI records will verify if all CIs are correctly identified, related changes are registered, approved, tracked and correctly implemented. For this purpose a configuration registry will be used. The fields of the configuration registry are:
+
+* [lime]#Project identifier;#
+* [lime]#Item identifier;#
+* [lime]#Description;#
+* [lime]#Status;#
+* [lime]#Date of last status change;#
+* [lime]#Version;#
+* [lime]#Type;#
+* [lime]#Item attributes;#
+* [lime]#Owner;#
+* [lime]#Reference to location;#
+* [lime]#Details of the relationship between items;#
+* [lime]#History of changes to CI (this information can be referenced to the Change Log).#
+
+The location of the configuration registry is found in the Appendix 1.
+
+[aqua]#<Create your project configuration registry (PM2 does not provide a template) and customise the above list as per your project needs.>#
+
+[aqua]#<Previous versions of the CIs should be kept in the project folder. The configuration management procedure should indicate which records should be kept and for what period.>#
+
+[underline]#*PM2 project management files naming convention*#
+
+This project follows PM2 methodology and uses the following naming convention:
+Files: (XX).(DocumentName).(ProjectName).(dd-mm-yyyy).v(x.x)
+[aqua]#<Example: 04.Project_Handbook.XYZ.11-11-2017.V1.0.docx>#
+
+*Explanations:*
+
+* XX (two numerical characters) is the number of the document according to all PM2 templates. Other documents not included in the PM2 templates can be named by following the numerical sequence of documents. This number is unique within project artefacts;
+*	x.x is referring to the version of the document. If it begins with a "0.x" it means that the document hasn't yet been approved; minor changes can be reflected in the decimal (revisions number) and major changes (formal reviews) in the number.
+
+When creating a project document, the Project Manager (PM) will include:
+
+*	The title of the document;
+*	The document type (e.g. plan, check list, log, guide, template, study, report);
+*	The version number;
+*	The issue date;
+*	The document control information, document approver(s) and reviewers and document history and location;
+*	The confidentiality classification of the document.
+
+*Project email subject tag:* (ProjectName), (Topic), (type of communication, e.g. for approval, for information, for review, for action), (FreeText – if needed).
+<Example: [WebCom][Follow-up Meeting][Agenda] [for Review] …>
+
+[underline]#*Versioning and release of artefacts and deliverables*#
+
+This project uses the following tools for managing the versioning and release of deliverables:
+•	…
+[aqua]#<Indicate the tools that will be used for managing deliverables versions and releases.>#
+The location of the last versions of project artefacts and deliverables is referred in the [lime]#configuration registry.#
+
+[underline]#*Storage and archiving of project management artefacts and deliverables*#
+
+The Solution Provider’s or Project Owner’s organisation may have an internal policy with regard to records management and archives, and projects should follow these procedures. Organisations or Units may have a Document Management Officer (DMO) who is responsible to implement a document and records management system.
+
+For this project, the Project Manager (PM) will structure the project management artefacts per PM2 phase, following the below folder convention:
+
+* [lime]#01 Initiating#
+* [lime]#02 Planning#
+* [lime]#03 Executing#
+* [lime]#04 Monitor & Control#
+* [lime]#05 Closing#
+
+[aqua]#<The Project Owner (PO) and the Solution Provider should agree on the configuration management scope and determine the procedures to be applied to change, approval, maintenance (including retention periods) and archive of the project CIs. It is recommended to agree on security procedures that include access to project files, copies of project data, archive location to guarantee continuity, storage devices to be used, retention periods and sanitization of data (when data is no more needed). These procedures should be mentioned in this section or referenced to other documents.#

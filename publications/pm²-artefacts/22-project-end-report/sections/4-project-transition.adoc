@@ -1,0 +1,11 @@
+== 4. PROJECT TRANSITION
+
+[aqua]#<Summarise the effectiveness of the project transition.
+[aqua]#Highlight:#
+
+* [aqua]#Significant milestones of transition# +
+* [aqua]#Effectiveness of the activities planned and executed for those milestones# +
+
+[aqua]#Identify and discuss specific issues.# +
+
+[aqua]#Detail the outcome as best practices and lessons learned.>#

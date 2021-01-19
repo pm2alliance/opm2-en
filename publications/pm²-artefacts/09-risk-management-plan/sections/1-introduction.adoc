@@ -1,0 +1,8 @@
+== 1. INTRODUCTION
+The Risk Management Plan defines and documents the Risk Management Process for a project. It describes how risks will be identified and assessed, what tools and techniques can be used, what are the evaluation scales and tolerances, the relevant roles and responsibilities, how often risks need to be revisited, etc. The Risk Management Plan also defines the risk monitoring and escalation process as well as the structure of the Risk Log which is used to document and communicate the risks and their response actions.
+The purpose of this document is:
+
+*	To outline the risk approach and process to be used for the project;
+*	To identify the roles and responsibilities related to risk management;
+*	To specify the methodology, standards, tools and techniques used to support risk management.
+

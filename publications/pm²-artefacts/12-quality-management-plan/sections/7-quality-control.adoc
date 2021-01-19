@@ -1,0 +1,22 @@
+== 7. QUALITY CONTROL
+=== 7.1. Quality Reviews
+[aqua]#<All project plans and processes or activities described within these plans should be reviewed. The results of these reviews along with outputs of quality assurance (e.g. Audit Reports) should be analysed and recommendation and remediation/improvement actions should be defined in the Quality Review Report.>#
+
+Project quality reviews will be performed every <define the frequency of this activity> in order to verify that all project plans and processes defined in the Project Handbook have been created and are executed as planned.
+
+[lime]#A Quality Review Checklist# will be used to assess the project's compliance with the planned activities (and related outputs) in domains such as scope, time, cost, quality, project organization, communications, risks, contracts, and client satisfaction.
+
+Note that some of the approved (by the Project Owner (PO)), remediation or/and improvement actions may also generate Change Requests and updates in project documents and plans.
+
+The findings, recommendations and remediation/improvement actions will be consolidated in the Quality Review Report, registered as issues in the Issue Log and reported to [aqua]#<provide the distribution list of this report># as per the Communications Management Plan.
+
+Every time the Quality Control step is executed, the effectiveness of previous cycle recommendations and remediation/improvement actions should be assessed.
+
+=== 7.2. Deliverables Reviews
+The deliverables reviews by the client will be performed [aqua]#<define the frequency of this activity># based on the Deliverables Acceptance Plan and Deliverables Acceptance Checklist. [aqua]#<Provide links to the Deliverables Acceptance Plan and Deliverables Acceptance Checklist. If these plans do not exist, please summarize the relevant acceptance activities in this section.>#
+
+The findings, recommendations and remediation/improvement actions will be consolidated in the Quality Review Report and reported to [aqua]#<refer the distribution list of this report># as per the Communications Management Plan.
+
+=== 7.3. Other Quality Control Activities
+[aqua]#<Please describe other activities in the scope of the project quality control.>#
+

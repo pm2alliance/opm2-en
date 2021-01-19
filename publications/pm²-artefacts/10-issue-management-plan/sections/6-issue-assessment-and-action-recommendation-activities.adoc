@@ -1,0 +1,35 @@
+== 6. ISSUE ASSESSMENT AND ACTION RECOMMENDATION ACTIVITIES
+The Project Manager (PM) assigns the detailed analysis of the issue to a project stakeholder. This person will assess the issue and identify its root cause. Also, it will recommend a solution and detail the necessary steps, effort and resources involved. This information will be documented in the [lime]#Issue Log#.
+
+[aqua]#<Please customize the above as per your project or/and organization needs.>#
+
+The methods that may be used to analyse and assess an issue are:
+
+* [lime]#"Ishikawa" (fishbone) diagram:#
+** [lime]#Describe the issue or symptoms;#
+** [lime]#Identify potential causes and categorize them;#
+** [lime]#Look at detailed explanations for each cause;#
+** [lime]#Look again at the reasons behind the explanation. This will help in arriving at the root cause of the issue;#
+** [lime]#Create an action plan to resolve this.#
+
+* [lime]#Pareto diagram:#
+** [lime]#Categorise issues according to the frequency with which they occur;#
+** [lime]#Focus on the issues with high frequency at first.#
+
+[aqua]#<Please customize the above list as per your project or/and organization needs.>#
+
+Issues that originate project changes will follow the project change management process.
+
+=== 6.1. Escalation
+[aqua]#<Please customise / document any deviations to the escalation process described in the Project Handbook, if specific to the issue management process, or reference to the Project Handbook.>#
+
+[lime]#The issue escalation workflow for this project is as following:#
+
+* [lime]#Only issues remediation actions with Very Low and Low Size and Impact can be approved at the Managing Layer (Business Manager (BM) and Project Manager (PM) approval);#
+* [lime]#Other actions (with Medium, High and very High Size or Impact) are approved by the Project Steering Committee (PSC);#
+* [lime]#When relevant, the PSC has extraordinary meetings for approving remediation actions related to urgent or very urgent issues with considerable impact or size.#
+* [lime]#Major Issues (High and very High Size or Impact) are reported yearly in the Project Progress Report, to be reviewed and approved by senior management (Business governing layer).#
+
+=== 6.2. Decision
+Issues are tracked together with the key decisions. These decisions ([lime]#at Managing, Directing, or Steering Layer#) will be documented in the _Decision Log_, which refers to the related issues, risks or changes, describes the decision details, identifies the person/group accountable for the decision and to whom the decision should be communicated. Any other key decision taken can be documented and followed-up through the _decision log_.
+<Please customize the above description as per your project or/and organization needs.>

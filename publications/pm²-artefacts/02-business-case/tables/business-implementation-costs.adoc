@@ -1,0 +1,9 @@
+[col=",,,,,,",options="header,footer"]
+|===
+|Business Implementation Costs |201X|	201X|	201X|	201X|	201X
+|Change management|||||
+|Start-up costs |||||
+|Coordination|||||
+|Training|||||
+|TOTAL|||||
+|===

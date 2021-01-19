@@ -1,0 +1,27 @@
+== 4. TOOLS AND TECHNIQUES
+The following techniques will be used for project quality management:
+
+* [lime]#Audits;#
+* [lime]#Walkthroughs;#
+* [lime]#Benchmarking;#
+* [lime]#Questionnaires;#
+* [lime]#Peer reviews;#
+* [lime]#Acceptance testing;#
+* [lime]#Project Review Meetings;#
+* [lime]#…#
+
+[aqua]#<Please customise the above list as per your project or/and organization needs.>#
+
+The following tools will be used for project quality management:
+
+* [lime]#PM2 Quality Management Plan;#
+* [lime]#PM2 Deliverables Acceptance Plan;#
+* [lime]#PM2 Quality Review Checklist;#
+* [lime]#PM2 Deliverables Acceptance Checklist;#
+* [lime]#PM2 Phase-exit Review Checklist;#
+* [lime]#PM2 Quality Review Report;#
+* [lime]#PM2 Project-End Report;#
+* [lime]#Deliverables Acceptance Note;#
+* [lime]#Project Acceptance Note;#
+* [lime]#…#
+<Please customise the above list as per your project or/and organization needs.>

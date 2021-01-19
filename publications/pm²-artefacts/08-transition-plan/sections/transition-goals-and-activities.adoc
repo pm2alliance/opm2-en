@@ -1,0 +1,31 @@
+=== 2.	TRANSITION GOALS AND ACTIVITIES
+==== 2.1. Goals
+[aqua]#<Identify the specific transition goals.>#
+
+==== 2.2. Prerequisites
+[aqua]#<Document the prerequisites of what must be completed before the transition can start.>#
+
+[aqua]#<Define what must be achieved in order to consider the transition successfully completed.>#
+
+==== 2.3. Timing and Milestones
+[aqua]#<Determine transition timeline and transition milestones. Estimate the length of the transition period, and the extent of overlap with other project development activities.>#
+
+[aqua]#<Develop a high level schedule for all transition activities.>#
+
+==== 2.4. Activities
+[aqua]#<Identify all transition activities that must be accomplished during the transition process.>#
+
+[aqua]#<Note that some tasks may be repeated for each deliverable (or for each release). Make sure to include each task for each deliverable (or release).>#
+
+[aqua]#<You can use the table below to document the main transition activities.>#
+|===
+^h|Activities Description ^h|Estimated Effort h|Start-End Dates ^h|Resource ^h|Other Comments
+|||||
+|===
+[aqua]#<Don't forget that the activities described in this section can be further broken down, detailed and scheduled in the overall Project Work Plan (PWP). They should be controlled and managed as part of the project activities.>#
+
+==== 2.5. Responsibilities
+[aqua]#<Identify the roles and responsibilities of the resources involved in all aspects of the transition process.>#
+
+==== 2.6. Coordination Aspects
+[aqua]#<Determine any coordination needs between teams or projects.>#

@@ -1,0 +1,27 @@
+== 7. RISK RESPONSE STRATEGIES
+[aqua]#<Customise the approach, tools and techniques that will be used to respond to project risks.>#
+
+The purpose of this section is to define the available risk response strategies to be used for this project.
+The risk response actions are documented and updated in the PM2 Risk Log throughout the project lifecycle (and then incorporated in the Project Work Plan) and revisited [lime]#at least, in the weekly Project Follow-up Meeting.#
+
+The possible risk response strategies are:
+
+* *Avoid:* risk avoidance, working the project or project plan around those conditions or activities which introduce the risk;
+* *Reduce:* risk mitigation or reduction through the proactive implementation of risk reduction activities;
+* *Accept:* acceptance of the risk (the impact/loss is accepted if the risk occurs). When accepting risks, there are two possible reactions:
+** Acceptance of the risk and no special action required, except continue to monitor the risk (passive acceptance);
+** Accept and develop contingency plans in case the risk occurs (active acceptance).
+* *Transfer/Share:* transfer a risk to, or share a risk with other entities, e.g. through insurances, sub-contracting, partnering etc.
+
+The following table describes the risk response approach for this project:
+
+|===
+h|Scenario	h|Risk Response Strategy
+|[lime]#Very high impact and high or very high likelihood or high or very high impact and very high likelihood.#|[lime]#Avoid or implement an immediate reduction#
+|[lime]#Very high impact and very low likelihood.#|[lime]#Transfer/Share#
+|[lime]#All other risk levels.#|[lime]#Reduce#
+|[lime]#Low or very low likelihood and very low impact or very low likelihood and low impact.#|[lime]#Accept (monitor and plan contingency if deemed necessary)#
+|===
+
+[aqua]#<Please customize the above table as per your project's or/and organization's needs.>#
+

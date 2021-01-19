@@ -1,0 +1,13 @@
+== 1. INTRODUCTION
+The PM² guide describes a light Quality Management section of the Project Handbook. However, the usage of this Quality management plan template is advised in case of complex or risky projects where quality activities are of special importance for the project.
+
+The objectives of this document are:
+
+*	To outline the quality strategy, approach and process to be used for the project;
+*	To identify the roles and responsibilities related to project quality management;
+*	To identify the major project management artefacts and deliverables;
+*	To define the quality assurance and control activities and to plan them throughout the project;
+*	To support the agreement on project quality requirements and metrics, and the method to evaluate them;
+*	To specify the methodology, standards, tools and techniques used to support quality management.
+
+Note that in the PM² Guide, the Quality Management Plan is mainly described as a part of the _Project Handbook_. However, the Project Manager (PM) can decide, given the size or complexity of the project, to use a separate document to capture the Quality attributes for the project and in this case we propose to use this template.

@@ -1,0 +1,7 @@
+== 7. ACTION IMPLEMENTATION ACTIVITIES
+The activities related to the implementation of remediation actions and their status will be documented in:
+
+* [lime]#Project Work Plan;#
+* [lime]#…#
+
+[aqua]#<Please reference to the Project Work Plan or to other documents where the implementation of the remediation actions can be monitored and controlled.>#

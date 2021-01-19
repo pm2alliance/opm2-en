@@ -1,0 +1,3 @@
+=== 5.	TRANSFER OF RESPONSIBILITY
+[aqua]#<Define any transfer of responsibility for the project deliverables from the Project Team to the Project Owner (PO) and support staff.>#
+

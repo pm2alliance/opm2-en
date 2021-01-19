@@ -1,0 +1,14 @@
+== 6. CHANGE IDENTIFICATION ACTIVITIES
+[AQUA]#<Customise the activities that will be used to identify project change and define the tools used.>#
+
+The purpose of this section is to describe the specific project change identification activities and tools that will be used for this project.
+
+The identification of changes can be result of project team brainstorming, project meeting, users' feedback, a risk response (e.g. to avoid a risk), major delay or cost overrun, assumptions analysis, or a request from a stakeholder.
+
+Note that issues of significant size may sometimes lead to project change. Therefore, issues are often linked to project change items (logged, assessed, assigned and tracked by using the Change Log.)
+
+A Change Request Form can also be used to document the original request for a change, offering justification and background information which can help with the analysis of the change requirements, impact and best course of action.
+
+The purpose of the Change Request Form is to capture the need and characteristics of a project change. The change request is the first step of the change request process. Once the change request is logged into the Change Log, then this form is updated with the assigned Change ID and the form is archived.
+
+The [lime]#PM2 Change Log# is the tool used to register and update project changes and related actions.

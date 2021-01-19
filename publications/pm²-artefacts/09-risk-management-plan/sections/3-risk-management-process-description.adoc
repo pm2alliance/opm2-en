@@ -1,0 +1,85 @@
+== 3. RISK MANAGEMENT PROCESS DESCRIPTION
+[aqua]#<Please tailor the risk management process if necessary (complete description or delete activities that are not applicable to the project.>#
+
+The project risk management process defines the activities to identify, assess, prioritise, manage and control risks that may affect the execution of the project and the achievement of its objectives.  This process is divided into four steps:
+[discrete]
+==== Step 1: Risk Identification
+
+The purpose of this step is to facilitate the identification and documentation of risks that can impact the project objectives.
+
+Various techniques will be used for risk identification which typically focus on past trends or future exposure, on a bottom-up or a top down analysis.
+
+Some organisations have a Risk Typology that groups various types of risks into categories and it will be used as reference.
+
+The techniques that will be used for risk identification are documented in section 4. TOOLS & TECHNIQUES.
+
+Risks are continuously identified throughout the project lifecycle; however, very early during the Initiating phase, an initial risk list will be created which is thereafter frequently updated. The same process will be followed both for the creation of the Risk Log as well as for the inclusion of new risks later in the project.
+
+The Risk Log contains the risks identifier, risk name and short description, the risk category and owner, as well as strategies, actions and timing which will facilitate the monitor and control aspects of the project. [aqua]#<Customize the PM2 Risk Log>#
+
+[lime]#In addition to the Risk Log, the following tools will be used:#  [aqua]#<please add additional tools to be used for risk identification as per your project's or/and organization's needs.>#
+[discrete]
+==== Step 2: Risk Assessment
+The purpose of this step is to assess the likelihood and impact of the identified risks in terms of their influence to the project objectives. This assessment is necessary before any risk response planning can be done.
+
+Risks are assessed based on their likelihood of occurrence and the impact in project objectives. The product of their likelihood and impact defines the [underline]#Risk Level# which is then used as a reference for their prioritisation and risk response development.
+
+Depending on the stakeholders' risk appetite, evaluation scales and tolerances will be defined based on which the most appropriate risk response strategies are chosen.
+[discrete]
+==== Step 3: Risk Response Development
+The purpose of this step is to select the best risk response strategy and identify and plan the actions to control the risks.
+
+The selection of the risk response strategy will be based on the results of the risk assessment (risk level), the type of risk, on the effects on the overall project objectives (e.g. schedule and costs), as well as on the cost of the strategy and its benefits (cost/benefit analysis). The strategy (or strategies) selected for each risk are documented in the _Risk Log_.
+
+There are four strategies to be considered as risk responses: [underline]#Reduce#, [underline]#Avoid#, [underline]#Transfer or Share# or [underline]#Accept# a risk. For the risks that have been accepted, contingency plans may be defined to help control their impact in case they occur.
+
+After the strategy for each risk has been selected, specific actions to implement the strategy will be defined, described, scheduled and assigned, while a [red]#Risk Owner assumes the responsibility for its implementation.#
+
+Actions will detail concrete activities, milestones and deliverables and will be documented in the _Risk Log_. Moreover, +
+they will clearly identify the target resolution date, as well as the estimation of resources involved and dependencies. +
+These actions (at least the most effort/cost consuming ones) will be incorporated into the _Project Work Plan_, +
+to have a consolidated view of all project related activities.
+[discrete]
+==== Step 4: Risk Control
+The purpose of this step is to monitor and control the implementation of the risk response activities while continuously monitoring the project environment for new risks or changes (e.g. probability and/or impact) in the risks already identified.
+
+The Project Follow-up Meetings are used to revise the status of risks and related actions, and to identify new risks +
+that can impact project milestones, deliverables or objectives. The review of the _Risk Log_ also appears in the agenda +
+of the Project Review Meetings. Risks will be revised at regular predetermined intervals, but also after the occurrence +
+of any event that might have a significant impact on the project environment and hence the project risks. +
+The updating of the _Risk Log_ can include adding new risks or actions, updating the status of response activities, +
+changing risk levels based on mitigation actions, changing the assignment of actions, etc.
+
+The [red]#Risk Owner will report periodically# the status of the risk and any response activities [red]#to the Project Manager (PM).#
+
+[red]#The Project Manager (PM)# will report to the [red]#Project Steering Committee (PSC)# the status of the major risks and to other project stakeholders (as per the project's communications plan). If any of the identified risks occur, then the Project Manager (PM) will ensure the implementation of the contingency plans and communicate the issue to the Project Steering Committee (PSC).
+
+The activities described above are performed by the Project Manager (PM) throughout the project lifecycle in line with the _Risk Management Plan_.
+
+[.text-center]
+.Risk Process Diagram
+image::../figures/raster/risk.png[width=400,pdfwidth=50%,scaledwidth=50%,align=center]
+
+[aqua]#<If you tailor the process, make sure you recreate the above process diagram>#
+
+=== 3.1. Risk Management Roles and Responsibilities
+[aqua]#<Define the roles and responsibilities for the identification, log, approval, follow-up, analysis and evaluation of project risks and related actions. If the number of identified risks to the project – or the nature of the project requires, the Project Manager may assign a Risk Management Team (RMT). The person in charge for this team has the responsibility to gather and assess risks as they are identified, and for scheduling risk reviews and reporting to the Project Steering Committee (PSC). If this person is appointed, this will be documented in the Project Stakeholder Matrix.>#
+
+The following RASCI table defines the responsibilities of those involved in risk management:
+
+|===
+h|RAM (RASCI)	h|AGB*	h|PSC	h|PO	h|BM	h|UR	h|SP	h|PM	h|PCT
+|Risk Management Plan	|I	|C	|*A*	|C	|I	|I	|*R*	|I
+|Manage Risks	|I	|C	|*A*	|*S*/C	|C	|I	|*R*	|C
+|===
+*AGB: Appropriate Governance Body. [aqua]#<e.g. for IT projects, this is the IT Steering Committee>.#
+
+The contact details of each of the above stakeholders are documented in the Project Stakeholder Matrix.
+
+The Project Manager (PM) is responsible for identifying, assessing, managing and monitoring the risks of the project, consulting the project team and other stakeholders, when appropriate (e.g. Project Steering Committee (PSC), Project Owner (PO), Business Manager (BM), Solution Provider (SP), and User Representatives (UR)). The Project Manager (PM) is also responsible for assigning resources to the risk management process, with the approval of the Project Owner (PO).
+
+The planning of risk management activities is performed by the Project Manager (PM) and documented in the Risk Management Plan.
+
+New risks and related actions, as well as changes to identified risks and actions are approved by the Project Owner (PO) and reported to the Project Steering Committee (PSC), according to the escalation procedure.
+
+Risks and related actions will be escalated to other Governance Bodies, when appropriate. The Project Steering Committee and the other Governance Bodies will validate the identified risks and actions, and plan other actions, if adequate.

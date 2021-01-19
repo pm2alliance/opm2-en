@@ -1,0 +1,7 @@
+== 2. REQUIREMENTS MANAGEMENT OBJECTIVES
+Requirements Management is the process of gathering, documenting and validating requirements, and managing their implementation and change. It is a process that runs continuously throughout the project life cycle and relates to other project management processes, such as quality and change management.
+
+The Requirements Management process can be tailored and customised to a project’s needs and can be documented either in a _Requirements Management Plan_ (this document) or in the _Project Handbook_. Separate requirements documentation is used to specify, categorise and prioritise the requirements and to provide traceability (requirements traceability matrix). These can be standalone documents or an annex to the _Project Charter_ or the _Project Work Plan_.
+
+Note that managing changing requirements to configuration items (e.g. requirements documentation, the _Project Work Plan_ and deliverables) is part of project change management and is therefore documented in the Project Change Management Plan.
+

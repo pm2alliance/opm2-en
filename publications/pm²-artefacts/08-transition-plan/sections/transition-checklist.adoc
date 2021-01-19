@@ -1,0 +1,8 @@
+=== 7.	TRANSITION CHECKLIST
+[aqua]#<In this section you can define a transition checklist for your project. The transition checklist can be a very useful tool to help you control the transition.>#
+
+[aqua]#<The transition checklist should be based on the information presented in this plan, i.e. the transition goals, prerequisites, and the deliverables of all transition activities.>#
+
+[aqua]#<You can use the checklist template provided by PM², customise it to your needs or create your own check list.>#
+
+The Transition checklist can be found here <Provide a link to the project folder/checklist.>.

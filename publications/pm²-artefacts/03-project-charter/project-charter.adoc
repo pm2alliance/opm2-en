@@ -1,0 +1,30 @@
+= Project Charter
+:doctype: book
+:doctitle: Project Charter
+:docinfo:
+:toc: macro
+:toc-title: Table of Contents
+:toclevels: 3
+:pagenums:
+
+include::sections/first-page.adoc[]
+
+<<<
+
+include::sections/intro-page.adoc[]
+
+include::../toc.adoc[]
+
+include::sections/01-executive-summary.adoc[]
+
+include::sections/02-considerations-on-the-business-case.adoc[]
+
+include::sections/03-project-description.adoc[]
+
+include::sections/04-cost-timing-and-resources.adoc[]
+
+include::sections/05-approach.adoc[]
+
+include::sections/06-governance-and-stakeholders.adoc[]
+
+include::sections/appendix-1-references-and-related-documents.adoc[]

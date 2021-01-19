@@ -1,0 +1,15 @@
+== 5. RELATED PM² PLANS
+
+[discrete]
+=== Project Handbook
+The Project Handbook establishes the high-level approach for implementing the project goals, which includes required documentation, standards to be considered and the high level summary of the quality and configuration management approach. The location of this artefact is found in the Appendix 1.
+
+[discrete]
+=== Other Related Plans
+1.	Communications Management Plan
+2.	Quality Management Plan
+3.	Transition Plan
+4.	Business Implementation Plan
+5.	Requirements Management Plan
+6.	Deliverables Acceptance Plan
+

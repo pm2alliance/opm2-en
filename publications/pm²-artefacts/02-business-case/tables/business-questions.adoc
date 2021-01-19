@@ -1,0 +1,26 @@
+[cols=",,,,,,",options="header"]
+|===
+|Process Category^1^ |Domain^2^ |Sub-domain^3^|Macro Process^4^ |Process^5^
+|Situation Impact Description |Impact to Process Owners and Users
+
+|[aqua]#Policy Lifecycle# |[aqua]#Accession Negotiations# |[aqua]#Negotiations & Benchmark Reports#|[aqua]#Negotiations management & support#  |[aqua]#Negotiations strategy & co-ordination (NSC)# | |[aqua]#e.g.minor, moderate, significant#
+
+|[aqua]#Policy Lifecycle#  |[aqua]#Accession Strategy & Country Relations#
+|[aqua]#Country Relations# |[aqua]#Economic, trade matters & statistics (ETS)#
+|[aqua]#Economic, trade matters & statistics - horizontal issues# ||
+
+|[aqua]#Policy Lifecycle#  |[aqua]#Accession Strategy & Country Relations#
+|[aqua]#Country Relations# |[aqua]#Economic, trade matters & statistics (ETS)#
+|[aqua]#Economic, trade matters & statistics related to a specific country# ||
+|===
+[horizontal]
+[.small]#*1*#:: [.small]#*Process Category:* The processes are classified in 14 process categories as follows: Asset Management, Audit, Communication & Dissemination, Coordination, Document Management, Financial Management, Grant Management, Human Resources, IT, Legislation Lifecycle, Policy Lifecycle, Procurement, Program Management, Strategic Planning# +
+[.small]#*2*#:: [.small]#*Domain:* The domain is the cutting of the highest level of activities of the organisation. An organisation has only a few areas of activities, sometimes only one. In some cases, a domain is shared by several organisations, and even by all organisations#
++
+[.small]#*3*#:: [.small]#*Sub-Domain:* A Sub-Domain is a subset of areas of activities that meets a set of common objectives and constraints#
++
+[.small]#*4*#:: [.small]#*Macro-process:* A macro-process is a set of processes related to a sub-domain. It corresponds to a grouping of activities according to a common business logic. Sometimes the consolidation process corresponds to the sequential execution of many processes#
++
+[.small]#*5*#:: [.small]#*Process:* A process is an organised and repetitive sequence of actions involving resources which aims at producing a result to satisfy a client’s need#
+
+

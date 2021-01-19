@@ -1,0 +1,9 @@
+[cols=",,,",options="header"]
+|===
+|*Project Title:* 3+^|[aqua]#<Initial project title proposal>.#
+| *Initiator:* | [aqua]#<Any person (usually from the business community) can define a project request>.# |*Organisation / Unit:* |[aqua]#<Organisation / Department requesting the project.>#
+| *Date of Request:* |[aqua]#<Date that the Project Initiation Request is completed.>#| *Target Delivery Date*:|[aqua]#<Date that the project delivery is needed.>#
+|*Type of Delivery:* 3+| +++<input type="checkbox">+++ In-house +++<input type="checkbox">+++ Outsourced +++<input type="checkbox">+++Mix +++<input type="checkbox">+++Not-known
+
+// /https://github.com/asciidoctor/asciidoctor/issues/1674/
+|===

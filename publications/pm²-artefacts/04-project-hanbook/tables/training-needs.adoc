@@ -1,0 +1,7 @@
+[options="header"]
+|===
+|Resource ID|Resource |Training/Skill |Current skill level |Desired skill level |Method of Delivery|Delivered by|Target Delivery Date
+|H.5|Programmer|Java |Intermediate |Advanced |Coaching |Resource Y|	22/03/2017
+|H.6|Programmer|Rational Tools |Beginner|Advanced |Internal course |Trainer X|12/03/2017
+|H.7|Tester|Mercury tools|Beginner|Intermediate |External Course 3-days |Training centre Z|	18/03/2017
+|===

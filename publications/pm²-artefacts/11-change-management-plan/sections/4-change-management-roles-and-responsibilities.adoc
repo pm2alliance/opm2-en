@@ -1,0 +1,24 @@
+== 4. CHANGE MANAGEMENT ROLES AND RESPONSIBILITIES
+The main roles and responsibilities for the project change management process are:
+
+*   *Project Steering Committee (PSC):* is consulted for the approval of the changes and monthly informed of the status of changes. It can re-assess changes and modify priority, identify new changes, refine action approach and escalate change requests to other stakeholders.
+* 	*Project Owner (PO):* is accountable for all changes related activities and has the responsibility of approving or rejecting changes, or escalated them according to the escalation procedure.
+* 	*Change Control Board (CCB) or Change Advisory Board (CAB):* The PO and/or PSC may delegate the authority for approving or rejecting changes to a Change Control Board (CCB) or Change Advisory Board (CAB).
+* 	*Business Manager (BM):* is consulted for the assessment and approval of changes and to validate the recommended action steps, impact, and effort and time estimation, from a requester perspective.
+* 	*Solution Provider (SP):* is consulted for the assessment and approval of changes and to validate the recommended action steps, impact, and effort and time estimation, from a provider perspective (at the Project Steering Committee).
+* 	*Project Manager (PM):* is responsible for managing, monitoring, controlling and reporting project changes and consolidating and documenting them in the project related documents. The PM can assign specific tasks to a Project Core Team member or to another project stakeholder. The Change Log is reviewed weekly in the Project Status Meetings and any new identified change or re-assessment of changes is communicated to the PSC (changes larger than [lime]#Medium Size#) for approval.
+* 	*Project Core Team (PCT):* supports the Project Manager in the project change management related activities and identifies and assesses project changes throughout the project lifecycle.
+* 	*Business Implementation Group (BIG):* is informed of project changes and can request new changes.
+* 	*Other Stakeholders:* [aqua]#<Please add other stakeholders if relevant.>#
+
+The following RASCI table defines the responsibilities of those involved in project change management:
+
+[cols="5,^,^,^,^,^,^,^,",options:"header"]
+|===
+h|*RAM *(RASCI) h|	*AGB** h|	*PSC* h|	*PO* h|	*BM* h|	*UR* h|	*SP* h|	*PM* h|*PCT*
+|Project Change Management Plan |	I|	I|	*A*|	C|	I|	I|	*R*|	I
+|Manage Project Changes|	I|	C|	*A*|	S|	I|	I|	*R*|	C
+|===
+*AGB: Appropriate Governance Body.
+
+The contact details of each of the above stakeholders are documented in the _Project Stakeholder Matrix_.

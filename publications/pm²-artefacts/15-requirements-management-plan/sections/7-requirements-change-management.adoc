@@ -1,0 +1,8 @@
+== 7. REQUIREMENTS CHANGE MANAGEMENT
+[aqua]#<Customise the process that will be used to manage change to the requirements for this project.>#
+
+Requirements may change as well as new requirement may come-up during the execution phase of the project. As the project started with an approved set of requirements the project manager needs to manage changes to the requirements in a formal way. Any changed or new requirement should be:
+
+*	logged using the _Change Request Form_,
+*	follow the requirements management process as described in chapter 3 of this document,  and
+*	for approval should be processed through change control as described in the _Project Handbook_ or the related _Project Change Management Plan_.

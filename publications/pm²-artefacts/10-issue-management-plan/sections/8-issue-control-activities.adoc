@@ -1,0 +1,8 @@
+== 8. ISSUE CONTROL ACTIVITIES
+New or open issues will be raised / followed-up [lime]#weekly# at Project Status Meetings and assigned to a responsible party. The Project Manager (PM) will then update the Issue Log with the results of the analysis / review.
+
+[aqua]#<As a general rule, issues cannot be eliminated without an assessment that the issue is no longer occurring. The Project Manager must assess that a closed issue is indeed no longer an issue. If not, the issue can be re-opened.>#
+
+[lime]#If an issue is considered closed and validated by the Project Manager (PM), the person responsible for the resolution will update the Lessons Learned for the project in the Issue log.#
+
+For the [lime]#Medium, High and very High Size changes#, the Project Manager (PM) will [lime]#monthly# report their status to the Project Steering Committee and, when adequate, to other project stakeholders (as per the _Communications Management Plan_), e.g. to the Corporate Governance Bodies (yearly _Project Progress Report_). [aqua]#<When an issue is reported it is important to be as informative in the description of the issue as possible.>#

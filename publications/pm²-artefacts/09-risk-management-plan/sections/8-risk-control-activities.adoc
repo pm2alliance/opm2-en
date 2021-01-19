@@ -1,0 +1,30 @@
+== 8. RISK CONTROL ACTIVITIES
+[aqua]#<Please define the type and frequency of risk control activities.>#
+
+The purpose of this section is to define the activities performed for monitoring and controlling risks, as well as their frequency.
+
+The Project Manager (PM) monitors and controls risks based on Project Follow-up Meetings or on information received from other project stakeholders, in result of:
+
+*	Identification of new risks by the Project Core Team or by other project stakeholders, in consequence of changes in the project environment;
+*	New proposed ways to deal with a risk (adding/changing actions);
+*	Implementation of any of the given actions or on general events or developments that will change the values for likelihood and/or impact of the identified risks;
+*	Other changes.
+
+Frequency of Revisiting the Risk Log: The PM2 Risk Log is updated at least [lime]#once a week, after the Project Follow-up Meetings,# by the Project Manager (PM).
+
+Additionally, before each Project Steering Committee (PSC), there is a procedure in place to collect the status of each +
+risk and action and the comments related to the effectiveness, quantification of resources spent, difficulties, +
+potential problems and dependencies of the actions. This information is consolidated and updated in the _Risk Log_, and +
+presented to the PSC. The project review planned at the end of each milestone also includes a deep review of the Risk Log.
+
+The Risk Communication activities are part of the project Communications Management Plan.
+
+*The communication items* identified are:
+
+* [lime]#Collection of new risks or changes to risks/actions in the weekly Project Follow-up Meeting;#
+* [lime]#Report of risks (risk level>=X) and related actions status in the monthly meeting of the Project Steering Committee (PSC);#
+* [lime]#Request of risk or action approval to the Project Owner (PO) or to the Project Steering Committee (PSC) (risks with a risk level >=X);#
+* [lime]#Report risks list in the yearly Project Progress Report;#
+* [lime]#Communication of the risks that have turned into issues (had occurred) in the monthly PSC meeting.#
+<Please reference in this section (provide links to) the Risk Log, to the Communications Management Plan, and/or any other documents supporting risk control.>
+

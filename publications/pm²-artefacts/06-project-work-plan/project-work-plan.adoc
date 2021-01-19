@@ -1,0 +1,26 @@
+= Project Work Plan
+:doctype: book
+:doctitle: Project Work Plan
+:docinfo:
+:toc: macro
+:toc-title: Table of Contents
+:toclevels: 3
+:pagenums:
+
+include::sections/first-page.adoc[]
+
+include::sections/intro-page.adoc[]
+
+include::../toc.adoc[]
+
+include::sections/1-introduction.adoc[]
+
+include::sections/2-work-breakdown.adoc[]
+
+include::sections/3-effort-cost-estimates.adoc[]
+
+include::sections/4-project-schedule.adoc[]
+
+include::sections/5-related-pm²-plans.adoc[]
+
+include::sections/appendix-references-and-related-documents.adoc[]

@@ -1,0 +1,63 @@
+== 5.	SOLUTION DESCRIPTION +
+[aqua]#<This chapter should elaborate on the solution chosen in chapter 4>#
+
+=== 5.1	Legal Basis +
+[aqua]#<This section should describe the legal basis of the proposed solution. Provide the link to the organisation's Strategic goals. Can be in the form of a Directive coming from the organisation’s senior management>#
+
+=== 5.2	Benefits +
+[aqua]#<This section should identify and describe the main benefits of the proposed solution (the results of the positive change and impact to the current situation). Think of benefits as the measurable improvement resulting from the previously described expected outcomes as they are perceived as an advantage by one or more stakeholders.>#
+
+=== 5.3	Success Criteria +
+[aqua]#<This section should describe the success criteria of the project. Think of success criteria as the measurable criteria based on which the project as a whole can be deemed as a success or a failure.> +
+<Critical criteria for the project are those which in their absence the project cannot be considered a success. Success criteria may be on scope, schedule and costs. Try to distinguish any product success criteria from the overall project success criteria, in a way that the latter can relate to the project's expected outcomes.> +
+<Example: Conference project –"minimum of 150 conference attendants with representatives from at least 2/3 of Member States".>#
+
+=== 5.4	Scope +
+[aqua]#<This section should describe the high-level proposed solution scope setting the boundaries of the project. It clarifies which topics belong to the project. As an example, which outputs, processes, organisations are in scope. Is this a common solution for multiple organisations, Member States, or only for one organisation or unit or one Member State?>#
+
+=== 5.5	Solution Impact +
+[aqua]#<This section should describe how the proposed solution will address the identified impact for each of the affected processes analysed in section 2.2.1 Impact on Processes and the Organization.>#
+
+include::../tables/solution-impact.adoc[]
+
+=== 5.6	Deliverables +
+[aqua]#<This section should describe the most important deliverables of the proposed solution, e.g. a new process, an information system, a new policy, a service, a platform, a change management strategy, a communication plan, a conference, a promotional campaign, staff trained, etc.>#
+
+=== 5.7	Assumptions +
+[aqua]#<This section should describe any key assumptions of the proposed solution related to business, technology, resources, organisation environment, scope, expectations, or schedules.>#
+
+=== 5.8	Constraints +
+[aqua]#<This section should describe any key constraints of the proposed solution imposed in areas such as schedule, budget, resources, or products to be used or acquired.>#
+
+=== 5.9	Risks +
+[aqua]#<This section should describe the key risks of the proposed solution that have been initially identified with an associated high-level mitigation strategy if there is such.>#
+
+=== 5.10	Costs, Effort and Funding Source +
+[aqua]#This section should identify the Total Cost of Ownership (TCO) for the proposed solution over at least 5 years:#
+
+*	[aqua]#In principle, this should include overall investments and costs (i.e. including IT and business side) for the whole life of the proposed solution until its final phase out.#
+*	[aqua]#To establish a basis for comparison, TCO is currently defined as all the costs for delivering the solution as well as the costs of keeping the solution operational (e.g. maintenance, support, training, licencing, etc.) for the first 5 years of the proposed solution.#
+* [aqua]#These costs breakdown should distinguish between the "costs" of staff (expressed in FTE) and the other costs in k€ (e.g. costs e.g. consultants, contract of outsourcing, etc.).#
+
+include::../tables/appendix.adoc[]
+include::../tables/appendix.adoc[]
+[aqua]#This section should also describe the funding source(s) for the proposed solution and indicate if operation budget, administrative or mix of the two will be used. If both operational and administrative budgets will be used, please estimate what the split between them is.>#
+
+=== 5.11	Roadmap +
+[aqua]#<This section should identify the expected start date and the expected delivery date of the project and the major milestones that break down the project in smaller management parts.>#
+
+=== 5.12	Synergies and Interdependencies +
+[aqua]#<This section should describe the synergies and interdependencies of the proposed solution with other problems, opportunities, needs, or initiatives addressing them. These synergies and interdependencies can be found both "inside" and "outside" the organisation and could be identified by taking into account organisation-wide or cross-unit processes, practices, services and infrastructure. This information is useful to ensure that the project is not about to deliver something that already exists elsewhere (e.g. another part of the organisation) and that it could be re-used. +
+Note: In the case that the proposed solution includes an Information System (IS), the synergies and interdependencies should be identified taking into account corporate systems (e.g. HR, Finance), other cross-organisational systems (e.g. systems used in several units) and other common IT services or components.#
+{zwsp} +
+[aqua]#These should be briefly described here and include:#
+
+* [aqua]#The IT services and components already available which will be re-used.#
+* [aqua]#The request for corporate/common IT services and components which doesn't exist at the current time but which might reduce the cost and time of development. This request should come with a precise timing by which the IT service has to be provided.#
+* [aqua]#•	The IT services and components which will be made re-usable and shared inside the organisation.#
+
+[aqua]#Consult the organisations portfolio of IT solutions that could be re-used and look for synergies with other projects. +
+Consider synergies with Open Source Observatory  (OSOR) Repository and Forge, by reflecting on the following questions:#
+
+* [aqua]#Is there an open source project that delivers outputs related to the current project? Can the current project benefit from leveraging such open source outputs?#
+* [aqua]#Does this project contribute useful components for other projects? Is it worth considering delivering these components to OSOR or pursue a synergy with other OSOR projects?>#

@@ -1,0 +1,3 @@
+=== 2.	IMPACT ON PROCESSES
+[aqua]#<How the deliverables of the project will affect existing business processes in the performing organisation and/or in the organisation of the beneficiaries of the project. Define the new business processes. Refer to “as-is” and “to-be” process descriptions, if available>#
+

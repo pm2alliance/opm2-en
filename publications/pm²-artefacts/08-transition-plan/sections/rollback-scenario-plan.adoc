@@ -1,0 +1,3 @@
+=== 6.	ROLLBACK SCENARIO & PLAN
+[aqua]#<Ensure that in case the transition fails for any reason a rollback scenario is available so that business continuity can be guaranteed (when needed).>#
+

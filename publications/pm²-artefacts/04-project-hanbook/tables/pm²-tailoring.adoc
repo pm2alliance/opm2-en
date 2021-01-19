@@ -1,0 +1,20 @@
+[cols="30,^,,20",options="header"]
+
+//https://github.com/asciidoctor/asciidoctor/issues/1674
+//https://dev.w3.org/html5/html-author/charref
+//https://www.whatsmyip.org/html-characters/
+// empty check box +++<input type="checkbox">+++
+// https://en.wikipedia.org/wiki/Check_mark
+:x: &check;
+[cols="15,5,15,10"]
+|===
+^|Artefact |Yes/No ^|Location ^|If No, briefly explain the reason
+|Project Initiation Request | x ||
+|Business Case |{x}||
+|Project Charter| {x}||
+|Project Handbook (this document) |{x}|[aqua]#<P:\PROJECTS\ProjectXYZ\Planning\ProjectHandbook.[ProjectName].[1-02-2017].docx>#|
+|Stakeholder Matrix |||
+|Project Work Plan|||
+|Transition Plan|||
+|Other…|||
+|===

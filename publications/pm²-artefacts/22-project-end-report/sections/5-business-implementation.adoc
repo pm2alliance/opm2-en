@@ -1,0 +1,11 @@
+== 5. BUSINESS IMPLEMENTATION
+
+[aqua]#<Summarise the effectiveness of the Business Implementation throughout the project.# +
+
+[aqua]#Highlight:#
+
+*	[aqua]#Signifiant organisational change management impacts# +
+*	[aqua]#Effectiveness of the business implementation activities planned and executed for those impacts# +
+
+[aqua]#Identify and discuss specific issues.# +
+[aqua]#Detail the outcome as best practices and lessons learned.>#

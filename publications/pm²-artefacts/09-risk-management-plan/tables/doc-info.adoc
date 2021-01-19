@@ -1,0 +1,29 @@
+[cols=",",options="header",]
+|===
+|*Settings*
+|*Value*
+
+|Document Title:
+|[maroon]#Project Charter:#
+
+|Project Title:
+|[maroon]#<Project Name>#
+
+|Document Author:
+|[maroon]#<Document Author>#
+
+|Project Owner:
+|[maroon]#<Project Owner (PO)>#
+
+|Project Manager:
+|[maroon]#<<Project Manager (PM)>#
+
+|Doc. Version:
+|[maroon]#<Version>#
+
+|Sensitivity:
+|[maroon]#<Public, Basic, High>#
+
+|Date:
+|[maroon]#<Date>#
+|===

@@ -1,0 +1,12 @@
+== 7. CHANGE ASSESSMENT AND ACTION RECOMMENDATION ACTIVITIES
+The purpose of this section is to describe specific project change assessment and action recommendation activities and tools that will be used for this project.
+Activities and tools used are:
+
+* [lime]#Impact Analysis# [aqua]#<evaluate is the impact of the change on the projects dimensions of time, cost, quality)>.#
+* [lime]#Risk Analysis# [aqua]#<e.g. in case new risks introduced>.#
+* [lime]#Risk Log.#
+* [lime]#Change Log.#
+* [lime]#…..#
+
+Changes will be reviewed and evaluated during the [lime]#Change Control Meetings# as described in the [lime]#Communications Management Plan. During the Change Control Meetings#, recommendation activities will be proposed, discussed, prioritised and logged in the Change Log along with the Project Manager's or other stakeholders' comments.
+Note that a fist level of discussion of project changes can also take place during the more frequent [lime]#Project Status Meeting#, where the action plan for minor changes can be agreed.

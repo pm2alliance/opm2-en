@@ -1,0 +1,87 @@
+== 5. TOOLS AND TECHNIQUES
+The following techniques will be used for change management:
+
+* [lime]#Impact Analysis;#
+* [lime]#….#
+
+[aqua]#<Please list the change management techniques as per your project or/and organization needs.>#
+
+The following tools will be used for issue management:
+
+* [lime]#Change Log#
+* [lime]#Change Request Form#
+* [lime]#…#
+
+[aqua]#<Please customize the above list as per your project or/and organization needs.>#
+
+=== 5.1. Change Log
+The project Change Log has the following structure:
+
+[aqua]#<Define the change log to be used for identifying, assessing and designing the implementation of changes. Change analysis should be documented and tracked on a Change Log for monitoring & control purposes. Please customise the Change Log structure provided as per your project or/and organization needs. Provide a link to the Change Log>#
+
+[cols="25,60"]
+|===
+2+^h|Change Log
+2+h|Change Identification and Description
+|ID	|The change identifier. It should be numbered sequentially.
+|[lime]#Category#|	[lime]#Categorises the change (e.g. new requirement, issue or risk related, business improvement, etc).#
+|Title|	Short title that describes the requested change.
+|Description|	A more detailed description of the requested change and the impact of not implementing the change.
+|Status|	The change status can be any of the following: +
+[lime]#*Submitted:* this is the initial status. Use this while the requested change is still being specified.# +
+[lime]#*Assessing:* use this status to initiate an assessment.# +
+[lime]#*Waiting for Approval:* use this to initiate approval. Before doing this, make sure that the investigation is complete and that the estimates shown are correct.# +
+[lime]#*Approved:* this status is set once the change has been approved.# +
+[lime]#*Rejected:* this status is set if the change was rejected.# +
+[lime]#*Postponed:* this status is set if the change is postponed indefinitely.# +
+[lime]#*Merged:* this status indicates that this change has been merged into some other change so it is no longer being actively handled. Merging is common when there are many changes.# +
+[lime]#*Implemented:* this status indicates that the work implementing this change has been incorporated into the Project Work Plan.# +
+
+|Requested by|	The name of the person requesting the change.
+|Date identified (or Submission  Date)|	The initial submission date of the change request.
+2+h|Change Assessment and Action Description
+|Action Details (effort & responsible)|	Description of the recommended actions, including steps, deliverables, timescale, resources and effort involved.
+|Size|	[lime]#The effort required to implement the change.
+The possible values are:  *5=Very high, 4=High, 3=Medium, 2=Low, 1=Very low*#
+|Priority|	[lime]#A numeric value denoting the agreed priority of the change.
+The possible values are: *5=Very high, 4=High, 3=Medium, 2=Low, 1=Very low*#
+|Target Delivery Date|	The target date for the change to be delivered.
+2+h|Change Approval
+|Escalation|	Escalation to the Directing or Steering Layers is needed? (Yes or No).
+|Decision|	The decision taken
+|Decided by|	Person (or Committee) that approved the change.
+|Decision Date|	Date that the project change is approved.
+2+h|Change Implementation
+|Actual Delivery Date|	The date on which the change was actually delivered.
+|Traceability and Comments|	The ID(s) of the task (in the Project Work Plan) that implement the change, and/or the IDs of related issues, risks or decisions. Also included any additional information/comments related to the change (activities).
+|===
+
+The location of this artefact is found in the Appendix 1.
+
+=== 5.2. Change Request Form
+The Change Request Form for the project is using PM2 _Change Request Form_ template and no changes have been done to the structure, fields or values, as following:
+
+[aqua]#<Define the Change Request Form to be used for identifying, assessing and approving the implementation of changes.>#
+
+[cols="25,60"]
+|===
+2+^h|Change Request Form
+2+h|Change Request
+|Project Name|	[aqua]#<The change identifier. It should be numbered sequentially.>#
+|Change ID|	[aqua]#<The change identifier from the Change Log. IT links this change request to the corresponding entry in the Change Log.>#
+|Change Name|	[aqua]#<A short name for this change.>#
+|Identification Date|	[aqua]#<The date that the change has been raised. dd/mm/yyyy>#
+|Requested by|	[aqua]#<The name of the person/group requesting the change.>
+A short name (description) for the change.#
+|[lime]#Category#|	[lime]#Categorizes the changes into new requirement, issue or risk related, business improvement, etc.#
+|[lime]#Priority#|	[aqua]#<Note that the priority is given from the point of view of the requestor and is not necessarily the priority that will be given to this change (if approved) after an impact analysis has been performed and the change is prioritised against other change requests or work)>.#
+[lime]#A numeric value denoting the priority of the change. The possible values are:#
+5=Very high, 4=High, 3=Medium, 2=Low, 1=Very low.
+2+h|Change Description & Details
+|Current Situation|	[aqua]#<Describe the current situation (a problem, an opportunity or a new need – why is there a need for a change in the project?>#
+|Desired Situation|	[aqua]#<Describe the desired situation. What is the goal and benefits of this change request?>#
+|Impact or Risks|	[aqua]#<Describe the impact or risks of not implementing this change. If this impact or risks can be quantified, then this can help with the analysis (cost benefit analysis) and final decision regarding the implementation (or not) and the priority of this change. >#
+|Out of Scope|	[aqua]#<Clarify what is out of the scope of this change request. This clarifies further the boundaries of the requested change and ensures that only the needed change is implemented.>#
+2+h|References and Related Documents
+|[lime]#Link#|	[lime]#The Location of relevant (or supporting) documents#
+|===

@@ -1,0 +1,42 @@
+=== 2. PROJECT OVERVIEW
+==== 2.1. Project summary
+[aqua]#<In this section, you can provide an executive summary of the project or simply provide links to the Business Case and the Project Charter documents.#
+
+==== 2.2. Critical Success Factors and Project Management Objectives
+[aqua]#<This section is# [aqua underline]#optional but very useful.# [aqua]#>#
+
+*Critical Success Factors*
+
+[aqua]#<Highlight in this section those factors that are critical for the success of the project and which can also result in additional project management objectives. By identifying such Critical Success Factors (CSF), the project management team can focus their management efforts on those factors that contribute the most towards project success>.# +
+
+[aqua]#<Examples# [red]#of Critical Success Factors (CSF)#  [aqua]#are, Stakeholder Involvement, Management Support, Clear Business Objectives and expectations, Agile Process, Shared Project Management Methodology, Tools and Infrastructure, etc.>.#
+
+*Additional Project Management Objectives*
+
+[aqua]#< Additional project management objectives go beyond the main project scope and the generic/traditional project management objectives. However, they remain relevant to the specific project or overall programme/organizational context. They define specific# [aqua underline]#project management objectives# [aqua]#, such as organizational and team learning/development objectives, organizational maturity objectives, sustainability and environmental objectives, etc.# +
+
+[aqua]#Additional objectives should be defined, managed and prioritized in a way that they maximize the overall project benefit to the organization and the project team, but without imposing any additional constraints or significant additional costs or effort to the project. In other words, they influence the overall approach of planning and implementation of the main project scope/deliverables, but no project work items directly derive from these objectives.# +
+
+[aqua]#It is easy to see, for example, that many of the PM2 Mindsets (found in the PM2 Guide v2) can be directly or indirectly connected or translated to an additional objective.# +
+
+[aqua]#The additional objectives should be discussed and agreed with the project team during the planning phase and approved by the Project Steering Committee (as part of the overall Project Handbook approval).>#
+
+==== 2.3. Project Stakeholders
+[aqua]#<Provide a brief summary of the most important project stakeholders/users, or simply reference the Stakeholder Matrix for a detailed list of all the involved people in this project.>#
+
+==== 2.4. Project Dependencies or Interrelations
+[aqua]#<Identify any dependencies or Interrelations of this project with other work or projects that has/is/will be undertaken, or with other problems or solutions. For example, the project may be part of a programme or a network of projects each contributing towards a common goal.# +
+
+[aqua]#dentifying and documenting these dependencies can influence the project management priorities, the management approach, can results additional objectives, or simply result in constraints and/or risks.>#
+
+==== 2.5. Project Constraints
+[aqua]#<Identify any constraints associated with the planning, executing, monitoring & controlling and closing of the project, or simply reference the relevant sections in the Business Case and Project Charter.# +
+
+[aqua]#In this context, constraints are factual conditions that limit the ways that project work can be defined, planned, executed and controlled. Project teams need to acknowledge, understand and work around the project constraints.# +
+
+[aqua]#The project's obvious "triple constraint" (i.e. time, cost, scope) can also be mentioned here, particularly if there are cost, time and scope "inflexibilities" (i.e. fixed cost, fixed/unmovable delivery/launch dates, etc.).# +
+
+[aqua]#Constraints may be related to the collection of requirement (e.g. from member states or User Groups), contractors, staff, time/timing, technologies, tools, decision cycles or any other aspects of the project.# +
+
+[aqua]#Examples of possible project constraints are: specific legal or internal process requirements that the project needs to follow (e.g. specific type of tendering process), environmental constraints, constraints related to physical characteristics for example of a work space, the security clearance or mandatory qualifications/certifications of team members or contractors, etc.# +
+[aqua]#Particular attention should be given to constraints that need to be considered in order to start the planning and executing of the project and achieve the project goals.>#

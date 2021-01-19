@@ -1,0 +1,12 @@
+== 5. OTHER COMMUNICATIONS
+
+[aqua]#<Complete one block of the following table for each type of other regular communication items>#
+[cols="10,90"]
+|===
+h|Name of the communication|
+h|Description|
+h|Audience|
+h|Frequency|
+h|Media|
+
+|===

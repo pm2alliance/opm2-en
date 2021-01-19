@@ -1,0 +1,20 @@
+== 6. METRICS
+This section includes the quality criteria to be collected and reported during the project, [lime]#for project artefacts (i.e. project management outputs). Note that the criteria related to testing of the project deliverables and their formal customer acceptance are detailed in project domain specific documents as e.g. test plans and the Deliverables Acceptance Plan.#
+
+[aqua]#<In the case where no formal Deliverables Acceptance Plan exists, then the criteria related to deliverables acceptance should be described in the Quality Management Plan>#
+[cols="30,10,40",options="header"]
+|===
+|Criterion Name|Frequency|	Tolerance
+|Artefacts review (per project phase)|Once|No tolerance.
+|Monthly timesheets reviewed and approved|Monthly|No tolerance.
+|Status reports distributed|[lime]#Monthly#|One moth (i.e. every two months).
+|Project Review Meetings performed|[lime]#Weekly#|One week. Holiday's period, each three weeks.
+|Project Steering Committee meetings performed|Monthly|One moth (i.e. every two months)..
+|Milestone reviews executed|Per milestone|No tolerance.
+|Phase-exit reviews executed|Per phase-exit|No tolerance.
+|Project and process audits performed|[lime]#Yearly or once during the project#|No tolerance.
+|Audits to contractors' project quality activities performed|[lime]#Yearly or once during the project#|No tolerance.
+|Stakeholders' satisfaction questionnaires sent, received and analysed|[lime]#Yearly or once during the project#|No tolerance.
+|===
+
+<Please customise the above Frequencies and Tolerances as per your project or/and organization needs.>

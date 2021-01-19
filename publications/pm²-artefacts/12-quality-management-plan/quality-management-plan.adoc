@@ -1,0 +1,36 @@
+= Quality Management Plan
+:doctype: book
+:doctitle: Quality Management Plan
+:docinfo:
+:toc: macro
+:toc-title: Table of Contents
+:toclevels: 3
+:pagenums:
+
+include::sections/first-page.adoc[]
+
+include::sections/intro-page.adoc[]
+
+include::../toc.adoc[]
+
+include::sections/1-introduction.adoc[]
+
+include::sections/2-quality-management-objectives.adoc[]
+
+include::sections/3-quality-management-process.adoc[]
+
+include::sections/4-tools-and-techniques.adoc[]
+
+include::sections/5-quality-assurance-activities.adoc[]
+
+include::sections/6-metrics.adoc[]
+
+include::sections/7-quality-control.adoc[]
+
+include::sections/8-quality-records.adoc[]
+
+include::sections/9-configuration-management.adoc[]
+
+include::sections/10-related-pm²-plans.adoc[]
+
+include::sections/appendix-references-and-related-documents.adoc[]

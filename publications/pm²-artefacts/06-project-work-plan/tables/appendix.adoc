@@ -1,0 +1,13 @@
+[cols="8,<80,<60",options="header"]
+|===
+h|ID h|Reference or Related Document h|	Source or Link/Location
+|1|[aqua]#<Example of a related document>
+<04.Project_Handbook.XYZ.11-11-2017.V.1.0.docx>#|[aqua]#<Example of a location>
+< U:\METHODS\PM²@ProjectX\Documents\>#
+|2|[lime]#08.Quality_Management_Plan.XYZ.11-11-2017.V.1.0.docx#|[aqua]#<Insert project artefact location.>#
+|3|[lime]#09.Communications_Management_Plan.XYZ.11-11-2013.V.1.0.docx# |[aqua]#<Insert project artefact location.>#
+|4|[lime]#10.Deliverables_Acceptance_Plan.XYZ.11-11-2017.V.1.0.docx#|[aqua]#<Insert project artefact location.>#
+|5|[lime]#XX.Deliverables_Acceptance_Note.XYZ.11-11-2017.V.1.0.docx#|[aqua]#<Insert project artefact location.>#
+|6|Project folder|[aqua]#<Insert project folder location.>#
+|7|[aqua]#<Example of a reference> <"The Communication on Risk Management, Commission(2005)1327">#|[aqua]#<<Example of a source><20/10/2005, European Commission>#
+|===

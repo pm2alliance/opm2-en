@@ -1,0 +1,11 @@
+== 1. INTRODUCTION
+[aqua]#<For small or simple projects, the Deliverables Acceptance approach can be documented in the relevant section of the Project Handbook. However for complex or high risk projects where deliverable acceptance activities are of special importance for the project, then the use of a dedicated more detailed document such as this one is advised.>#
+
+The objectives of this document are:
+
+* To identify the approach and roles and responsibilities related to deliverables acceptance;
+*	To specify the processes, tools and techniques used to support deliverables acceptance management;
+*	To define and agree on the criteria by which all project deliverables can be accepted;
+*	To define the activities related to deliverables acceptance and to plan them as part of the project;
+*	To support the provisional and final deliverables acceptance;
+*	To define the activities related to Final Project Acceptance by the Project Owner.

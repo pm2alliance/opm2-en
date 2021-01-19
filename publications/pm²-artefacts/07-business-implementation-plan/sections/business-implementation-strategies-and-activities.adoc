@@ -1,0 +1,31 @@
+=== 5.	BUSINESS IMPLEMENTATION STRATEGIES AND ACTIVITIES
+[aqua]#<Note that any project activities identified and described in this section should be planned and controlled as part of the overall project plan – they should appear in the Project Work Plan (PWP).>#
+
+==== 5.1 Communications Strategy
+[aqua]#<Describe a communications strategy that will facilitate the effective implementation of the Business Implementation Plan. Any regular communication activities should be included in the project's Communications Management Plan or the relevant section of the Project Handbook (PHB).>#
+
+==== 5.2 Timing and Milestones
+[aqua]#<Determine the Business Implementation timeline and milestones. Estimate the length of the Business Implementation period, and the extent of overlap with other project activities. Business implementation may continue after project closure. It is completed when the benefits, as described in the Business Case, are achieved, or can no longer be achieved.>#
+
+[aqua]#<Develop a high level schedule for key Business Implementation Activities.>#
+
+==== 5.3 Project Promotion Activities
+[aqua]#<Projects gain the support of both the internal and external project stakeholders through the use of suitable communication-related methods and instruments throughout the entire duration of the project. Project promotion increases management attention and facilitates the effective stakeholder acceptance of project outputs (deliverables) and outcomes.#
+
+[aqua]#Project promotion is essentially an integral business implementation task that must be fulfilled by all project roles. Project promotion activities can be divided into project management and project output related activities. If the number of project promotion tasks is substantial, e.g. when dealing with many stakeholders, in  many countries, industries, NGO’s, then promotion activities can be conducted as a separate sub-project.>#
+
+==== 5.4 Change Management Activities
+[aqua]#<WARNING: this section is NOT about the processing of change request to the project or its deliverables. This section describes the organisational change needed during and after the project, to achieve, over time, the expected benefits as described in the Business Case.>#
+
+===== 5.4.1 Project Activities
+[aqua]#<Describe the organisational change activities that will fall within the projects direct responsibilities, and can be fully completed within the mandate of the project and by its end. These activities should be aligned with and incorporated into the Project Work Plan (PWP)>#
+
+===== 5.4.2 Change Activities for the Permanent Organization
+[aqua]#<Describe those change activities (and their goals) which are necessary but cannot be executed within the mandate, budget and deadline of the project. In this case, activities should be identified, described and "passed on" to the permanent organisation to carry out. >#
+
+===== 5.4.3 Post-Project Activities
+[aqua]#<Identify, describe and suggest any change (or change management) activities that need to take place after the project has finished. These could be activities that will be carried out by the permanent organization, or by other related projects or by the program this project is part of. This Business Implementation Plan (BIP) may even recommend follow up projects that make the business implementation aspect of the project more successful.#
+
+==== 5.5 Benefits Tracking
+
+[aqua]#<Identify, describe and recommend activities and metrics for measuring the benefits realisation of the project in the future. These activities can be implemented by the permanent organisation, or as part of a future project as described in section 5.4.3.>#

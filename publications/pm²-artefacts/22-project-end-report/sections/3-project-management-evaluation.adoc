@@ -1,0 +1,61 @@
+== 3. PROJECT MANAGEMENT EVALUATION
+=== 3.1. Overall
+[aqua]#<Present the overall effectiveness of the project management for this project.#
+
+* [aqua]#Which aspects of the overall project management could have been done better?#
+* [aqua]#Was the level of tailoring and customization of the PM2 Methodology, the implementation of the processes and the use of aftereffects effective?# +
+
+[aqua]#More specifically, you can use the sections below to discuss some of the most important project management aspects. Delete or merge any of the sections below as per your needs.>#
+
+=== 3.2. Risk Management
+[aqua]#<Summarise the effectiveness of risk management throughout the project.# +
+[aqua]#Highlight:#
+
+* [aqua]#Significant risks that were identified and actually occurred#
+* [aqua]#Significant risks that occurred but were not identified#
+* [aqua]#Effectiveness of the selected strategies and action plans for the risks that actually occurred#
+
+[aqua]#Identify and discuss specific issues.#
+[aqua]#Detail the outcome as best practices and lessons learned.>#
+
+=== 3.3. Stakeholder Management
+[aqua]#<Summarise the effectiveness of stakeholder management in the project# +
+[aqua]#Highlight:#
+
+* [aqua]#Key stakeholders that weren't identified at project start#
+* [aqua]#Stakeholder management activities that were particularly effective#
+* [aqua]#Stakeholder management activities that could have been done better or should be avoided#
+
+[aqua]#Identify and discuss specific issues.#
+[aqua]#Detail the outcome as best practices and lessons learned.>#
+
+=== 3.4. Project Communications
+[aqua]#<Summarise the effectiveness of the communication plan developed for the project# +
+[aqua]#Highlight:
+[aqua]#Communication activities that were particularly effective#
+[aqua]#Communication activities that could have been done better or should be avoided#
+
+[aqua]#Identify and discuss specific issues.#
+[aqua]#Detail the outcome as best practices and lessons learned.>#
+
+=== 3.5. Issues and Conflict Resolution
+[aqua]#<Summarise the effectiveness of issue and conflict management throughout the project.# +
+[aqua]#Highlight:#
+
+* [aqua]#Significant issues and conflicts#
+* [aqua]#Effectiveness of the issues management process for those issues#
+* [aqua]#Effectiveness of the resolution of any conflicts#
+
+[aqua]#Were issues resolved before change control was needed?#
+[aqua]#Detail the outcome as best practices and lessons learned.>#
+
+=== 3.6. Deliverables Acceptance
+
+[aqua]#<Summarise the effectiveness of the deliverables acceptance throughout the project.#
+[aqua]#Highlight:#
+
+* [aqua]#Significant deliverables#
+* [aqua]#Effectiveness of the acceptance plan for those deliverables#
+
+[aqua]#Identify and discuss specific issues#
+[aqua]#Detail the outcome as best practices and lessons learned.>#

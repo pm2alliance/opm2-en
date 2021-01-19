@@ -1,0 +1,95 @@
+== 4. DEFINE ACCEPTANCE CRITERIA & ACTIVITIES
+=== 4.1. Acceptance Criteria
+[aqua]#<The Project Manager (PM) and the Business Manager (BM) must work together in order to identify the deliverables to be accepted and agree on the corresponding evaluation criteria. Use the table below to describe all the deliverables that will be subject to acceptance.>#
+
+The purpose of this section is to define the criteria and timeframe for accepting project deliverables.
+
+The acceptance criteria for deliverables are as following:
+
+[cols="^10,^30,^30,^50,^90,^60",options="header"]
+|===
+|#|	Deliverable Name |	Criterion Category* |	Criterion|	Metric and Tolerances |Approving Authority
+| <|[aqua]#<Identify the specific deliverable.># <|[aqua]#<Identify the criterion type/category.># <|[aqua]#<<Describe the criterion that will be used to evaluate compliance against the expected outputs.># <|[aqua]#<Identify the method/formula to evaluate if the criterion was achieved. An interval/tolerance can be set to determine in which conditions the deliverable will still be acceptable.>># <|[aqua]#<Name or role of the person/group with authority to approve the deliverable.>#
+|||||||
+|===
+[.small]#*e.g. Business, IT, Legal, People & Organisation…#
+
+=== 4.2. Acceptance Activities
+[aqua]#<It’s the Project Manager's (PM) responsibility to identify and propose the acceptance activities that need to be performed. Use the table below to describe the planned activities for assessing compliance of each deliverable.>#
+
+The purpose of this section is to describe the activities related to deliverables acceptance considering project objectives and approach.
+
+The acceptance activities will be performed by:
+
+[aqua]#<Identify roles, people and organizations involved>.#
+
+* [lime]#The Business Manager (BM),#
+* [lime]#User Representatives (UR),#
+* [lime]#Project Quality Assurance (PQA) team#
+
+The deliverables acceptance activities are described here and added to the WBS, and then they are estimated, scheduled and assigned in the Project Work Plan along with all project activities. Resources needed, including contributions by the User Representatives (URs), should be estimated and listed here.
+
+The acceptance activities will include the following types of activities:
+
+[aqua]#<Customise the acceptance activities if necessary (add new or delete existing activities that are not applicable to the project.>#
+
+
+[cols="^10,^30,^50,^100,^50,^50",options="header"]
+|===
+|#|	Deliverable Name |	Activity name |Activity description|Resources |Effort
+|[aqua]#ID# <|[aqua]#<Identify the specific deliverable.># <|[aqua]#<Identify the activity.># <|[aqua]#<Describe the activity.># <|[aqua]#<Indicate the resources foreseen to execute/support the activity># <|[aqua]#<Indicate the estimated effort to complete the activity#
+|[aqua]#<1># <|[aqua]#<Special Case: User Story># <|[aqua]#<User story validation during Review meeting># <|[aqua]#<During this meeting, the team will present the Product Owner and other stakeholders each user story as a piece of software. They will test it to ensure it complies with the specific acceptance criteria defined.#||
+||||||
+||||||
+|===
+
+=== 4.3. Processes, Tools and Techniques
+[aqua]#<Tools and Techniques can apply to the acceptance of one or more deliverables. If the tools and techniques differ based on the deliverable, then a table like the one provided below is the best way to describe the tools and techniques the Team is planning to use. Some guidelines to be included here…>#
+
+The purpose of this section is to identify and describe the processes, tools and techniques that will support those involved to perform their acceptance activities and evaluate the deliverables.
+
+The following techniques will be used for deliverables acceptance:
+
+* [lime]#Benchmarking;#
+* [lime]#Statistical sampling;#
+* [lime]#Quality Requirements Prioritisation (MoSCoW – Must have, Should have, Could have, or Won't have);#
+* [lime]#Audits;#
+* [lime]#Walkthroughs;#
+* [lime]#Acceptance testing;#
+* [lime]#Usability testing;#
+* [lime]#…#
+
+[aqua]#<Customise the above list as per your project's or/and organization's needs.>#
+
+The following tools and artefacts will be used for deliverables acceptance:
+
+* [lime]#PM2 Deliverables Acceptance Plan;#
+* [lime]#PM2 Deliverables Acceptance Checklist;#
+* [lime]#PM2 Deliverables Acceptance Note;#
+* [lime]#PM2 Issue Log;#
+* [lime]#PM2 Change Log;#
+* [lime]#PM2 Decision Log;#
+* [lime]#Test Plan;#
+* [lime]#Test Cases;#
+* [lime]#Test Findings;#
+* [lime]#Test Evaluation Summary Report;#
+* [lime]#Test Log;#
+* [lime]#Configuration registry;#
+* [lime]#…#
+
+[aqua]#<Customise the above list as per your project's or/and organization's needs.>#
+
+[cols="^10,^60,^50,^90,options="header"]
+|===
+h|# h|	Deliverable Name h|	Process, tool or Technique h|Description
+| <|[aqua]#<Identify the specific deliverable.># <|[aqua]#<Identify the Process, tool and/or Technique.># <|[aqua]#<Describe the process to be used and/or the tools and techniques involved.#
+|[aqua]#<1># <|[aqua]#<Special case: User Story># <|[aqua]#<Iteration Planning and Iteration Review meetings ># <|[aqua]#<For each user story, the acceptance criteria is defined with the Product Owner during the Planning meeting and agreed with the team. Then, during the Iteration Review meeting, the Product Owner and the remaining stakeholders will validate the implemented user story against the defined acceptance criteria.>#||
+|===
+
+=== 4.4. Resources and Expertise
+This section captures the types of resources/profiles and their required expertise to perform effectively deliverables acceptance activities.
+
+These can be linked to the entries in the tables [aqua]#<use the IDs># of sections 4.1, 4.2 and 4.3.
+
+The detailed resource requirements will be captured in the Project Work Plan, and any training needs in the Project Handbook.
+

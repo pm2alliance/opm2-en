@@ -1,0 +1,12 @@
+== 2. RISK MANAGEMENT OBJECTIVES
+Risk management brings visibility to risks and accountability as to how they are handled, and ensures that project risks are proactively dealt with and regularly monitored and controlled.
+The main objectives of project risk management are:
+
+* [lime]#Project risks are identified, assessed, approved and reported throughout the project;#
+* [lime]#All major risks are reported to the Steering Layer;#
+* [lime]#Risk response strategies are in line with stakeholders' risk appetite and approved risk level thresholds;#
+* [lime]#All risks are monitored and under control;#
+* [lime]#Risk response actions are implemented effectively.#
+
+[aqua]#<Please customize the above risk management objectives as per your project's or/and organization's needs.>#
+

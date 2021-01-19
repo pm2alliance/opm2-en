@@ -1,0 +1,23 @@
+== 5. REQUIREMENT MANAGEMENT ROLES AND RESPONSIBILITIES
+The main roles and responsibilities for the requirements management process are:
+
+*	*Project Owner (PO):* is accountable for all requirements and has the responsibility of approving or rejecting requirement documentation including the priorities of each requirement.
+*	*Project Steering Committee (PSC):* is informed about the status of the requirements gathering process and on changes to the approved requirements documentation and priorities.
+*	*Business Manager (BM):* is consulted for the tailoring and elaboration of the requirements documentation and the priorities. The Business Manager (BM) is responsible for identifying the relevant User Representatives (UR) that can be a source in the requirement gathering process like e.g. participation in workshops and interviews. In addition the Business Manager (BM) identifies the User Representatives (UR) that will participate in deliverable testing during deliverable acceptance.
+*	*Solution Provider (SP):* is informed on the status of the requirements gathering and management processes.
+*	*Project Manager (PM):* is responsible for managing, monitoring, controlling and reporting the status of the requirement documentation and processes, including identifying, documenting, evaluating, prioritising, approving and validating requirements. The PM can assign specific tasks to a Project Core Team member or to another project stakeholder, as e.g. *a business analyst*.
+*	*Project Core Team (PCT):* is informed on the status of the requirements gathering and management processes. Some team members may support the PM in the requirements management related activities. A *business analyst* may be part of the PCT.
+*	*Appropriate Governance Body (AGB):* is informed on the status of the requirements gathering and management processes.
+*	*Other Stakeholders:* [aqua]#<Please add other stakeholders if relevant.>#
+
+The following RASCI table defines the responsibilities of those involved in requirements management:
+[cols="^60,^5,^5,^10,^10,^10,^10,^10,",options="header"]
+|===
+|RAM (RASCI)	|AGB	|PSC	|PO	|BM	|UR	|SP	|PM	|PCT
+|Requirements Management Plan|	I|	I|	*A*|	C|	C|	I|	R|	S|
+Manage Requirements|	I|	I|	*A*|	C|	C|	I|	R|	S|
+|===
+*AGB: Appropriate Governance Body.
+
+The contact details of each of the above stakeholders are documented in the Project Stakeholder Matrix.
+

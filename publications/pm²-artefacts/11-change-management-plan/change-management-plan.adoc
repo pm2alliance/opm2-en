@@ -1,0 +1,38 @@
+= Change Management Plan
+:doctype: book
+:doctitle: Change Management Plan
+:docinfo:
+:toc: macro
+:toc-title: Table of Contents
+:toclevels: 3
+:pagenums:
+
+include::sections/first-page.adoc[]
+
+include::sections/intro-page.adoc[]
+
+include::../toc.adoc[]
+
+include::sections/1-introduction.adoc[]
+
+include::sections/2-change-management-objectives.adoc[]
+
+include::sections/3-change-management-process.adoc[]
+
+include::sections/4-change-management-roles-and-responsibilities.adoc[]
+
+include::sections/5-tools-and-techniques.adoc[]
+
+include::sections/6-change-identification-activities.adoc[]
+
+include::sections/7-change-assessment-and-action-recommendation-activities.adoc[]
+
+include::sections/8-change-approval-decisions.adoc[]
+
+include::sections/9-change-implementation-activities.adoc[]
+
+include::sections/10-change-control-and-reporting.adoc[]
+
+include::sections/11-related-pm²-plans.adoc[]
+
+include::sections/appendix-references-and-related-documents.adoc[]

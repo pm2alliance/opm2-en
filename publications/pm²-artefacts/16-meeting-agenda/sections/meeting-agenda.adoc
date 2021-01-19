@@ -1,0 +1,45 @@
+
+[%autowidth.stretch,grid="none",frame="none",stripes="none"]
+|===
+^|Meeting Agenda
+|
+^|[maroon]#<Project Name>#
+|===
+
+|===
+h|*Meeting Title:*| h|*Meeting Date/Time:*|
+h|*Meeting Type:*| h|*Meeting Location:*|
+h|*Meeting Coordinator:*| h|*Issue Date:*|
+|===
+
+|===
+
+h|*Participant Name* (invited) h|*Initials* h|*Organisation / Email*
+|||
+|||
+|||
+|||
+|||
+|===
+
+|===
+h| Meeting Objectives
+|1.
+|===
+
+|===
+^h|*Agenda Items* ^h|*Time* ^h|*Owner*
+|||
+|||
+|||
+|||
+|||
+|===
+
+|===
+h|Related Documents h|	Location
+|XYZ.doc |	[aqua]#U:\ProjectX\Documents\#
+||
+||
+||
+|===
