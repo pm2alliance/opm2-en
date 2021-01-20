@@ -27,7 +27,7 @@ Open PM² does this by:
 
 The Centre of Excellence in PM² (CoEPM²) provides a central online location for all PM² information, publications, etc.
 
-* PM² Publications: http://europa.eu/PM2/Publications[http://europa.eu/PM2/Publications]
+* PM² Publications: https://www.pm2alliance.eu/publications[https://www.pm2alliance.eu/publications]
 * Contact: mailto:EC-PM2@ec.europa.eu[EC-PM2@ec.europa.eu]
 
 ==== Project Support Network (PSN)
