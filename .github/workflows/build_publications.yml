@@ -3,6 +3,8 @@ name: Build pm2-Guide
 on:
   push:
     branches: [ master ]
+    paths:
+      - "publications/**"
   workflow_dispatch:
 
 jobs:

@@ -21,9 +21,13 @@ namespace :book do
       #puts "Checking HTML..."
       #exec_or_raise('htmlproofer --check-html ../../publications/pm²-guide.html')
 
-      puts "Converting to PDF..."
+      puts "Converting pm²-guide to PDF..."
       `bundle exec asciidoctor-pdf #{params} -D ../../publish -a compress ../../publications/pm²-guide.adoc 2>/dev/null`
       puts " -- PDF output at /publish/pm²-guide.pdf"
+
+      #puts "Converting pm²-artefacts to PDF..."
+      #`bundle exec asciidoctor-pdf #{params} -D ../../publish -a compress ../../publications/pm²-artefacts.adoc -o pm²-artefacts.pdf 2>/dev/null`
+      #puts " -- PDF output at /publish/pm²-artefacts.pdf"
 
     end
   end
