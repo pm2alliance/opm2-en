@@ -1,0 +1,9 @@
+== 1. INTRODUCTION
+The _Issue Management Plan_ defines and documents the activities, the roles and responsibilities of those involved in identifying, assessing, assigning, resolving and controlling project issues. Issues are defined as unplanned project related events that happened and require a project management action.
+
+In addition, this plan documents decisions, defines decision owners and keeps track of the implementation of key decisions taken. Decisions can be taken in Project Steering Committee meetings and other meetings.
+The objectives of this document are:
+
+*	To outline the issue and decision management process to be used for the project;
+*	To identify the roles and responsibilities related to issue and decision management;
+*	To specify the methodology, standards, tools and techniques used to support issue and decision management.

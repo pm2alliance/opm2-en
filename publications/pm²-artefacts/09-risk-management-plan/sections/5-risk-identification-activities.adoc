@@ -1,0 +1,23 @@
+== 5. RISK IDENTIFICATION ACTIVITIES
+[aqua]#<Customise the activities and tools that will be used to identify risks for this project and define the risk categories.>#
+
+The purpose of this section is to describe the specific risk identification activities and tools that will be used for this project.
+
+Initial risk identification was first performed when preparing the project's Business Case (for high [red]#level Business +
+risks#) and then again in the Project Charter ([red]#for high level project risks#). So, these are the starting points of this +
+step.
+
+The identification of risks resulted from: desk reviews, [lime]#interviews, project team brainstorming, PSC meetings, feedback of the users' workshops, questionnaires, risk checklist analysis, and assumptions analysis.#
+
+The following risk categories have been included in the risk identification analysis, considering the type of the project:
+
+* [lime]#Business: related to policy decisions, strategy and business processes and services;#
+* [lime]#IT: related to infrastructure, system development, security, business continuity and availability of IT services;#
+* [lime]#People and organisation: related to project staffing, competences and coordination between teams;#
+* [lime]#External: related to outsourced activities, external partners and macro environment;#
+* [lime]#Legal: related to laws, regulations and rules;#
+* [lime]#Communication and Information: related to communication methods and channels and to the quality and timeliness of information.#
+
+[aqua]#<Please customize the above list as per your project's or/and organization's needs.>#
+
+The [lime]#PM2 _Risk Log_# is the tool used to register and update risks and related risk management actions.#

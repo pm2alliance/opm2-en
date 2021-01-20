@@ -1,0 +1,9 @@
+== 8. POST PROJECT RECOMMENDATIONS
+[aqua]#<Summarise any improvement opportunities or recommendations for post-project work related to the operations of the product/service, such as extensions, maintenance, ideas for follow-up projects, etc.# +
+
+[aqua]#Highlight:#
+
+* [aqua]#Suggestions for follow up activities.#
+* [aqua]#Suggestions for follow-up projects.#
+* [aqua]#Suggestions for follow-up activities related specifically to business implementation and organisational change, and in verifying that the intended benefits will be realised.>#
+#

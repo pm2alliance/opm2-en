@@ -1,0 +1,30 @@
+= Transition Plan
+:doctype: book
+:doctitle: Transition Plan
+:docinfo:
+:toc: macro
+:toc-title: Table of Contents
+:toclevels: 3
+:pagenums:
+
+include::sections/first-page.adoc[]
+
+include::sections/intro-page.adoc[]
+
+include::../toc.adoc[]
+
+include::sections/introduction.adoc[]
+
+include::sections/transition-goals-and-activities.adoc[]
+
+include::sections/communication.adoc[]
+
+include::sections/specific-transition-activities.adoc[]
+
+include::sections/transfer-of-responsibility.adoc[]
+
+include::sections/rollback-scenario-plan.adoc[]
+
+include::sections/transition-checklist.adoc[]
+
+include::sections/appendix-references-and-related-documents.adoc[]

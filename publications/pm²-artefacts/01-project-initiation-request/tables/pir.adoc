@@ -1,0 +1,27 @@
+[cols=",,,",options="header"]
+|===
+|*Project Title:* 3+^|[aqua]#Initial project title proposal.#
+| *Initiator:* | [aqua]#Any person (usually from the business community) can define a project request.# |Organisation / Unit: |[aqua]#Organisation/Unit requesting the project.#
+| *Project Owner (PO):* |[aqua]#The organisation funding and being the main beneficiary of the outputs of the project usually nominates a person as the owner of the project, namely the Project Owner (PO).#| Date of Request:|[aqua]#Date that the Project Initiation Request is completed.#
+| *(Solution Provider - SP):*|[aqua]#The organisation, that will execute the project and will be accountable for the deliverables requested by the PO, will nominate a person to act as the supplier, namely the Solution Provider (SP).# | Approving Authority:|[aqua]#The appropriate decision maker as specified in the organisation's governance structure.#
+|*Estimated Effort (PDs):* |[aqua]#High level estimates in Person-day. If known, any other costs should be mentioned.# |Target Delivery Date: |[aqua]#Date that the project delivery is needed.#
+|*Type of Delivery:* 3+| +++<input type="checkbox">+++ In-house +++<input type="checkbox">+++ Outsourced +++<input type="checkbox">+++Mix +++<input type="checkbox">+++Not-known
+/https://github.com/asciidoctor/asciidoctor/issues/1674/
+4+|
+4+|*Context / Situation (Business Need/ Problem / Opportunity)*
+4+|[aqua]#<Describe the reason why a project should be initiated. Think of the situation that the project will address in terms of responding to a business need, or providing an answer to a problem or taking advantage of an opportunity. The context of the project can be described by a combination of any of the above scenarios.>#
+4+|*Legal Basis*
+4+|[aqua]#<The legal basis, if any, for the Project Initiation Request. Provide the link to the organisation's Strategic goals. Can be in the form of a Directive coming from the organisation’s senior management>#
+4+|*Outcomes (high level)*
+4+|[aqua]#<Identify and describe at a high-level the main outcomes that can be expected from the project to be initiated. Think of outcomes as the result of change that the project will implement in the organisation – the future or desired state. It should be possible to link measurable benefits directly to the outcomes.>#
+4+|*Impact (high level)*
+4+|[aqua]#<Describe the impact that the current situation or/and the desired solution will have in terms of the internal perspective of the organisation (impact on processes, people, culture) and in terms of how the situation or/and solution may impact external stakeholders of the organisation.  Keep this at a relatively high level>#
+4+|*Success Criteria*
+4+|[aqua]#<This section should describe the high-level success criteria of the proposed project. Think of success criteria as the criteria based on which the proposed project can be evaluated as a success or a failure. Success criteria may be on scope, schedule and costs>#
+4+|*Assumptions*(high level)
+4+|[aqua]#<This section should describe any project assumptions related to business, technology, resources, organisational environment, scope, expectations, or schedules. At this stage, assumptions are considered to be facts (true); however, they need to be further validated to ensure that they are indeed facts. Note that assumptions that have not been validated may become risks.>#
+4+|*Constraints*(high level)
+4+|[aqua]#<Describe any key constraints in areas such as schedule, budget, resources, or products to be used or acquired.  You can also present decisions and compliance related constraints, and constraints that arise from the organisation and external environment as well.>#
+4+|*Risks* ((high level))
+4+|[aqua]#<Add any Initial risks that have been identified.  Focus on the business risks.>#
+|===

@@ -1,0 +1,55 @@
+[cols="5,^1,^1,^1,^1,^1,^1,^1,^1"]
+
+|===
+h| [.small]#Initiating#                      h|[.small]#AGB#   h|[.small]#PSC#  h| [.small]#PO#     h|[.small]#BM#    h|[.small]#BIG#   h|[.small]#SP#   h|[.small]#PM#   h|[.small]#PCT#
+| [.small]#Project Initiation Request#        |[.small]#I#     | [.small]#n.a.#  |[.small]#*A/S*#  |[.small]#*R*#    |[.small]#*S*/C#  |[.small]#I#      | [.small]#n.a.#  | [.small]#n.a.#
+| [.small]#Business Case#                     |[.small]#I#      |[.small]#C#      |[.small]#*A*#    |[.small]#*R*#    |[.small]#C#      |[.small]#*S*#    |[.small]#*S*#   | [.small]#n.a.#
+| [.small]#Project Charter#                   |[.small]#I#      |[.small]#*A*#    |[.small]#C#    |[.small]#*S*#    |[.small]#C#      |[.small]#*S*#   |[.small]#*R*#    |[.small]#C#
+h| [.small]#*Planning*#                        h|[.small]#*AGB*# h|[.small]#*PSC*# h|[.small]#*PO*#  h|[.small]#*BM*# h|[.small]#*BIG*# h|[.small]#*SP*#  h|[.small]#*PM*#  h|[.small]#*PCT*#
+| [.small]#Planning Kick-off Meeting#         |[.small]#I#      |[.small]#*A*#    |[.small]#C#      |[.small]#*S*#   |[.small]#C#      |[.small]#C#      |[.small]#*R*#   |[.small]#C#
+| [.small]#Project Handbook#                  |[.small]#I#      |[.small]#I#      |[.small]#*A*#    |[.small]#*S*#    |[.small]#C#      |[.small]#I#      |[.small]#*R*#   |[.small]#C#
+| [.small]#Project Stakeholder Matrix#        |[.small]#I#      |[.small]#I#      |[.small]#*A*#    |[.small]#*S*#    |[.small]#C#      |[.small]#I#      |[.small]#*R*#    |[.small]#C#
+| [.small]#Project Work Plan#                 |[.small]#I#     |[.small]#*A*#    |[.small]#C#      |[.small]#*S*/C#  |[.small]#C#      |[.small]#C#      |[.small]#*R*#    |[.small]#*S*/C#
+| [.small]#Outsourcing Plan#                  |[.small]#*A*#    |[.small]#C#     |[.small]#C#      |[.small]#C#      |[.small]#I#      |[.small]#*S*#    |[.small]#*R*#    |[.small]#I#
+| [.small]#Deliverables Acceptance Plan#      |[.small]#I#      |[.small]#*A*#    |[.small]#C#     |[.small]#*S*#    |[.small]#I#      |[.small]#C#     |[.small]#*R*#    |[.small]#C#
+| [.small]#Transition Plan#                   |[.small]#I#      |[.small]#*A*#    |[.small]#C#      |[.small]#C#      |[.small]#C#      |[.small]#C#      |[.small]#*R*#    |[.small]#C#
+| [.small]#Business Implementation Plan#      |[.small]#I#      |[.small]#I#      |[.small]#*A*#    |[.small]#*R*#    |[.small]#C#      |[.small]#I#      |[.small]#*S*#    |[.small]#I#
+9+^| [.small]#*Management Plans*#
+| [.small]#Requirements Management Plan#      |[.small]#I#      |[.small]#I#      |[.small]#*A*#    |[.small]#C#      |[.small]#C#      |[.small]#I#      |[.small]#*R*#    |[.small]#*S*#
+| [.small]#Project Change Management Plan#    |[.small]#I#      |[.small]#I#      |[.small]#*A*#    |[.small]#C#      |[.small]#I#     |[.small]#I#      |[.small]#*R*#    |[.small]#I#
+| [.small]#Risk Management Plan#             |[.small]#I#     |[.small]#C#      |[.small]#*A*#    |[.small]#C#      |[.small]#I#      |[.small]#I#      |[.small]#*R*#    |[.small]#I#
+| [.small]#Issue Management Plan#             |[.small]#I#      |[.small]#I#      |[.small]#*A*#    |[.small]#C#      |[.small]#C#      |[.small]#I#      |[.small]#*R*#    |[.small]#C#
+| [.small]#Quality Management Plan#           |[.small]#I#      |[.small]#*A*#    |[.small]#C#      |[.small]#C#      |[.small]#C#      |[.small]#C#      |[.small]#*R*#    |[.small]#C#
+| [.small]#Communications Management Plan#    |[.small]#I#     |[.small]#I#      |[.small]#*A*#    |[.small]#*S*#    |[.small]#C#     |[.small]#I#      |[.small]#*R*#    |[.small]#C#
+h| [.small]#Executing#                        h|[.small]#AGB#  h|[.small]#PSC#  h|[.small]#PO#   h|[.small]#BM#   h|[.small]#BIG#  h|[.small]#SP#   h|[.small]#PM#   h|[.small]#PCT#
+| [.small]#Executing Kick-off Meeting#        |[.small]#I#      |[.small]#*A*#    |[.small]#C#      |[.small]#*S*/C#  |[.small]#C#      |[.small]#C#     |[.small]#*R*#   |[.small]#C#
+| [.small]#Project Coordination#              |[.small]#I#      |[.small]#I#      |[.small]#*A*#    |[.small]#*S*#    |[.small]#I#      |[.small]#I#      |[.small]#*R*#    |[.small]#I#
+| [.small]#Quality Assurance#                 |[.small]#I#     |[.small]#I#     |[.small]#I#     |[.small]#*S*#    |[.small]#C#      |[.small]#I#      |[.small]#*A*#    |[.small]#*R*#
+| [.small]#Project Reporting#                 |[.small]#I#      |[.small]#I#      |[.small]#*A*#    |[.small]#*S*/C#  |[.small]#I/C#    |[.small]#I/C#    |[.small]#*R*#    |[.small]#C#
+| [.small]#Information Distribution#         |[.small]#I#      |[.small]#I#      |[.small]#*A*#    |[.small]#C#      |[.small]#I#      |[.small]#I#     |[.small]#*R*#    |[.small]#C#
+h| [.small]#Monitor & Control#                h|[.small]#AGB#  h|[.small]#PSC#  h|[.small]#PO#    h|[.small]#BM#    h|[.small]#BIG#   h|[.small]#SP#    h|[.small]#PM#    h|[.small]#PCT#
+|[.small]#Monitor Project Performance#       |[.small]#I#     |[.small]#I#      |[.small]#*A*#   |[.small]#C#      |[.small]#C#      |[.small]#I#      |[.small]#*R*#    |[.small]#C#
+| [.small]#Control Schedule#                  |[.small]#I#      |[.small]#I#      |[.small]#*A*#    |[.small]#C#      |[.small]#C#      |[.small]#I#      |[.small]#*R*#    |[.small]#C#
+| [.small]#Control Cost#                      |[.small]#I#      |[.small]#I#      |[.small]#*A*#   |[.small]#C#      |[.small]#C#      |[.small]#I#      |[.small]#*R*#   |[.small]#C#
+| [.small]#Manage Stakeholders#               |[.small]#I#      |[.small]#I#      |[.small]#*A*#    |[.small]#*S*/C#  |[.small]#I#      |[.small]#C#      |[.small]#*R*#    |[.small]#I#
+| [.small]#Manage Requirements#               |[.small]#I#      |[.small]#I#      |[.small]#*A*#    |[.small]#C#      |[.small]#C#      |[.small]#I#     |[.small]#*R*#    |[.small]#*S*#
+| [.small]#Manage Project Changes#            |[.small]#I#      |[.small]#C#     |[.small]#*A*#    |[.small]#*S*#    |[.small]#I#     |[.small]#I#      |[.small]#*R*#    |[.small]#C#
+| [.small]#Manage Risks#                      |[.small]#I#      |[.small]#C#      |[.small]#*A*#    |[.small]#*S*/C# |[.small]#C#      |[.small]#I#      |[.small]#*R*#    |[.small]#C#
+| [.small]#Manage Issues & Decisions#         |[.small]#I#      |[.small]#I#      |[.small]#*A*#    |[.small]#*S*#    |[.small]#C#      |[.small]#I#      |[.small]#*R*#    |[.small]#C#
+| [.small]#Manage Quality#                    |[.small]#I#      |[.small]#I#      |[.small]#I#      |[.small]#*S*/C#  |[.small]#C#      |[.small]#*A*#    |[.small]#*R*#    |[.small]#C#
+| [.small]#Manage Deliverables Acceptance#    |[.small]#I#      |[.small]#I#      |[.small]#*A*#    |[.small]#*S*#    |[.small]#C#      |[.small]#C#      |[.small]#*R*#    |[.small]#C#
+| [.small]#Manage Business Implementation#    |[.small]#I#      |[.small]#I#      |[.small]#*A*#    |[.small]#*R*#    |[.small]#C#      |[.small]#I#      |[.small]#*S*#    |[.small]#I#
+| [.small]#Manage Transition#                 |[.small]#I#      |[.small]#*A*#    |[.small]#C#      |[.small]#C#      |[.small]#C#      |[.small]#C#      |[.small]#*R*#    |[.small]#C#
+| [.small]#Manage Outsourcing#                |[.small]#*A*#    |[.small]#C#      |[.small]#C#     |[.small]#C#      |[.small]#I#     |[.small]#*S*#    |[.small]#*R*#    |[.small]#I#
+h| [.small]#Closing#                          h|[.small]#AGB#   h|[.small]#PSC#  h|[.small]#PO#   h|[.small]#BM#    h|[.small]#BIG#   h|[.small]#SP#    h|[.small]#PM#  h|[.small]#PCT#
+| [.small]#Project-End Review Meeting#        |[.small]#I#      |[.small]#*A*#    |[.small]#C#      |[.small]#*S*#    |[.small]#C#      |[.small]#C#      |[.small]#*R*#    |[.small]#C#
+| [.small]#Project-End Report#                |[.small]#I#      |[.small]#*A*#    |[.small]#C#      |[.small]#*S*#    |[.small]#C#      |[.small]#C#      |[.small]#*R*#    |[.small]#C#
+| [.small]#Administrative Closure#            |[.small]#I#      |[.small]#C#      |[.small]#*A*#    |[.small]#C#      |[.small]#I#      |[.small]#C#      |[.small]#*R*#    |[.small]#I#
+|===
+[%autowidth.stretch,grid="none",frame="none",stripes="none"]
+|===
+| [.small]#*AGB* (Appropriate Governance Body)#   | [.small]#*BIG* (Business Implementation Group)#
+| [.small]#*PSC* (Project Steering Committee)#    | [.small]#*SP* (Solution Provider)#
+| [.small]#*PO* (Project Owner)#                  | [.small]#*PM* (Project Manager)#
+| [.small]#*BM* (Business Manager)#               | [.small]#*PCT* (Project Core team)#
+|===

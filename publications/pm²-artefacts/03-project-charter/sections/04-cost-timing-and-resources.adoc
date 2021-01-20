@@ -1,0 +1,27 @@
+=== 4.	COST, TIMING AND RESOURCES
+==== 4.1	Cost
+[aqua]#<This section should describe the financing structure: Expenditures, budget lines, efforts and amounts.
+Also provide a summary of previous investments in this area (e.g. when this project is a follow-up project).>
+Provide the Total Cost of Ownership (TCO) of the delivered solution (project output). Calculate the cost for the involvement of the project team and all stakeholders (including costs, if any, for other organisations and/or external stakeholders).>
+<Provide at least the information requested in the table below, and add further details if necessary, such as any resulting cost savings.>#
+include::../tables/cost-table.adoc[]
+
+==== 4.2	Timing and Milestones
+[aqua]#<This section should list the important project points in time of the project lifecycle (i.e. milestones) for events or project deliverables. The list can include an indication regarding the foreseen timing of the major project phases (e.g. the PM2 phases of Initiating, Planning, Executing, Closing), as well as both project and project management deliverables (e.g. the Project Work Plan and the date it's expected to be finalized).>#
+|===
+|ID	|Milestone Description|Target Delivery Date
+|||
+|||
+|===
+
+==== 4.3	Planned Resources
+<This section should describe project's resources requirements. Summarise here the numbers and type of staff required, including any special skills or experience, scheduled by project phase. Describe how you will approach finding and acquiring resources needed for the project: staff and equipment. Include all resources required to execute the project in all user/stakeholder groups including resources required in other organisations and/or external stakeholders (if any).
+For non-human resources such as office space, special facilities, computer equipment, office equipment, and support tools, you can also identify which role is responsible for provisioning the specific items.
+|===
+|ID	|Resource Requirement|Description
+|||
+|||
+|===
+
+
+

@@ -1,0 +1,2 @@
+== 3.	EXPECTED OUTCOMES +
+[aqua]#<This section should explain, from the business point of view, what are the desired outcomes in term of organisation, human resources, assets, reputation, etc. Think of outcomes as the result of the change that the proposed solution will result in the organisation. The high-level outcomes identified in the Project Initiation Request should be considered in this section.>#

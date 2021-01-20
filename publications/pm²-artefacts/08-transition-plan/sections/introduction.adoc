@@ -1,0 +1,7 @@
+=== 1.	INTRODUCTION
+The objectives of the Transition Plan are:
+
+* To identify and document the transition goals.
+* To ensure the smooth transition of the project’s deliverables from the "project mode" to the "operations mode".
+* To identify the pre-requisites for rolling out the project deliverables.
+* To prepare the transition of the responsibility for the deliverables of the project from the project team to the client’s performing organization.

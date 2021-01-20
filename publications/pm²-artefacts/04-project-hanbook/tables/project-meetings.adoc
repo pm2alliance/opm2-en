@@ -1,0 +1,13 @@
+[cels="20,10,8,"options="header"]
+|===
+|Meeting|	Chair|	Frequency
+|Planning Kick-off Meeting|	Project Manager (PM)|	Once
+|Executing Kick-off Meeting|	Project Manager (PM)|	Once
+|Project Status Meeting|	Project Manager (PM)|	Every 2 weeks
+|Project Core Team Meeting|	Team Leader (TL)|	Weekly
+|Project Review Meeting|	Project Manager (PM)|	Bi-annually
+|Project Steering Committee Meeting|	Project Owner (PO)|	Monthly
+|Change Control Meeting|	Project Manager (PM)|	Ad Hoc
+|Project-End Review Meeting|	Project Manager (PM)|	Once
+
+|===

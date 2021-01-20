@@ -1,0 +1,13 @@
+== 5. ISSUE IDENTIFICATION ACTIVITIES
+[aqua]#<Customise the approach, tools and techniques that will be used to identify, assess and recommend actions to resolve issues for this project. Indicate the person who will approve issues related actions.>#
+
+This section describes the main tasks involved in detecting and recording the issues, for analysing the nature and extends of the issue, and for implementing of the appropriate corrective actions.
+
+Issues will be identified by any project stakeholder and will be then documented in the Issue Log.
+
+[aqua]#<Only issues that cannot be solved easily and require a management action should be registered in the Issue Log.>#
+[discrete]
+==== Notes:
+* Any project activities (e.g. small meeting actions) which do not appear in the Project Work Plan should be logged, assigned and tracked by using the [lime]#Issue Log#.
+* Any risk that materialises and requires action creates an issue that needs to be dealt with (and should be logged, assessed, assigned and tracked by using the  [lime]#Issue Log#.)
+* Issues of significant size may sometimes lead to project change. Therefore issues are often linked to project change items (logged, assessed, assigned and tracked by using the  [lime]#Change Log.#)

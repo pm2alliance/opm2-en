@@ -1,0 +1,28 @@
+[.landscape]
+<<<
+[cols="25%,10%,10%,10%,10%,10%,10%,10%,10%,10%,10%,10%"]
+|===
+h| 2+^h|[small]#201a# 2+^h|[small]#201b# 2+^h|[small]#201c# 2+^h|[small]#201d# 2+^h|[small]#201e# |
+h|[small]*Expenditure* h|[small]*Budget Line* h|[small]*Amount^[1]^*
+h|[small]*Budget Line* h|[small]*Amount* h|[small]*Budget Line* h|[small]*Amount* h|[small]*Budget Line* h|[small]*Amount* h|[small]*Budget Line* h|[small]*Amount* h|[small]*Total*
+|[small]#Solution Development(k€)^[2]^# |||||||||||
+|[small]#Solution Maintenance(k€)^[3]^# |||||||||||
+|[small]#Support(k€)[4]# |||||||||||
+|[small]#Training(k€)[5]# |||||||||||
+|[small]#Infrastructure (k€)[6]# |||||||||||
+h|[small]#*Total per year(k€)*#|||||||||||
+h|[small]#*Total per year FTE internal staff*[7]# ||||||||||||
+|===
+//The footnotes are entered using a table of 1 column, 1 row to avoid double spacing
+[frame="none",grid="none"]
+|===
+|[.small]#*[1].*# [.small]#If you cannot provide an amount, provide at least a qualitative statement (e.g. 20 days of training, 2 laptops, etc.)# +
+[.small]#*[2].*# [.small]#*Development:* Provide the total (anticipated) cost (human resources) for the development of the solution# +
+[.small]#*[3].*# [.small]#*Maintenance:* provide the total (anticipated) cost (human resources) in K€ per year to maintain the solution# +
+[.small]#*[3].*# [.small]#*Support:* provide the total (anticipated) cost (human resources) in K€ per year to support the solution (e.g. website, helpdesk, operations, etc.)# +
+[.small]#*[5].*# [.small]#*Training:* provide the total (anticipated) cost (human resources) to ensure the training of the users, the support and operations staff, etc.# +
+[.small]#*[6].*# [.small]#*Infrastructure:* provide the total (anticipated) cost of the infrastructure required to deliver, support, operate and maintain the delivered solution.# +
+[.small]#*[7].*# [.small]#*Total FTE internal staff:* provide the total (anticipated) effort that will be spent by internal staff on the project (in person-days, man-weeks, man-months or man-years).#
+|===
+[.portrait]
+<<<

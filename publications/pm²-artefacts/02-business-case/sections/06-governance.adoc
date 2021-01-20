@@ -1,0 +1,13 @@
+
+== 6	GOVERNANCE +
+=== 6.1	Project Owner (PO) +
+[aqua]#<As defined in the PM2 Projects Roles & Responsibilities.
+The organisation funding and being the main beneficiary of the project usually nominates a person as the owner of the project, namely the Project Owner (PO).>#
+
+=== 6.2	Solution Provider (SP) +
+[aqua]#<As defined in the  PM2 Projects Roles & Responsibilities. +
+The organisation, that will execute the project and will be accountable for the deliverables requested by the PO, will nominate a person to act as the supplier, namely the Solution Provider (SP). >#
+
+=== 6.3	Approving Authority +
+[aqua]#<The appropriate decision maker as specified in the organisation's governance structure (usually the chairman of a steering committee or the PO or the superior of the PO).># +
+Signature of the approving authority ……… Date ………

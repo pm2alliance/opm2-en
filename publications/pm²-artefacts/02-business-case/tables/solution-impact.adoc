@@ -1,0 +1,7 @@
+[col=",",options="header"]
+|===
+|Process | Solution Impact Description
+| [aqua]#Negotiations strategy & co-ordination (NSC)#|
+| [aqua]#Economic, trade matters & statistics - horizontal issues#|
+| [aqua]#Economic, trade matters & statistics related to a specific country#|
+|===

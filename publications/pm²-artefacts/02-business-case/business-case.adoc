@@ -1,0 +1,30 @@
+= Business Case
+:doctype: book
+:doctitle: Business Case
+:docinfo:
+:toc: macro
+:toc-title: Table of Contents
+:toclevels: 3
+:pagenums:
+
+include::sections/first-page.adoc[]
+
+<<<
+
+include::sections/intro-page.adoc[]
+
+include::../toc.adoc[]
+
+include::sections/01-project-initiation-request-information.adoc[]
+
+include::sections/02-context.adoc[]
+
+include::sections/03-expected-outcomes.adoc[]
+
+include::sections/04-possible-alternatives.adoc[]
+
+include::sections/05-solution-description.adoc[]
+
+include::sections/06-governance.adoc[]
+
+include::sections/appendix1-references-and-related-documents.adoc[]

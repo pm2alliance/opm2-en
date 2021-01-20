@@ -1,0 +1,26 @@
+=== 5. PROJECT PROGRESS MEASUREMENT
+==== 5.1. Project Progress Measuring Approach
+[aqua]#<This section should provide a summary of the project progress, performance and forecasting measuring approach that will be used for the monitoring (tracking) and controlling of the project. For example, Earned Value Management (EVM) or Earned Schedule Management (ESM) may be the preferred method, or perhaps simply tracking at the milestone level is deemed as adequate.#
+
+[aqua]#It is useful to also define in this section what information will be tracked (e.g. Effort spent, money spent, milestone met, etc.) and how often.>#
+
+==== 5.2. Project Reports
+[aqua]#<In the subsection below, define and describe the reports to be used during this project. The frequency, medium and recipients will be defined in the section Communications Management.>#
+
+===== 5.2.1. Status and Progress Reports
+[aqua]#<In this section the various types of progress reports should be defined and briefly described, and links to the report templates should be provided. As per the project configuration rules, the location of the folder with all the completed progress reports should also be provided.>#
+
+====== 5.2.1.1. Other Reports
+[aqua]#<In this section all other types of project reports should be defined and briefly described and links to the report templates and the location of the folder with all the completed reports should be provided.>#
+
+==== 5.3. Project Checklists
+[aqua]#<This section should provide a list of the project checklists that will be used for the monitoring and controlling of the project. Eliminate the ones that will not be used>#
+
+Following checklists will be used in order to monitor and control the project:
+
+* [lime]#Phase-exit Review Checklist#
+* [lime]#Quality Review Checklist#
+* [lime]#Deliverables Acceptance Checklist#
+* [lime]#Transition Checklist#
+* [lime]#Business Implementation Checklist#
+* [lime]#Stakeholder Checklist#

@@ -1,0 +1,23 @@
+=== 4.	SPECIFIC TRANSITION ACTIVITIES
+[aqua]#<Describe and plan any project specific transition activities. You can use the sections below (if applicable to your project, otherwise delete, merge or add relevant sections.>#
+
+==== 4.1. Required Backups
+[aqua]#<Determine any data backups needed prior to starting/competing the transition.>#
+
+==== 4.2. Management of the Environment
+[aqua]#<Availability, access rights.>#
+
+==== 4.3. Acceptance Clearance
+[aqua]#<Refer to the Deliverables Acceptance Management Plan.>#
+
+==== 4.4. Testing
+[aqua]#<Define what needs to be prepared in the environment (necessary testing etc.).>#
+
+==== 4.5. System and Data Conversion
+[aqua]#<Analyse any system and data conversion impact.>#
+
+==== 4.6. Training
+[aqua]#<Determine any training to be performed.>#
+
+==== 4.7. Maintenance and Support
+[aqua]#<Ensure that maintenance support is foreseen.>#

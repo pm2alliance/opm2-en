@@ -1,0 +1,70 @@
+// https://www.toptal.com/designers/htmlarrows/symbols/
+:x: &#x2612;
+:y: &#x2610;
+[%autowidth.stretch,grid="none",frame="none",stripes="none"]
+|===
+^|*Minutes of Meeting*
+|
+^|*[maroon]#<Project Name>#*
+|===
+|===
+h|*Meeting Title:*| h|*Meeting Date/Time:*|
+h|*Meeting Type:*| h|*Meeting Location:*|
+h|*Meeting Coordinator:*| h|*Issue Date:*|
+|===
+
+|===
+h|Attendee Name	h|Initials h|Present h|Organisation / Email
+|| ^| {x}|
+|| ^| {y}|
+|===
+
+|===
+h|Meeting Agenda
+|[aqua]#<A summary of the meeting agenda, e.g. meeting objectives and agenda items.>#
+|===
+
+|===
+h|Meeting Summary
+|[aqua]#<Outline points discussed and outcomes for the meeting>#
+|===
+
+
+|===
+h|Meeting Summary
+|[aqua]#<Outline points discussed and outcomes for the meeting>#
+|===
+
+|===
+4+h|Decisions taken
+h|Decision Id h|	Description h|	Date of Decision Taken h|	Decision Owner
+|||dd/mm/yy|Initials
+||||
+||||
+||||
+|===
+
+|===
+6+h|Actions / ToDo Items
+h|Action Id h|	Creation Date h|	Description h|	Status h|Target Resolution Date h|Owner
+||dd/mm/yy||Open|dd/mm/yy|Initials
+||||In Progress||
+||||Closed||
+||||On Hold||
+|===
+
+|===
+h|Proposed Agenda for Next Meeting h|Proposed Next Meeting Date:|
+3+|[aqua]#List potential agenda items of the next meeting#
+|===
+
+|===
+h|Related Documents h|	Location
+|XYZ.doc |	[aqua]#U:\ProjectX\Documents\#
+||
+||
+||
+|===
+
+
+

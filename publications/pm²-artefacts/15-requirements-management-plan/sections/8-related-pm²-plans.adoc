@@ -1,0 +1,13 @@
+== 8. RELATED PM² PLANS
+[discrete]
+==== Project Handbook
+The _Project Handbook_ establishes the high-level approach for implementing the project goals, which includes required documentation, standards to be considered and the high level summary of the change management approach and escalation process. The location of this document is found in Appendix 1.
+
+[discrete]
+==== Project Change Management Plan
+The management of changes to the project (e.g. change of scope, requirements, budget, schedule) is described in the _Project Change Management Plan_. The location of this document is found in the Appendix 1.
+
+[discrete]
+==== Deliverable Acceptance Management Plan
+The management of project deliverables (responsibilities, activities and the criteria for the deliverables acceptance) is described in the _Deliverables Acceptance Management Plan_. The location of this document is found in Appendix 1.
+

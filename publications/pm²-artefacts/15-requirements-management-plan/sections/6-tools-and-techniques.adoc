@@ -1,0 +1,69 @@
+== 6. TOOLS AND TECHNIQUES
+The following techniques will be used for requirements management:
+
+* [lime]#Interviews;#
+* [lime]#Brainstorming;#
+* [lime]#Workshops;#
+* [lime]#Observation;#
+* [lime]#Prototyping;#
+* [lime]#MoSCoW prioritisation;#
+* [lime]#…#
+
+[aqua]#<Please list the requirement management techniques as per your project or/and organization needs. These can be used for requirements gathering, prioritisation and more.>#
+
+The following tools will be used for requirements management:
+
+* [lime]#Requirements documentation;#
+* [lime]#Requirements traceability matrix;#
+* [lime]#…#
+
+[aqua]#<Please customize the above list as per your project or/and organization needs.>#
+
+Requirements documentation and the traceability matrix may be part of a Requirements documentation and management system.
+
+=== 6.1. Requirements documentation
+The Requirement documentation may have the following structure:
+
+[aqua]#<Define the documentation to be used for identifying, documenting, evaluating, prioritising, approving and validating requirements.>#
+[cols="15s,90",options="header"]
+|===
+2+|Requirements documentation
+2+h|Change Identification and Description
+|ID|	The unique requirement identifier. It should be numbered sequentially.
+|Name|	Short name of the requirement.
+|Category|	Categorizes the requirement, e.g. Business need, Feature, Functional Requirements, Technical Requirements, Training Requirements, Quality Requirements, Performance Requirements, Security requirement, Support Requirements, Maintenance Requirements, System quality requirement, Business rule, etc.
+|Type|	Requirement type refers to the technique used to describe the requirement, e.g.: Epic, User story, Story board, Use Case, User interface sketch, Business Process Model,  Report structure, etc.
+|Requirement Description & Details|	A description of the requirement in text or using picturising techniques like use case diagrams, sketches, etc.
+|Acceptance Criteria|	One or more acceptance criteria that allow the stakeholders to test if the deliverable meets the requirement.
+|Status|	The status of a requirement can e.g. be any of the following:
+Specified, Proposed, Approved, Incorporated, Implemented, Validated, For Fixing & Rejected.
+|Requested by|	The source of the requirement. The stakeholder(s) to whom the requirement is important.
+|Identification Date	The date that the requirements was brought up.
+|===
+The above is a suggested list of attributes. No template is provided.
+
+=== 6.2. Requirements traceability matrix
+Requirements and requirement attributes may need to be traced from the high level business needs down to the detailed requirements, and finally into deliverables.
+
+A traceability matrix is used to maintain these relations. This matrix can be an excel file with attributes as e.g. the one below, or a system, that may be part of a larger requirement management system
+
+The Requirement traceability matrix may have the following structure:
+
+[aqua]#<Define the Requirement traceability matrix to be used for tracking the relation between high level and detailed requirements and the deliverables.>#
+
+[cols="25s,90",options="header"]
+|===
+2+^|Requirement traceability matrix
+|ID|	Unique identifier.
+|Name|	Short and descriptive name.
+|Status|	The status of a requirement can e.g. be any of the following:
+Specified, Proposed, Approved, Incorporated, Implemented, Validated, For Fixing & Rejected.
+|Priority|	Statement of relative importance of the requirement, as e.g. High, Medium, Low, or Must-have, Should-have, Could-have, Won’t-have.
+|Size|	An indication of the level of effort needed or how hard it will be to implement the requirement. (Big, Medium, Small)
+|Comments|	Comments on the requirement. If the requirement has been REJECTED the reason for rejection must be described here.
+|Derived From|	Identifier of the Requirement from what requirement it was derived (for example a Feature must be always derived from a high level Business requirement or Stakeholder Need, and a detailed requirement from a Feature).
+|Related WBS code|	Identifier of the WBS element that produces the deliverable for which this is a requirement.
+|Specification of documentation|	Name of the document where the requirement is specified and the file location.
+|Test Plan|	Name of the document where the test plan or acceptance criteria for this requirement is described and the file location.
+|===
+The above is a suggested list of attributes. No template is provided.

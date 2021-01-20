@@ -1,0 +1,4 @@
+== 7. LESSONS LEARNED AND BEST PRACTICES
+[aqua]#<Summarise the lessons learned and any recommended best practices for the whole project. You can also suggest next steps required to actually implement any improvement ideas.# +
+
+[aqua]#You can organise and present these in categories (e.g. technical, governance, project management, risk management, etc.>#

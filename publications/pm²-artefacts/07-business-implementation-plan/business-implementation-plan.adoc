@@ -1,0 +1,34 @@
+//= Business Implementation Plan
+//:doctype: book
+//:doctitle: Business Implementation Plan
+//:docinfo:
+:toc: macro
+:toc-title: Table of Contents
+:toclevels: 3
+:pagenums:
+//:sectnums:
+//:sectnumlevels: 3
+//:chapter-label:
+
+include::sections/first-page.adoc[]
+//include::sections/coverpage.adoc[]
+
+include::sections/intro-page.adoc[]
+
+include::../toc.adoc[]
+<<<
+
+include::sections/introduction.adoc[]
+
+include::sections/impact-on-processes.adoc[]
+
+include::sections/impact-on-people.adoc[]
+
+include::sections/impact-on-the-organisational-culture.adoc[]
+
+include::sections/business-implementation-strategies-and-activities.adoc[]
+
+include::sections/training-needs-and-activities.adoc[]
+<<<
+
+include::sections/appendix-references-and-related-documents.adoc[]

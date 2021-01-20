@@ -1,0 +1,7 @@
+=== 3.	COMMUNICATION
+[aqua]#<Ensure that a formal announcement of the transition to production is taken place>.#
+
+[aqua]#<Identify the communication goals of the transition process. Make sure that you coordinate these goals with any communication goals described in the Business Implementation Plan.>#
+
+[aqua]#<Note that all project communication activities should be consolidated and documented in the overall Communications Management plans or in the relevant section of the Project Handbook (PHB)>#
+

@@ -1,0 +1,80 @@
+== 4. PROJECT REPORTS
+Reports may be produced to show the status of the project or a particular work package or the collected required measurements etc. This section should document how the reports will be distributed and the standard format for the project reports.
+
+The following reports are described in this section:
+
+* Project Status Report
+*	Project Progress Report
+*	Quality Review Report
+*	Outsourcing (Contractor) Status Report
+*	Project-End Report
+
+[aqua]#<Please customize the information for the following reports as per your project's or/and organization's needs.>#
+
+[cols="15,70",options="header"]
+|===
+|REPORT|	Project Status Report
+h|Purpose|	The Project Status Report provides summary information regarding the overall project performance (rather than detailed task-level information), in one page with traffic light visualisation of the major project parameters as cost, schedule, scope/changes, risks, issues. This document reports on the status of important milestones for the current reporting period and provides forecasts for future performing periods.
+h|Frequency|	The elaboration of this report will follow the frequency defined for the Project Status Meeting.
+h|Author|	Project Manager (PM)
+h|Distributed to|	Refer to Distribution List specified in the Project Status Meeting.
+h|Media |	Word Document
+h|Reference to|	[aqua]#<Please reference to the document.>#
+|===
+
+[cols="15,70",options="header"]
+|===
+|REPORT|	Project Progress Report
+h|Purpose|	The Project Progress Report provides a high-level overview of the entire project and its actual status. The report includes a Project Overview (Project Stakeholders, Milestones and Deliverables, Project Plan, Budget and Costs) and further Project Details (Scope Changes, Major Risks/Issues and Actions Taken, Achievements). This report provides more detail than the Project Status Report.
+h|Frequency|	The elaboration of this report will follow the frequency defined for the Project Review Meeting.
+h|Author|	Project Manager (PM)
+h|Distributed to|	Refer to Distribution List specified in the Project Status Meeting.
+h|Media |	Word Document
+h|Reference to|	[aqua]#<Please reference to the document.>#
+
+|===
+
+[cols="15,70",options="header"]
+|===
+|REPORT|	Quality Review Report
+h|Purpose|	This report provides an overview of the status of all project quality management activities and presents the major quality assurance and control results, non-conformities, opportunities for improvement, recommendations and remediation/improvement actions and their impact and status.
+h|Frequency|[aqua]#<please define the frequency as per your project's or/and organization's needs.>#
+h|Author|	Project Manager (PM)
+h|Distributed to|[aqua]#<please define the distribution list as per your project's or/and organization's needs.>#
+h|Media |	Word Document
+h|Reference to|	[aqua]#<Please reference to the document.>#
+
+|===
+
+[cols="15,70",options="header"]
+|===
+|REPORT|	Outsourcing (Contractor) Status Report
+h|Purpose|	The report presents the status of the contractors work for the current reporting period and provides forecasts for future performing periods, along with information on new risks, disputes, and issues. The Project Manager (PM) should include summary/highlights of these reports in the Project Status Report.
+h|Frequency|[aqua]#<please define the frequency as per your project's or/and organization's needs.>#
+h|Author|	Project Manager (PM)
+h|Distributed to|[aqua]#<please define the distribution list as per your project's or/and organization's needs.>#
+h|Media |	Word Document
+h|Reference to|	[aqua]#<Please reference to the document.>#
+
+|===
+[cols="15,70",options="header"]
+|===
+|REPORT|	Project-End Report
+h|Purpose|The Project-End Report summarises project experience. The evaluation of the major project parameters, best practices, lessons learned, pitfalls and solutions to problems are documented in this report.
+h|Frequency|	This report is realised once, during the Closing Phase.
+h|Author|	Project Manager (PM)
+h|Distributed to|	Refer to Distribution List specified in the definition of Project-End Review Meeting.
+h|Media |	Word Document
+h|Reference to|	[aqua]#<Please reference to the document.>#
+|===
+
+[cols="15,70",options="header"]
+|===
+|REPORT|
+h|Purpose|
+h|Frequency|
+h|Author|
+h|Distributed to|
+h|Media |
+h|Reference to|
+|===

@@ -1,0 +1,110 @@
+== 3. EFFORT & COST ESTIMATES
+This section documents the reasoning and final effort and cost estimates of all project activities. The work breakdown of Section 2 is the input for the estimation.
+
+[aqua]#< Choose one or more of the different approaches to estimating: expert advice, historical information, similarity to other tasks, etc.#
+
+[aqua]#For more accurate estimates, make sure you involve task owners or other experts for each impact area (usually members of the Project Core Team (PCT)). Include some contingencies based on the involved uncertainties or risks.#
+
+[aqua]#Resources of different types can be necessary to accomplish certain tasks or deliverables: people, software, hardware, equipment, buildings & facilities, supplies, materials, etc.#
+
+[aqua]#To calculate the Total Cost, you need to know the cost per unit for each resource.#
+
+[aqua]#Make sure you include estimates of both internal and external resources>#
+
+=== 3.1. Estimates
+[.text-center]
+image::../figures/raster/estimates.png[align="center"]
+[.text-center]
+[aqua]#<Template for documenting of cost/effort breakdown. Make sure the identifiers are aligned with the Work Breakdown in section 2.>#
+
+[aqua]#<For the documentation of your effort/cost estimation, you can use any template or representation that accommodates your project's needs and project/organisational requirements. >#
+
+[aqua]#<We remind you that you are not obliged to use the templates provided here as examples. You can use your own template or scheduling software application and then simply copy & paste it  into this document, or simply reference the relevant file (offer a link or a folder/file location).>#
+
+=== 3.2. Resource needs
+[aqua]#<In this section a list of the necessary project resources can be added. A distinction shall be made between human and non-human resources.>#
+
+[aqua]#< As an example, a project may need the following type of resources:#
+
+* [aqua]#People#
+* [aqua]#Software#
+* [aqua]#Hardware#
+* [aqua]#Equipment#
+* [aqua]#Buildings & Facilities#
+* [aqua]#Supplies#
+* [aqua]#Materials#
+* [aqua]#Other…>#
+
+[discrete]
+=== Resource Plan
+[aqua]#<Include both human non-human resources>#
+[cols=",,,,,,"]
+|===
+7+h|Human Resources
+|Resource ID|	From Date|	To Date|	Resource|	Skill|	Skill Level|	Quantity
+|[aqua]#H.1#|	[aqua]#10/01/17#|	[aqua]#20/08/17#|	[aqua]#Consultant#|	[aqua]#Security#|	[aqua]#Advanced#|[aqua]#2#
+|[aqua]#H.2#|	[aqua]#10/05/17#|	[aqua]#20/09/17#|	[aqua]#Legal Advisor#|	[aqua]#Policy#|	[aqua]#Intermediate#|[aqua]#1#
+|[aqua]#H.3#|	[aqua]#10/05/17#|	[aqua]#20/06/17#|[aqua]#Trainer	PM2#| 	[aqua]#Experienced#|	[aqua]#2#
+|===
+[cols=",,,,,"]
+|===
+
+6+h| Other Resources
+|Resource ID|	From Date|To Date|	Resource|	Characteristics|	Quantity
+|[aqua]#M.1#|	[aqua]#10/01/17#|	[aqua]#20/08/17#|	[aqua]#Licenses#|	[aqua]#Dedicated#|	[aqua]#100#
+|[aqua]#M.2#|	[aqua]#02/05/17#|	[aqua]#22/09/17#|	[aqua]#Laptop# |	[aqua]#Office 2010#|	[aqua]#3#
+|[aqua]#M.3#|	[aqua]#02/05/17#|	[aqua]#22/09/17#|	[aqua]#Training Room#|	[aqua]#30 seats#|	[aqua]#1#
+|===
+
+[aqua]#<Resource ID – unique resource ID to identify the resource (people or other) +
+Date (from/to) – identifies the dates that the resource (people or other) are needed for the project +
+Resource – identifies the resource roles (people or material) that is concerned +
+Skill – identifies the skills that this resource must have +
+Skill level – identifies the required skill level to guarantee the quality of the project deliverables +
+Characteristics – any characteristics that this resource must have +
+Quantity – identifies the quantity of the resources needed (e.g. number of resources).>#
+
+*Cost of Resources* [aqua]#<Note that this is only another view of costs defined in section 3.1>#
+[cols="5,5,5,5,5"]
+|===
+5+h|All Resources
+|Resource ID|	Resource|	Cost per unit|	No. of units|	Total cost
+|[aqua]#H.1#|	[aqua]#Consultant#|	[aqua]#500€ per md#|	[aqua]#40 md#|	[aqua]#€ 20.000#
+|[aqua]#H.2#|	[aqua]#Legal Advisor#|	[aqua]#400€ per md#|	[aqua]#20 md#|	[aqua]#€ 8.000#
+|[aqua]#M.1#|[aqua]#Licenses#|	[aqua]#800€ per connection#|	[aqua]#100 connection#|	[aqua]#€ 80.000#
+|[aqua]#H.3#|	[aqua]#Trainer#|	[aqua]#500€ per md#|	[aqua]#10 md#|	[aqua]#€ 5.000#
+|===
+[aqua]#<Cost per unit – identifies the cost per resource unit for the specific resource
+No. of units – identifies the number of units needed for the specific resource (man-days, connections)
+Total cost – identifies the cost for the specific resource.>#
+[discrete]
+==== Resource Availability
+[aqua]#<Document any known availability constraints of critical resources.>#
+[cols="5,5,8,8,5"]
+|===
+h|Resource ID	h|Resource	h|Unavailable from h|	Unavailable To h|	Reason
+|[aqua]#H.1#|	[aqua]#Consultant#|	[aqua]#01/07/17#|	[aqua]#01/08/17#|	[aqua]#vacation#
+|[aqua]#H.2#|	[aqua]#Legal Advisor#|	[aqua]#15/07/17#|	[aqua]#25/07/17#|	[aqua]#training#
+|[aqua]#M.3#|	[aqua]#Training Room#|[aqua]#1/07/17#|	[aqua]#15/07/17#|	[aqua]#renovations#
+|===
+[aqua]#<Unavailable (from/to) – identifies the dates that the staff is unavailable for the project
+Reason – identifies the reason of unavailability.>
+<Document any known capacity constraints of critical resources.>#
+[cols="5,5,5,10"]
+|===
+h|Resource ID h|Resource h|Availability h|Comments
+|[aqua]#H.1#|	[aqua]#Consultant#|	[aqua]#100%#|	[aqua]#Full time external intramuros#
+|[aqua]#H.2#|	[aqua]#Legal Advisor#|	[aqua]#50%#|	[aqua]#Work on Project xyz#
+|===
+[aqua]#<Availability – identifies the status of the resources (if they are fully assigned in the project or shared).
+
+[discrete]
+=== Contingencies
+[cols="5,5,5,10"]
+|===
+h|Resource ID	h|Resource	h|Contingency	h|Comments
+|[aqua]#H.1#	|[aqua]#Consultant#|	[aqua]#5 md#|	[aqua]#To account for implementation risks.#
+|[aqua]#H.2#	|[aqua]#Legal Advisor#|	[aqua]#5 md#|	[aqua]#In case there are delays in receiving a response from Agency xyz.#
+|[aqua]#M.1#	|[aqua]#Licence#|	[aqua]#10 units#|	[aqua]#To ensure we never run out of licenses for testing.#
+|===
+[aqua]#<Contingency – identifies the resource buffer (time or units) that must be considered>#

@@ -1,0 +1,32 @@
+= Project End Report
+:doctype: book
+:doctitle: Project End Report
+:docinfo:
+:toc: macro
+:toc-title: Table of Contents
+:toclevels: 3
+:pagenums:
+
+include::sections/first-page.adoc[]
+
+include::sections/intro-page.adoc[]
+
+include::../toc.adoc[]
+
+include::sections/introduction.adoc[]
+
+include::sections/2-project-success.adoc[]
+
+include::sections/3-project-management-evaluation.adoc[]
+
+include::sections/4-project-transition.adoc[]
+
+include::sections/5-business-implementation.adoc[]
+
+include::sections/6-governance-and-team-evaluation.adoc[]
+
+include::sections/7-lessons-learned-and-best-practices.adoc[]
+
+include::sections/8-post-project-recommendations.adoc[]
+
+include::sections/appendix-references-and-related-documents.adoc[]

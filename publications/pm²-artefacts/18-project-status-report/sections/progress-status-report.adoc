@@ -1,0 +1,90 @@
+[.text-center]
+Reporting period: <dd/mm/yy> to <dd/mm/yy>
+
+[cols="a,"]
+|===
+| PHASE: <Initiating/Planning/Executing/Closing> |OVERALL STATUS: Green/Amber/Red
+|PROJECT STATUS SUMMARY +
+<Short description of current status> +
+<If a project burndown chart or EVM diagram is used to monitor project performance, insert it here.>
+
+image::../figures/raster/EVM_Diagram.png[] a|MILESTONES +
+
+* <xx/xx/xx>: <describe project milestone 1> +
+* <xx/xx/xx>: <describe project milestone 2> +
+* <xx/xx/xx>: <describe project milestone 3> +
+* <xx/xx/xx>: <describe project milestone 4> +
+* <xx/xx/xx>: <describe project milestone 5> +
+
+PROJECT CHANGES (INPUT FROM CHANGE LOG)
+
+Status: Green/Amber/Red:
+
+* Severe: <x>
+** <id xx>, category <xx>, status <xx>
+** <id xx>, category <xx>, status <xx>
+** <id xx>, category <xx>, status <xx>
+
+
+.3+<.<a|PROJECT INDICATORS +
+Schedule: Green/Amber/Red
+
+* Baselined delivery date: <xx/xx/xx>
+* Forecasted delivery date: <xx/xx/xx>
+* Variance: <+ xx months>
+
+Cost: Green/Amber/Red
+
+* Current Year:
+** Allocated: <xx> workdays, <x.xxx,xx> €
+** Spent: <xx> workdays, <x.xxx,xx> €
+** Forecasted: <xx> workdays, <x.xxx,xx> €
+* Overall project:
+** Allocated: <xx> workdays, <x.xxx,xx> €
+** Spent: <xx> workdays, <x.xxx,xx> €
+** Forecasted: <xx> workdays, <x.xxx,xx> € a|TOP RISKS (INPUT FROM RISK LOG) +
+Status: Green/Amber/Red
+
+* Active: <x>
+** <id xx>, level <xx>, action <xx>
+** <id xx>, level <xx>, action <xx>
+** <id xx>, level <xx>, action <xx>  |ISSUES (INPUT FROM ISSUE LOG)
+
+Status: Green/Amber/Red
+
+* Urgent: <x>
+**	<id xx>, size <xx>, severity <xx>
+**	<id xx>, size <xx>, severity <xx>
+**	<id xx>, size <xx>, severity <xx>
+a|DECISIONS (INPUT FROM DECISION LOG) +
+
+* <xx/xx/xx>, <id xx>: <describe decision 1>
+* <xx/xx/xx>, <id xx>: <describe decision 2>
+* <xx/xx/xx>, <id xx>: <describe decision 3>
+* <xx/xx/xx>, <id xx>: <describe decision 4>
+* <xx/xx/xx>, <id xx>: <describe decision 5>
+
+2+a|ACTIVITIES PERFORMED AND PLANNED
+
+Performed:
+
+* <Short description of ongoing project action 1>, status <ongoing / complete / pending>
+* <Short description of ongoing project action 2>, status <ongoing / complete / pending>
+* <Short description of ongoing project action 3>, status <ongoing / complete / pending>
+
+Planned:
+
+* <Short description of next planned key project action 1>
+* <Short description of next planned key project action 2>
+* <Short description of next planned key project action 3>
+|===
+
+//Status Report
+//[cols="a,"]
+//|===
+//||
+//.3+<.>| |||
+//2+|
+//|===
+
+

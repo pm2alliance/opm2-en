@@ -1,0 +1,45 @@
+== 4.	POSSIBLE ALTERNATIVES +
+
+[aqua]#<This section should describe any known or potentially available alternative solutions to tackle the current situation. From the list of the potential alternatives, one of them should be clearly chosen. The chosen alternative is the one that is the best for this proposed solution and it should be detailed in the next chapter. Other alternatives may be useful to bear in mind later-on for business continuity purposes. As a minimum, it is expected to analyse 2 alternatives. However comparing 3 or 4 alternatives is more convincing. The first solution is always “Do nothing”. So, what if we keep the current solution and do not solve the problem, fulfil the need or grab the opportunity? For an IT project the alternatives could be:#
+[arabic]
+. [aqua]#Do nothing;#
+.	[aqua]#Re-using of an existing solution;#
+.	[aqua]#Development of simple solution or buying/customising a solution;#
+.	[aqua]#Development or buying/customising of a sophisticated solution.# +
+
+[aqua]#For each identified alternative, a general description, a SWOT analysis and a qualitative assessment should be provided. The SWOT analysis should provide the major Strengths, Weaknesses, Opportunities and Threats as perceived by the stakeholders considering the organisational impact, the financial impact, the timing impact and the associated risks.>#
+
+=== 4.1	Alternative A: Do nothing +
+*General Description* +
+[aqua]#<Describe this alternative.>#
+include::../tables/swot-analysis-table.adoc[]
+*Qualitative Assessment* +
+[aqua]#<Describe how this alternative is viable (or not viable).>#
+
+
+=== 4.2	Alternative B: <Solution Title> +
+[aqua]#<Provide the General Description, SWOT analysis and Quantitative Assessment.># +
+*General Description* +
+[aqua]#<Describe this alternative.>#
+
+include::../tables/swot-analysis-table.adoc[]
+*Qualitative Assessment* +
+[aqua]#<Describe how this alternative is viable (or not viable).>#
+
+=== 4.3	Alternative C: <Solution Title> +
+[aqua]#<Provide the General Description, SWOT analysis and Quantitative Assessment.># +
+*General Description* +
+[aqua]#<Describe this alternative.>#
+
+include::../tables/swot-analysis-table.adoc[]
+*Qualitative Assessment* +
+[aqua]#<Describe how this alternative is viable (or not viable).>#
+
+=== 4.4	Chosen alternative: <Solution Title>
+[aqua]#<The recommended alternative should be clearly presented in this section after all alternatives have been discussed.># +
+
+include::../tables/swot-analysis-table.adoc[]
+
+*Qualitative Assessment* +
+[aqua]#<Describe how this alternative is viable (or not viable).># +
+To conclude based on the above analysis of alternatives, the chosen solution is [aqua]#<name of the alternative>. <Provide a final summary justifying the selection of this solution vis-à-vis the other alternatives described. The reader should be convinced that the benefit of choosing this alternative outweighs the costs of it.>#

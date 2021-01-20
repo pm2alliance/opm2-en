@@ -1,0 +1,6 @@
+== 1. INTRODUCTION
+The purpose of this document is to define the Requirement Management process for this project. More specifically, this document:
+
+*	Describes the requirement management process to be used for the project;
+*	Defines the roles and responsibilities related to requirements management;
+*	Specifies the methodology, standards, tools and techniques and templates used to support requirements management.

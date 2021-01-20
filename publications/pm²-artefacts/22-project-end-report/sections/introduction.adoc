@@ -1,0 +1,9 @@
+=== 1.	INTRODUCTION
+The purpose of this report is to summarise and document all the key elements that are found during the life of the project and/or discussed during the project-end review meeting. The goal is to capture the overall stakeholder satisfaction, perform an overall evaluation of the project experience, and document lessons learned, best practices and offer post project recommendations. +
+
+Capturing lessons learned allows projects/project teams as well as the permanent organisation as a whole to benefit from the experience acquired during the project. Capturing ideas and recommendations for post-project work related to the operations of the product/service, is also invaluable for future projects. +
+
+[aqua]#<Summarise the effectiveness of the various project dimensions and project activities in each section below. Delete those sections that are not relevant to your project-end report, or merge them as you see appropriate. At the end, summarise the over lessons learned for the project as a whole.># +
+
+In particular, this report should address the subjects described in the following sections.
+

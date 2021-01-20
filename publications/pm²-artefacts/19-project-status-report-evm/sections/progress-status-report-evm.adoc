@@ -1,0 +1,95 @@
+[.text-center]
+*Project phase:* [maroon]#<Initiating/Planning/Executing/Closing>#
+[.text-center]
+*Reporting period:* [maroon]#<dd/mm/yy> to <dd/mm/yy>#
+
+
+Status Report
+[cols="a,a"]
+|===
+|*OVERALL STATUS:* [lime]#Green#/[yellow]#Yellow#/[red]#Red#
+
+* Project Owner (PO): [maroon]#<Name>#
+* Business Manager (BM): [maroon]#<Name>#
+* Solution Provider (SP): [maroon]#<Name>#
+* Project Manager (PM): [maroon]#<Name>#
+a|
+image::../figures/raster/project_phases.png[]
+|*PROJECT INDICATORS*
+
+Schedule: [lime]#Green#/[yellow]#Yellow#/[red]#Red#
+
+** Baselined delivery date: [maroon]#<xx/xx/xx>#
+** Forecasted delivery date: [maroon]#<xx/xx/xx>#
+** Variance: [maroon]#<+ xx months>#
+
+Cost: [lime]#Green#/[yellow]#Yellow#/[red]#Red#
+
+** Baselined: [aqua]#<xx># workdays, [aqua]#<x.xxx,xx># €
+** Spent: [aqua]#<xx># workdays, [aqua]#<x.xxx,xx># €
+** Forecasted: [aqua]#<xx># workdays, [aqua]#<x.xxx,xx># €
+** Variance : [aqua]#<0% (Forecasted - Baselined)>#
+
+*PROJECT INDICATORS (AT CURRENT STATE)*
+
+[underline]#Status:# [lime underline]#Green#/[yellow underline]#Yellow#/[red underline]#Red# +
+[underline]#Planned:# [aqua underline]#<xx># workdays +
+[underline]#Actual work:# [aqua underline]#<xx># workdays +
+[underline]#Earned Value (Progress)#: # [aqua underline]#<xx># workdays +
+[underline]#Remaining work#:# [aqua underline]#<xx># workdays
+
+image::../figures/raster/EVM_Metrics.png[]
+[lime]#Green curve:# Planned effort (workdays) over weeks +
+[red]#Red curve:# Current cost consumption (workdays) +
+[blue]#Blue curve:# Earned value (workdays) +
+a|image::../figures/raster/milestones.png[]
+
+*PROJECT CHANGES (INPUT FROM CHANGE LOG)*
+
+Status: [lime]#Green#/[yellow]#Yellow#/[red]#Red#
+
+* Severe: <x>
+** [aqua]#<id xx>#, category [aqua]#<xx>#, status [aqua]#<xx>#
+** [aqua]#<id xx>#, category [aqua]#<xx>#, status [aqua]#<xx>#
+** [aqua]#<id xx>#, category [aqua]#<xx>#, status [aqua]#<xx># +
+
+*TOP RISKS (INPUT FROM RISK LOG)* +
+Status: [lime]#Green#/[yellow]#Yellow#/[red]#Red#
+
+* Active: <x>
+** [aqua]#<id xx>#, level [aqua]#<xx>#, action [aqua]#<xx>#
+** [aqua]#<id xx>#, level [aqua]#<xx>#, action [aqua]#<xx>#
+** [aqua]#<id xx>#, level [aqua]#<xx>#, action [aqua]#<xx>#  +
+
+*ISSUES (INPUT FROM ISSUE LOG)*
+
+Status: [lime]#Green#/[yellow]#Yellow#/[red]#Red#
+
+* Urgent: <x>
+**	[aqua]#<id# xx>, size [aqua]#<xx>#, severity [aqua]#<xx>#
+**	[aqua]#<id# xx>, size [aqua]#<xx>#, severity [aqua]#<xx>#
+**	[aqua]#<id# xx>, size [aqua]#<xx>#, severity [aqua]#<xx>#
+
+2+a|*ACTIVITIES PERFORMED AND PLANNED*
+
+[underline]#Performed#:
+
+* [aqua]#<Short description of ongoing project action 1>, status <ongoing / complete / pending>#
+* [aqua]#<Short description of ongoing project action 2>, status <ongoing / complete / pending>#
+* [aqua]#<Short description of ongoing project action 3>, status <ongoing / complete / pending>#
+
+[underline]#Planned#:
+
+* [aqua]#<Short description of next planned key project action 1>#
+* [aqua]#<Short description of next planned key project action 2>#
+* [aqua]#<Short description of next planned key project action 3>#
+|===
+
+//Status Report
+//[cols="a,"]
+//|===
+//||
+//.3+<.>| |||
+//2+|
+//|===
+

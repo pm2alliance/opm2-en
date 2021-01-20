@@ -1,0 +1,49 @@
+== 3. DELIVERABLES ACCEPTANCE APPROACH
+[aqua]#<Tailor the deliverables acceptance approach if necessary (e.g. customise descriptions or delete activities that are not applicable to the project.>#
+
+[aqua]#<The deliverables acceptance steps can be executed in an incremental and iterative way (e.g. for projects managed in an agile way) or in a more traditional way (e.g. define all acceptance criteria upfront and execute all acceptance activities at the end).>#
+
+This project will follow the PM2 quality management procedures as defined in the Quality Management Plan in order to increase the changes that the project deliverable will meet the acceptance criteria as defined in this plan.
+
+Deliverables acceptance (in the PM2 context) includes the following steps:
+
+*	Define Acceptance Criteria;
+*	Perform Acceptance Activities;
+*	Accept (provisional/final) or Reject Deliverable.
+
+[discrete]
+=== Step 1: Define Acceptance Criteria & Activities
+The purpose of this step is to define the acceptance criteria for each one of the project deliverables (i.e. the requirements that need to be met before deliverables can be accepted by the Client side).
+This includes defining the specific metrics (and tolerances) to be evaluated, the acceptance activities to be performed and the processes, tools and techniques on how to implement the acceptance procedure.
+The Acceptance Criteria are derived from the project objectives, needs, scope and features, deliverables, quality requirements and expectations as well as available resources (as defined in the Business Case, Project Charter, Project Handbook, Project Work Plan, Requirements Documents, Quality Management Plan, and other relevant artefacts).
+[discrete]
+=== Step 2: Perform Acceptance Activities
+The purpose of this step is to support the verification of deliverables compliance with the acceptance criteria. The deliverables acceptance activities should be listed in this plan and aligned with the overall project approach (as defined in the Project Handbook and the Quality Management Plan). These activities are further detailed, scheduled, budgeted, and assigned in the Project Work Plan.
+The results of the deliverables acceptance activities will be documented in the relevant reports and logs. [aqua]#<Mention the artefacts where the deliverables acceptance testing/review results will be documented as per your project's or/and organization's needs.>#
+[discrete]
+=== Step 3: Accept or Reject Deliverables (provisional/final)
+The purpose of this step is to obtain (formal/final) approval from the project client (i.e. Project Owner (PO)) for each project deliverable. It comprises the verification if deliverables meet the predefined objectives and set of criteria defined in this _Deliverables Acceptance Plan_, so that the Project Owner (PO) can formally accept them.
+
+Project deliverables may be provisionally accepted by the client, when for example non-critical acceptance criteria have been only partially met, as long as they are properly documented and there is a plan for addressing them before or very early in the closing phase of the project).
+
+In the case were deliverables fail to meet acceptance criteria they are rejected. This is considered to be a project issue (see issue management). After the resolution of the issue(s), deliverable(s) are re-submitted for deliverables acceptance.
+
+[aqua]#<Note that it is also possible to have some criteria at the project level that will determine whether the project as a whole is accepted by the Project Owner (PO). The process and criteria for this overall project acceptance is independent from the deliverables acceptances procedure, activities and criteria, and is managed as part of the overall project management process (defined in the Project Handbook).)>#
+
+*Deliverables Acceptance Roles and Responsibilities*
+
+The following RASCI table defines the responsibilities of those involved in deliverables acceptance:
+[cols="^,^,^,^,^,^,^,^,^"options="header"]
+|===
+|*RAM* (RASCI) |*AGB** |PSC |PO |BM |UR |SP |PM |PCT
+<|Define Acceptance Criteria |I|A|C|S|S|C|R|C
+<|Perform Acceptance Activities |I|I|S|S|R|I|A|S
+<|Accept/Reject Deliverables |I|I|A|S|C|I|R|C
+|===
+[.small]#*AGB: Appropriate Governance Body. (e.g. for IT projects, this is the IT Steering Committee).#
+
+The contact details of each of the above stakeholders are documented in the _Project's Stakeholder Matrix_.
+
+Project acceptance approach and criteria are approved by the Project Steering Committee (PSC). The Project Owner (PO) is accountable for deliverables acceptance and for ensuring the availability of resources (including people performing deliverables acceptance activities) and guidelines for acceptance testing.
+
+Nevertheless, the Project Manager (PM) is ultimately accountable for the correct and full completion of the deliverables acceptance activities. Moreover, the Project Manager (PM), supported by the Business Manager (BM) and the Project Owner, is responsible for scheduling the acceptance activities and ensuring that they are performed according to the Work Plan.

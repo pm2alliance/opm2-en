@@ -1,0 +1,50 @@
+== 6. RISKS ASSESSMENT APPROACH
+[aqua]#<Customise the approach, tools and techniques that will be used to assess the project risks for this project. Indicate the project risk level thresholds and indicate the person who will approve it.>#
+
+The purpose of this section is to describe the specific risk assessment activities and tools that will be used for this project.
+
+The project will use the Risk Likelihood/Impact Matrix referred in section 4.2. Risk Likelihood/Impact matrix. The Risk Likelihood/Impact Matrix represents the different combinations of likelihood and impact of project risks in a scale from 1 to 25 and defines risk levels that suggest risk response strategies.
+
+[underline]#Risk level scale details:#
+
+[aqua]#<Please customize the likelihood and impact levels below (in green) for your project. These thresholds are only indicative values.>#
+[discrete]
+==== Likelihood:
+
+*	*Very low:* less than [lime]#5%# change of occurrence;
+*   *Low:* between [lime]#5% to 10%# chance of occurrence;
+*	*Medium:* between [lime]#10% to 25%# chance of occurrence;
+*	*High:* between [lime]#25% to 50%# chance of occurrence;
+*	*Very high:* more than [lime]#50%# chance of occurrence.
+[discrete]
+==== Impact:
+*	*Very low:* less than [lime]#1%# of project budget affected, or/and other project baselines are nearly not impacted, or/and few individuals affected (only internal to project team), or/and no reputational impact or/and easy and quick capacity to react and resolve the issue.
+*	*Low:* [lime]#1% to 2%# of project budget affected, or/and low impact in other project baselines, or/and only one milestone affected, or/and projects stakeholders may be affected, or/and reputational impact in the organisation or unit or/and sufficient project competencies to resolve the issue (if risk occurs).
+*	*Medium:* [lime]#2% to 5%# of project budget affected, or/and medium impact in other project baselines, or/and one or more milestones affected, or/and projects stakeholders will be to some extent affected, or/and project objectives may be affected, or/and reputational impact amongst technical staff in other organisations or units, or/and formal complaints, or/and limited project competencies to resolve the issue (if risk occurs).
+*	*High:* [lime]#5% to 10%# of project budget affected, or/and high impact in other project baselines, or/and several milestones affected, or/and projects stakeholders will be affected/concerned, or/and project objectives will be affected, or/and reputational impact in several organisations or units, or/and formal and legal complaints, or/and insufficient project internal competencies to resolve the issue (if risk occurs).
+*	*Very high:* more than [lime]#10%# of project budget affected, or/and very high impact in other project baselines, or/and several milestones affected, or/and projects stakeholders will be very affected/concerned, or/and the overall project will be affected, or/and external reputational impact, or/and significant formal and legal complaints, or/and external competencies are needed to address the issue (if risk occurs).
+[discrete]
+====  Risk levels thresholds:
+[aqua]#< Please customize the risk levels thresholds below (in green) for your project.>#
+
+*	[lime]#Green:# risk level <=[lime]#2;#
+*	[yellow]#Yellow:# risk level [lime]#>=3 and <=16;#
+*	[red]#Red:# risk level [lime]#>=20.#
+
+The Project Steering Committee approved / stated that the project risk appetite is limited to risk level [lime]#<=2#,likelihood [lime]#<10%# and potential losses [lime]#< x€#.
+
+=== 6.1. Escalation
+[aqua]#<Please document the customized escalation process for risks, or simply document any deviations (specific to risk management process) from the escalation process described in the Project Handbook>#
+The risk escalation:
+
+*	[lime]#All new risks, proposed risk response strategies and proposed actions are approved by the Managing Layer, if the risk level is <# [red]#X# [lime]#;#
+*	[lime]#If the risk level is >=# [red]#X# [lime]#and <# [red]#X#, [lime]#new risks, proposed risk response strategies and proposed actions are approved by the Project Owner (PO);#
+*	[lime]#If the risk level is>=# [red]#X#, [lime]#new risks, proposed risk response strategies and proposed actions are approved by the Project Steering Committee;#
+*	[lime]#Depending on the risk category, higher risks (risk level is>=# [red]#X# [lime]#) will be reported to:#
+
+** [lime]#E.g. an IT Governance Committee: risks related to IT;# +
+** [lime]#Management meetings: risks related to business domains and that have dependencies with other projects or departments / organisations or units;# +
+** [lime]#Vendors meetings: risks related to outsourced activities are discussed with vendors and agreed upon necessary actions;#
+
+
+

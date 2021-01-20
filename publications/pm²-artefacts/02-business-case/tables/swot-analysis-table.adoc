@@ -1,0 +1,10 @@
+[cols=",",options="header"]
+|===
+|Strengths	|Weaknesses
+||
+|===
+[cols=",",options="header"]
+|===
+|Opportunities |Threats
+||
+|===

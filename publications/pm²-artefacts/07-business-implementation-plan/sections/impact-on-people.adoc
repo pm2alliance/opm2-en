@@ -1,0 +1,3 @@
+=== 3.	IMPACT ON PEOPLE
+[aqua]#<Define the impact of the project implementation to the people in the performing organisation or to the beneficiaries of the project that are using the project deliverables. Change may cause resistance. Certainly if the change is substantial. The project’s client need to be aware of this and deal with it.>#
+

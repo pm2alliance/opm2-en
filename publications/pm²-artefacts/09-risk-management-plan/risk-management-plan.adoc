@@ -1,0 +1,34 @@
+= Risk Management Plan
+:doctype: book
+:doctitle: Risk Management Plan
+:docinfo:
+:toc: macro
+:toc-title: Table of Contents
+:toclevels: 3
+:pagenums:
+
+include::sections/first-page.adoc[]
+
+include::sections/intro-page.adoc[]
+
+include::../toc.adoc[]
+
+include::sections/1-introduction.adoc[]
+
+include::sections/2-risk-management-objectives.adoc[]
+
+include::sections/3-risk-management-process-description.adoc[]
+
+include::sections/4-tools-techniques.adoc[]
+
+include::sections/5-risk-identification-activities.adoc[]
+
+include::sections/6-risks-assessment-approach.adoc[]
+
+include::sections/7-risk-response-strategies.adoc[]
+
+include::sections/8-risk-control-activities.adoc[]
+
+include::sections/9-related-pm²-plans.adoc[]
+
+include::sections/appendix-references-and-related-documents.adoc[]

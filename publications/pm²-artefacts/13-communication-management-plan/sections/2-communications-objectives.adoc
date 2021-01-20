@@ -1,0 +1,47 @@
+== 2. COMMUNICATIONS OBJECTIVES
+Proactive communication is important on all projects. Communication needs to be:
+
+*	Adequate: in the right format and right content;
+*	Specific: for the targeted audience;
+*	Sufficient: providing all the necessary information;
+*	Concise: brief, avoiding repetition and non-important information;
+*	Timely: addressing points at the right time.
+
+Communication is also a vital way to manage project stakeholders' expectations such as:
+
+*	Following project progress and execution;
+*	Reporting on project quality;
+*	Assigning activities.
+
+=== 2.1. Inputs
+When planning communication, one of the major inputs is the Stakeholder Matrix, in order to identify project stakeholders' groups. To determine what information needs to be communicated to each target group the following inputs should be used:
+
+*	Project Charter
+*	Project Handbook and possible related management plans
+*	Project Work Plan.
+
+=== 2.2. Media
+The communication media that will be used for the project are:
+
+* [lime]#Email(s);#
+* [lime]#Document(s) (MS Word and/or PowerPoint…);#
+* [lime]#Phone call(s);#
+* [lime]#Meeting(s) (using, meeting rooms, conference phones, video rooms…);#
+* [lime]#…#
+
+[aqua]#<Please customize the above list as per your project's or/and organization's needs.>#
+
+The communication media above contain, or are supported by:
+
+* [lime]#Minutes of Meeting (MoM);#
+* [lime]#The Project Status Report;#
+* [lime]#The Project Progress Report;#
+* [lime]#The Quality Review Report;#
+* [lime]#Contractor Status Report;#
+* [lime]#Custom or Ad-Hoc Reports;#
+* [lime]#Project Work Plan (updated estimates of effort and schedule);#
+* [lime]#Project Logs;#
+* [lime]#Project repository;#
+* [lime]#…#
+
+[aqua]#<Please customize the above list as per your project's or/and organization's needs.>#

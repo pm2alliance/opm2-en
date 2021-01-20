@@ -1,0 +1,6 @@
+== 1. INTRODUCTION
+The purpose of this document is to define the _Project Change Management_ process for this project. More specifically, this document:
+
+* Describes the change management process to be used for the project;
+* Defines the roles and responsibilities related to project change management;
+* Specifies the methodology, standards, tools and techniques used to support project change management.

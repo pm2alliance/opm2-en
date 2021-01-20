@@ -1,0 +1,12 @@
+= Meeting Agenda
+:doctype: book
+:doctitle: Meeting Agenda
+:docinfo:
+:toc: macro
+:toc-title: Table of Contents
+:toclevels: 3
+:pagenums:
+
+include::sections/first-page.adoc[]
+<<<
+include::sections/meeting-agenda.adoc[]

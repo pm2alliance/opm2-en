@@ -1,0 +1,52 @@
+== 2. WORK BREAKDOWN
+This section presents the breakdown of the project into smaller and more manageable components such as deliverables, work packages, activities, and tasks. Each lower level of the representation offers a finer level of detail of the deliverables and work that all together define the project output(s) and the work involved to produce them.
+
+[aqua]#<Note that you are not obliged to use any of the templates provided in this document. You can use your own templates, or software application (to create and document your Work Plan breakdown. If you prefer, you can copy & paste your baselined plan into this document, or simply reference the relevant file (offer a link or a folder/file location).>#
+
+Each component of the work breakdown has a unique type (e.g. Deliverable, Activity, Task, Work Package), a name and ID. The ID convention followed is described below:
+
+*	The Project itself is the first level of the breakdown and its component ID is 1.0.
+*	The second level (be it deliverables or groupings of work) is codified with an increase of the second digit and is therefore represented with 1.1 for the first component, 1.2 for the second etc.
+*	Similarly, the third level is codified with an increase in the third digit (i.e. 1.1.1, 1.1.2, 1.2.1, 1.2.2. etc.).
+
+[discrete]
+=== Work Breakdown Structure
+[aqua]#<Choose one of the approaches for the representation of the work breakdown. For instance the work breakdown can be based on any of the following approaches: Deliverables-based breakdown, Work-based breakdown, breakdown by part of the organisation involved, or Phase-based breakdown.>#
+
+[aqua]#<Tips:#
+
+* [aqua]#Make sure that all deliverables have been considered.#
+* [aqua]#Consider review, testing and training tasks.#
+* [aqua]#Consider transition and operational transfer activities.#
+* [aqua]#Consider business implementation activities.#
+* [aqua]#Also Include important Project Management related activities.>#
+
+[.text-center]
+.Template_Work_Breakdown
+image::../figures/raster/Template_Work_Breakdown.png[width=400,pdfwidth=50%,scaledwidth=50%,align=center]
+
+|===
+^h|Template for Work Breakdown Component Description
+|1.1 Deliverable
+|[aqua]#< Provide a description of this Deliverable. The level of detail provided here should accommodate the purpose of this document, which is to document planning, and facilitate execution and controlling of the project>.#
+|1.1.1 Activity
+|[aqua]#< Provide a description of this Activity. The level of detail provided here should accommodate the purpose of this document, which is to document planning, and facilitate execution and controlling of the project>.#
+|1.1.1.1 Task
+|[aqua]#< Provide a description of this Task. The level of detail provided here should accommodate the purpose of this document, which is to document planning, and facilitate execution and controlling of the project>.#
+|1.1.1.2 Task
+|...
+|===
+[.text-center]
+[aqua]#<Template for Work Breakdown Component Description. Make sure the identifiers are aligned with the Work Breakdown in the first table.>#
+
+[.text-center]
+.Template_Work_Breakdown
+image::../figures/raster/work-breakdown-(tree-format).png[width=400,pdfwidth=50%,scaledwidth=50%, align=center]
+
+[.text-center]
+[aqua]#<Don't forget to delete this example from your final Work Plan>#
+
+[aqua]#<For your work breakdown, you can use any representation that accommodates your project's needs. You can also provide the work breakdown in either a list format or in tree format (or in both).
+Make sure the identifiers are aligned with the Work Breakdown in the first table.>#
+
+[aqua]#<We remind you that you are not obliged to use the templates provided here as examples. You can use your own templates, or software application to create and document your work breakdown. Then you can copy & paste the baseline plan into this document, or simply reference the relevant file (offer a link or a folder/file location).>#

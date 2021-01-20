@@ -1,0 +1,7 @@
+== 5. PERFORM ACCEPTANCE ACTIVITIES
+Considering the acceptance criteria defined for your deliverables and applying the specific processes, tools and techniques, you will perform the acceptance activities defined in this plan.
+
+The main goal of this step is to support the verification of deliverables compliance with the acceptance criteria defined. The deliverables acceptance activities should be listed in this plan and should be defined based on the Project Handbook and on the Quality Management Plan. These activities are then detailed, assigned and scheduled in the Project Work Plan. These activities may be assigned to a member of the Project Core Team (PCT), as also to any other relevant stakeholders.
+
+The results of the deliverables acceptance activities will be documented in the relevant reports and logs.
+

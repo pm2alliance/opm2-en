@@ -1,0 +1,39 @@
+image::../figures/raster/lines-image.png[,width=1100,height=300]
+
+[.text-center]
+Organisation [Name] +
+Department [Name]
+{zwsp} +
+{zwsp} +
+[.text-center]
+*Change Management Plan* +
+[red]#<Project Name>#
+{zwsp} +
+{zwsp} +
+
+[.text-right]
+Date: <Date> +
+Doc. Version: <Version>
+{zwsp} +
+
+//image::../../figures/raster/pm2-alliance.png[width=350,height=30]
+image::../figures/raster/pm2-alliance.png[align="center",width=350,height=30]
+
+[.text-center]
+Template version: 3.0.1 +
+[.text-center]
+This artefact template is aligned with the PM² Guide V3.0 +
+For the latest version of the templates visit: +
+https://www.pm2alliance.eu/publications +
+[.text-center]
+{zwsp} +
+[aqua]#The PM² Alliance is committed to the improvement of the PM² Methodology and of its supporting artefact. Project management best practices and community contributions & corrections are incorporated in the
+PM² Alliance’s artefact templates.#
+{zwsp} +
+{zwsp} +
+[.text-center]
+Join the PM² Alliance and visit the PM² Alliance GitHub to provide your feedback & contribution: +
+https://github.com/pm2alliance
+
+image::../figures/raster/QR.png[align="center",width=100,height=100]
+

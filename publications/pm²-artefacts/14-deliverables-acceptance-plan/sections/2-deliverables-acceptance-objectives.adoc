@@ -1,0 +1,10 @@
+== 2. DELIVERABLES ACCEPTANCE OBJECTIVES
+Deliverables acceptance aims to ensure that deliverables will be accepted by the requestor side within an agreed timeframe and that resources involved in deliverables acceptance will be used in the most efficient way.
+The main deliverables acceptance objectives are:
+
+* [lime]#The deliverables acceptance criteria are defined, agreed and achieved throughout the project;#
+* [lime]#Deliverables acceptance related activities are performed as planned;#
+* [lime]#Any non-conformity (or opportunity for quality improvements) is identified and addressed according to the issue management plan;#
+* [lime]#Deliverables are accepted by the relevant stakeholders based on the defined acceptance criteria.#
+
+[aqua]#<Customise the above deliverables acceptance objectives as per your project's or/and organization's needs.>#

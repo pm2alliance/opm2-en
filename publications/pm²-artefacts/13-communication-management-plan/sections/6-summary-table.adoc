@@ -1,0 +1,55 @@
+== 6. SUMMARY TABLE
+[aqua]#<Please customize the information for the following communication items as per your project's or/and organization's needs.>#
+
+[cols="10s,25,25,25,25",options="header"]
+|===
+|Item Name ^|Audience (summary) ^|	Responsible person ^|	Frequency ^|	Media of Communication
+|Planning Kick-off Meeting|Project Owner (PO) +
+Business Manager (BM) +
+Solution Provider (SP) +
+Project Manager (PM) +
+Project Core Team (PCT) +
+Business Implementation Group (BIG) +
+User Representatives (URs) +
+Other project roles or stakeholders (optional)
+|Project Manager (PM)|Once at Project Level| Meeting and Meeting minutes
+|Executing Kick-off Meeting|Project Owner (PO) +
+Business Manager (BM) +
+Project Manager (PM) +
+Project Core Team (PCT) +
+Other project roles or stakeholders (optional)|Project Manager (PM)|Once at Project Level or for each major project phase.|Meeting and Meeting minutes
+|Project Status Meeting|Project Owner (PO) +
+Business Manager (BM) +
+Project Manager (PM) +
+(Functional) Team Leader (optional) +
+Other project roles or stakeholders (optional)|Project Manager (PM) or Assistant Project Manager (APM)(s) |[aqua]#<Frequency of the meeting (+ day of the week) to be defined herein>#|Meeting minutes andProject Status Report.
+|Project Core Team (PCT) Meeting|All Project Core Team (PCT) members working on the project.|(Functional) Team Leader |[aqua]#<Frequency of the meeting (+ day of the week) to be defined herein>#|Meeting minutes +Updated Change +log Updated project plans with actuals + Estimate Time to Complete updated.
+|Project Review Meeting|Project Manager (PM) +
+Solution Provider (SP) (optional) +
+(Functional) Team Leader +
+Project Support Officer +
+Assistant Project Manager (APM)(s) (if applicable) +
+Project Quality Assurance (optional)
+|Project Manager (PM)|[lime]#Quarterly# (or more frequently, depending on project duration).|Meeting minutes Project Progress Report
+|Project Steering Committee (PSC) Meeting|Solution Provider (SP) +
+Project Steering Committee (PSC) members
+|Project Owner (PO)|[lime]#Monthly# or at the moment there is an important project milestone reached, that needs approval(s) from Sponsor(s).|Meeting minutes Decision log updated
+|Change Control Meeting|Business Manager (BM) +
+Project Manager (PM) +
+Other project roles or stakeholders (optional).
+|Project Manager (PM)|[aqua]#<Frequency of the meeting (+ day of the week) to be defined herein>#|Meeting minutes Change log (updated)
+|Project-End Review Meeting|Project Owner (PO) +
+Business Manager (BM) +
+Solution Provider (SP) +
+Project Manager (PM) +
+User Representatives +
+(Functional) Team Leader +
+Project Core Team (PCT)Project Other project roles or stakeholders (optional).
+|Project Manager (PM)|will follow the frequency defined for the Project Review Meeting.|Meeting minutes Project-End Report
+|Project Status Report|Refer to Audience specified in the Project Status Meeting.|Project Manager (PM)|will follow the frequency defined for the Project Review Meeting.|Word document
+|Project Progress Report |Refer to Audience specified for the Project Review Meeting.|Project Manager (PM)|will follow the frequency defined for the Project Review Meeting.|Word document
+| Quality Review Report|[aqua]#<please define the distribution list as per your project's or/and organization's needs.>#| Project Manager (PM)|[aqua]#<please define the frequency as per your project's or/and organization's needs.>#|Word document
+| Outsourcing (Contractor) Status Report|[aqua]#<please define the distribution list as per your project's or/and organization's needs.>#|Contractor |[aqua]#<please define the frequency as per your please define the frequency as per your project's#|Word document
+|Project-End Report|Refer to Audience specified in the Project-End Review Meeting.|Project Manager (PM)|Once, during the Project Closing Phase|Word document
+
+|===

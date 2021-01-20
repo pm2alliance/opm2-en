@@ -1,0 +1,11 @@
+[col=",,,,,,",options="header,footer"]
+|===
+|Solution Implementation Costs |201X|	201X|	201X|	201X|	201X
+|Solution Development|||||
+|Solution Maintenance|||||
+|Support|||||
+|Training|||||
+|Infrastructure|||||
+|TOTAL|||||
+
+|===

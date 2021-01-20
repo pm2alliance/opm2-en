@@ -1,0 +1,328 @@
+=== 6. PROJECT ROLES & RESPONSIBILITIES
+==== 6.1. Consolidated Responsibilities Assignment Matrix (RAM/RASCI)
+[aqua]#<Amend the table below. Make it specific for your project stakeholders>#
+include::../tables/ram-rasci-table.adoc[]
+
+==== 6.2. Description of Project Roles and Responsibilities
+In the following section, the roles of major players in a project are described alongside with the responsibilities, expectations, rights and duties of each participant in the project.
+
+[aqua]#<Only keep the roles relevant to your projects. Any deviations to the Standard PM2 Roles & Responsibilities should be highlighted.#
+
+[aqua]#Bear in mind that a role that a person performs in a project may be independent of his function in the personnel in an organisation. Nevertheless, certain roles necessitate a certain level of authority in the organisation as well as some competences that may appear at the function specification for a person. In such cases the descriptions of a role also mention the function that this person occupies in the organisation.>#
+
+===== 6.2.1. Project Stakeholders
+[%autowidth.stretch]
+|===
+h|Description
+|Project stakeholders are people (or groups) who can affect or can be affected by both the activities performed during the life of a project, or/and by the project’s output(s) and outcome(s). Stakeholders can be directly involved in a project’s work, or can be members of other internal organisations, or even be external to the performing organisation (e.g. suppliers, users, EU citizens, contractors, NGO’s, industry partners, member states, etc.).
+h|Responsibilities
+a| [aqua]#•	<Describe the responsibilities for specific project stakeholder groups>#
+|===
+===== 6.2.2. Project Steering Committee (PSC)
+[%autowidth.stretch]
+|===
+h|Description
+a|The permanent members of the committee are:
+
+*   Project Owner (PO) who chairs the committee, is the key-decision maker and accountable for the success of the project.
+*   Business Manager (BM) who is a delegate of the Project Owner (PO) and collaborates closely with the Project manager (PM).
+* 	Solution Provider (SP) who assumes the overall accountability for the project deliverables.
+* 	Project Manager (PM) who is responsible for the entire projects and its deliverables .
+The optional members of the committee are:
+* 	User Representatives (UR) who represents the interests of the users to the project.
+* 	Project Support Office (PSO) that administers PSC meetings and project documentation.
+* 	Project Quality Assurance (PQA) that is responsible for quality assurance and auditing.
+* 	Architecture Office (AO) that plays an advisory role on architectural aspects of information systems.
+* 	Contractor's Project Manager (CPM) responsible for the outsourced parts of the project.
+* 	Data Protection Coordinator (DPC) to consult and advise on data protection aspects.
+* 	Local Information Security Officer (LISO) to consult, and advise on security aspects.
+* 	Document Management Officer (DMO) to assure a coherent implementation of the document management roles.
+h|Responsibilities
+a|* Champions the project and raises awareness at senior level.
+* 	Guides and promotes the successful execution of the project at a strategic level, keeping the project focused towards its scope.
+* 	Ensures adherence to organisation policies and directions.
+*   Provides high level monitoring and control of the project.
+* 	At the end of the Initiating phase, authorises the project to continue, based on the project's Business Case and Project Charter, unless this is performed by the Appropriate Governance Body (AGB).
+* 	At the end of the Planning Phase, authorises the project to continue to the Executing phase, based on the Project Handbook and Project Work Plan.
+* 	Authorises plan deviations, scope changes with high project impact and decides on recommendations.
+* 	Arbitrates on conflicts and negotiates solutions to escalated issues.
+* 	Drives and manages change in the organisation caused by the project.
+* 	Approves and signs-off the management artefacts regarding quality, delivery and closing (Business Case, Project Charter, Project Work Plan, etc.).
+|===
+
+====== 6.2.2.1. Project Owner (PO)
+[%autowidth.stretch]
+|===
+h|Description
+a| Is the key project decision maker and accountable for project success.
+h|Responsibilities
+a|
+*	Acts as the project champion promoting the success of the project.
+*	Chairs the Project Steering Committee (PSC).
+*	Provides leadership and strategic direction to the Business Manager (BM) and Project Manager (PM).
+*	Sets the business objective and defines the Business Case for the project.
+*	Owns the project risks and assures proper project outcomes are in-line with business objectives and priorities.
+*	Mobilises the necessary resources for the project in accordance to the budget.
+*	Monitors project progress regularly.
+*	Coordinates resolution of issues and conflicts.
+*	Ensures that the project outcome meets the business expectations.
+*	Drives organisation change and monitors proper evolution and change implementation.
+*	Approves and signs-off all key management milestone artefacts (Project Handbook, Project Management Plans, Business Implementation Plan, etc.).
+|===
+
+====== 6.2.2.2. Solution Provider (SP)
+[%autowidth.stretch]
+|===
+h|Description
+a| Assumes overall accountability for the project deliverables.
+h|Responsibilities
+a|
+*	Represents the interests of those designing, delivering, procuring, and implementing the project's deliverables.
+*	May help the Project Owner (PO) to define the Business Case and scope, deliverables, milestones and budget required for the project.
+* Agrees on objectives for the supplier activities and approves the contractor's deliverables for the project (if applicable).
+*	Assumes the overall accountability for project deliverables and services requested by the Project Owner (PO).
+*	Mobilises the required resources from supplier side and appoints the Project Manager (PM)
+|===
+
+====== 6.2.2.3. Business Manager (BM)
+[%autowidth.stretch]
+|===
+h|Description
+a|Represents the Project Owner (PO) on a daily basis within the project and collaborates closely with the Project Manager (PM).
+
+h|Responsibilities
+a|*	Assists the Project Owner (PO) on the specification of the project and the main business objectives.
+*	Establishes and guarantees an efficient collaboration and communication channel with the Project Manager (PM).
+*	Coordinates the Business Implementation Group (BIG) and acts as a liaison between the User Representatives (UR) and the provider organisation.
+*	Is responsible for the Project Initiation Request, Business Case and Business Implementation Plan.
+*	Ensures that the products delivered by the project fulfil the user's need
+*	Manages the business side activities of the project and assures that the required business resources are made available.
+*	Devises the best track for business change or reengineering actions, when needed.
+*	Ensures that the business organisation is ready to accommodate the project's deliverables when made available by the provider organisation.
+*	Leads the implementation of the business changes within the users organisation.
+*	Coordinates the schedule and delivery of user training (and production of necessary user support material).
+
+|===
+
+====== 6.2.2.4. Project Manager (PM)
+[%autowidth.stretch]
+|===
+h|Description
+a|Manages the project on a daily basis and is responsible for the qualitative product delivery within the imposed constraints.
+
+h|Responsibilities
+a|*	Proposes and executes the project plans as approved by the Project Steering Committee (PSC).
+*	Daily manages and coordinates the Project Core Team (PCT) activities, making optimal use of the allocated resources.
+*	Ensures that project scope is realised within the quality, time, and cost constraints, taking preventive or corrective measures where necessary.
+*	Manages stakeholder's expectations.
+*	Is responsible to create all the management artefacts (except Project Initiation Request, Business Case and Business Implementation Plan) and proposes them for approval to the Project Owner (PO) or the Project Steering Committee (PSC).
+*	Ensures a controlled evolution of products under version control, by implementing the Project Change Management Plan.
+*	Compares project actuals and expenditures to what was planned and reports project progress accordingly to the Project Steering Committee (PSC).
+*	Performs risk management for project related risks.
+*	Escalates unresolvable project issues to the Project Steering Committee (PSC)
+*	Liaises between the Directing and Performing Layers of the project.
+
+|===
+===== 6.2.3. Business Implementation Group (BIG)
+[%autowidth.stretch]
+|===
+h|Description
+a|Consists of representatives from the business and user groups. The Business Implementation Group (BIG) is responsible for implementing the business changes that need to be in place in order for the organisation to be able to effectively integrate the project deliverables into everyday work.
+
+h|Responsibilities
+a|*	Under the coordination of the Business Manager (BM), the Business Implementation Group (BIG) plans and implements the activities needed to achieve the desired business changes as described in the Business Case and the Business Implementation Plan.
+*	Analyses the impact of the project implementation to the ongoing operations and existing business processes, the people and the culture of the organisation.
+*	Participates in the design or updating of any affected business processes.
+*	Prepares the affected business area for the upcoming change
+*	Advises the Business Manager (BM) concerning the readiness of the organisation to change
+*	Embeds the project deliverables into the business operations and implements organisational change activities that fall under the scope of the project.
+
+|===
+====== 6.2.3.1. User Representatives (URs)
+[%autowidth.stretch]
+|===
+h|Description
+a|Represent the interests of the end-users in the project. User Representatives (URs) are part of the Business Implementation Group (BIG). Involving the User Representatives (URs) throughout the project is important, as they gain visibility of project activities, a sense of ownership and motivation, which ensures that the deliverables are fit for business purpose.
+
+h|Responsibilities
+a|*	Helps to define business needs and requirements.
+*	Ensures that the project specifications and deliverables meet the needs of all users.
+*	Approves on behalf of the users the project specification and acceptance criteria.
+*	Communicates and prioritises user opinions in Project Steering Committee (PSC) decisions on whether to implement recommendations on proposed changes.
+*	Participates in demonstrations and pilot phases as needed.
+*   Performs the deliverable acceptance tests.
+*	Signs off documents related to the users (documentation, requirements, etc.).
+*	Guarantees the stability of the business during the transition towards the new operational state.
+
+|===
+===== 6.2.4. Project Core Team (PCT)
+[%autowidth.stretch]
+|===
+h|Description
+a|Consists of the specialist roles responsible for the creation of the project deliverables. The composition and structure of the Project Core Team (PCT) depends on the size and type of the project (e.g. IT project, policy development project, etc.) and is defined by the Project Manager (PM).
+
+h|Responsibilities
+a|Under the coordination of the Project Manager (PM), the Project Core Team (PCT):
+
+*	Contributes in the elaboration of the project scope and the planning of the project activities.
+*	Performs the project activities according to the project work plan and schedule.
+*	Produces project deliverables.
+*	Provides information to the Project Manager (PM) regarding the progress of activities.
+*	Participates in project meetings as needed and contributes to the resolution of issues.
+*	Participates in the Project-End Meeting to derive and document useful lessons learned for the organisation.
+|===
+
+====== 6.2.4.1. Contractor's Project Manager (CPM)
+[%autowidth.stretch]
+|===
+h|Description
+a|Leads the contractor's staff working on the project.
+
+h|Responsibilities
+a|*	Collaborates closely with the Project Manager (PM).
+*	Plan, controls and reports on the production of deliverables.
+*	Ensures that all work is performed on time and to the agreed standards and quality.
+*	Guarantees the successful completion and delivery of the subcontracted activities.
+
+|===
+====== 6.2.4.2. Assistant Project Manager (APM)
+[%autowidth.stretch]
+|===
+h|Description
+a|In large projects the Project Manager (PM) might find it useful to delegate a part of the project management tasks to an assistant. This Assistant Project Manager (APM) works closely together with the Project Manager (PM) in realizing the project scope and acts as a his backup. Although the Project Manager (PM) can delegate certain tasks to the Assistant project Manager (APM), the PM remains responsible for the correct execution of these tasks.
+
+h|Responsibilities
+a|*	Reports to and takes directions from the Project Manager (PM).
+* Assists in the development and execution of project and team plans (or parts of it).
+*	Communicates plans, decisions, and instructions to the Project Core Team (PCT) or external contractors.
+*	Participates in coordinating the Project Core team (PCT) and Project Support Team (PST).
+*	Provides guidance to project participants in support of work execution.
+*   Assists with the organisation of project meetings and creating the minutes.
+*	Gathers status information, actuals and forecasts of all work packages and advises the Project Manager (PM) of any discrepancies.
+*	Proactively detects quality or scheduling issues and proposes preventive actions.
+*	Prepares or contributes to project status reports in timely manner.
+*	Supports the risk and change management process, updates the Risk and Change Logs.
+*	Coordinates deliverable acceptance with internal and external users and stakeholders.
+*	Establishes the routine project communications to inform project stakeholders.
+
+|===
+====== 6.2.4.3. Add any domain specific roles (or delete this section)
+[%autowidth.stretch]
+|===
+h|Description
+a|Examples: Architecture Office, Business Analyst, System Support staff,
+
+h|Responsibilities
+a|•
+|===
+====== 6.2.4.4. Team Coordinator (TeCo) - Agile Projects only
+[%autowidth.stretch]
+|===
+h|Description
+a|Acts as a facilitator and team coach whose main purpose is to create and maintain the conditions (e.g. resources, issue resolution) to allow the team to be focused on achieving specific objectives and being successful.
+
+h|Responsibilities
+a|*	Ensures the effectiveness and continuous improvement of the way the Project Core Team (PCT) works.
+*	Facilitates the collaborative and cooperative working environment within the Project Core Team (PCT).
+*   Coordinates the planning and estimation activities, as well as the work progress report with the Project Manager (PM).
+*	Ensures that the Project Core Team can be fully dedicated to delivery-related activities and on achieving the defined specific goals.
+*	Facilitates the decision making within the Project Core Team (PCT).
+*	Works actively to identify and remove all obstacles preventing the team to achieve the iteration objectives.
+
+|===
+====== 6.2.4.5. Product Owner (PrOw) - Agile Projects only
+[%autowidth.stretch]
+|===
+h|Description
+a|Represents mainly client and end-users concerns.
+
+h|Responsibilities
+a|* Prioritizes continuously the requirements to be addressed by the Project Core Team (PCT) in alignment with the feedback from both the stakeholders community and the PCT.
+*	Clarifies domain-related questions that the Project Core Team (PCT) may have or ensures that a channel with the relevant stakeholders is open for collaboration and clarification.
+*	Facilitates requirements gathering and modelling sessions.
+*	Ensures that the stakeholder's community is represented in them.
+*	Facilitates the presentation of project's intermediate outputs to the stakeholder community (demos).
+*	Ensures that the stakeholders understand the benefits achieved by the agile approach followed by the Project Core Team (PCT).
+
+|===
+====== 6.2.4.6. Architecture Owner (ArOw) - Agile Projects only
+[%autowidth.stretch]
+|===
+h|Description
+a|The solution architect responsible for the architecture decisions for the Project Core Team (PCT).
+Responsibilities
+
+
+h|Responsibilities
+a|*	Guides the creation and evolution of the architecture of the IS that the team is working on, avoiding dictating the architectural direction in favour of a collaborative, team-based approach.
+*	Leads the initial architecture envisioning effort at the beginning of the project and supports the initial requirements envisioning effort (particularly when it comes to understanding and evolving the non-functional requirements for the IS), focusing on the project lifecycle and also on the evolution and maintainability of the IS.
+*	Ensures the alignment of the architecture of the IS with the guidelines and recommendations of the Architecture Office (AO) and support of established Enterprise Architecture principles.
+*	Leverages existing and/or planned IT investments in the organisation by continuously promoting a culture of reuse and interoperability within the Project Core Team (PCT).
+*	Contributes to the organisation's set of reusable IT assets by considering the overall domain which the IS will support and the IT strategy of the organisation.
+*	Informs the Team Coordinator (TeCo) and the Project Manager (PM) of the main architectural risks and contribute to define the adequate risk management strategy.
+
+|===
+====== 6.2.4.7. Agile Team Member (ATeM) - Agile Projects only
+[%autowidth.stretch]
+|===
+h|Description
+a|Focuses on producing the actual IS that is part of the project's solution to the stakeholders needs.
+
+h|Responsibilities
+a|* Participates in planning and estimation of iterations, releases.
+*	Participates in the solution architecture design.
+*	Develops part of the information system, in collaboration with the solution architecture design.
+*	Tests developments.
+*	Provides progress information to the Team Coordinator.
+*	Communicates and collaborate with the rest of the Project Core Team (PCT).
+
+|===
+===== 6.2.5. Project Support Team (PST)
+[%autowidth.stretch]
+|===
+h|Description
+a|Consists of the roles responsible for providing support to the project. The composition and structure of the Project Support Team (PST) depends on the size of the project and is defined by the Project Manager (PM). The Project Support Team (PST) role may be assumed by team members, a specific team or be provided as horizontal services by the organisation.
+
+h|Responsibilities
+a|*	Provides administrative support to the project.
+*   Defines requirements for reporting and communications.
+*   Administers the Project Steering Committee (PSC) meetings and produces consolidated reports.
+*	Supports the Project Manager (PM) in planning, monitoring and controlling the project.
+*	Advises on project management tools and administrative services.
+*	Administers the project documentation (versioning, archiving, etc.).
+
+Examples of roles comprising the PST are: Project Support Office (PSO), Project Quality Assurance (PQA), Architecture Office (AO).
+
+|===
+====== 6.2.5.1. Project Support Office (PSO)
+[%autowidth.stretch]
+|===
+h|Description
+a| Provides support to the Project Manager (PM) and the Project Core Team.
+
+h|Responsibilities
+a|*	Advises on project management tools, guidance and administrative services.
+*	Administers Project Steering Committee (PSC) meetings.
+*	Produces consolidated reporting to the Project Steering Committee (PSC).
+*	Manages internal communication.
+*	Establishes standards, tools, procedures and methods for use on the project.
+*	Administers Project Management aspects such as document change control, baseline of plans, etc.
+*   Can play the role of the custodian and guardian of all master copies of the project's products.
+|===
+
+====== 6.2.5.2. Project Quality Assurance (PQA)
+|===
+h|Description
+a|Assures the quality of the project and its deliverables, independently of the Project Manager (PM).
+
+h|Responsibilities
+a|*	Ensures adherence to organisation’s policies, directions and predefined project management processes.
+*	Establishes quality assurance standards.
+*	Supports the Project Manager (PM) in planning, monitoring and controlling the quality of the project.
+*	Reviews project management processes and artefacts (e.g. Project Charter and Project Management Plans) as part of quality assurance.
+*	Identifies non-conformities or opportunities for improvement and recommends actions to the Project Steering Committee (PSC) for decision.
+*	Reports to the Project Steering Committee (PSC).
+|===
+
+
+

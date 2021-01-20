@@ -1,0 +1,14 @@
+== 4. THE REQUIREMENTS LIFECYCLE
+A requirement may run through these lifecycle stages:
+
+*	*Specified:* The requirement is specified in a document or in a requirements documentation and management system.
+*	*Proposed:* The requirement has passed evaluation but not yet approved by the client. If it does not pass evaluation it will get status For Fixing or Rejected.
+*	*Approved:* The requirement is formally approved by the client. If it is not approved it will get status For Fixing or Rejected.
+*	*Incorporated:* The requirement is incorporated in the Project Work Plan (PWP). If during incorporation an issue is discovered the status may change into For Fixing.
+*	*Implemented:* The requirement is implemented in one or more of the project deliverables and tested against the acceptance criteria by the Project Core Team (PCT), but not yet formally accepted by the client. If during implementation an issue is discovered the status may change into For Fixing.
+*	*Validated:* The implemented requirement is formally validated against the acceptance criteria and accepted by the client. If during validation and acceptance an issue is discovered the requirements may be partially accepted and the status may change into For Fixing.
+
+In addition, requirements may have these special statuses:
+
+*	*For Fixing:* If there is an issue, a requirement may get the status For Fixing at any stage of the requirements lifecycle. Reasons for this status may be that the requirement is not well documented or inconsistent with another requirement. Another reason is that the requirement did only partially pass validation. After resolving the issues a requirement may return to the status Specified. If an issue cannot be resolved a requirement may get the status Rejected.
+*	*Rejected:* A requirement may be Rejected for different reasons. Examples are: The requirement is obsolete, out of scope, not feasible, postponed (to a later project phase, or another project), merged with another requirement, and a requirement may be identified as a duplicate requirement and therefore rejected.

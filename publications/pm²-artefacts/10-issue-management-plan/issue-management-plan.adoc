@@ -1,0 +1,37 @@
+= Issue Management Plan
+:doctype: book
+:doctitle: Issue Management Plan
+:docinfo:
+:toc: macro
+:toc-title: Table of Contents
+:toclevels: 3
+:pagenums:
+
+include::sections/first-page.adoc[]
+
+<<<
+include::sections/intro-page.adoc[]
+
+<<<
+include::../toc.adoc[]
+
+include::sections/1-introduction.adoc[]
+
+include::sections/2-issue-management-objectives.adoc[]
+
+include::sections/3-issue-management-process-description.adoc[]
+
+include::sections/4-tools-and-techniques.adoc[]
+
+include::sections/5-issue-identification-activities.adoc[]
+
+include::sections/6-issue-assessment-and-action-recommendation-activities.adoc[]
+
+include::sections/7-action-implementation-activities.adoc[]
+
+include::sections/8-issue-control-activities.adoc[]
+
+include::sections/9-related-pm²-plans.adoc[]
+
+<<<
+include::sections/appendix-references-and-related-documents.adoc[]

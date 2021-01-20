@@ -1,0 +1,31 @@
+= Project Handbook
+:doctype: book
+:doctitle: Project Handbook
+:docinfo:
+:toc: macro
+:toc-title: Table of Contents
+:toclevels: 4
+:pagenums:
+
+include::sections/first-page.adoc[]
+<<<
+
+include::sections/intro-page.adoc[]
+
+include::../toc.adoc[]
+
+include::sections/01-about-the-project-handbook.adoc[]
+
+include::sections/02-project-overview.adoc[]
+
+include::sections/03-project-approach.adoc[]
+
+include::sections/04-project-processes.adoc[]
+
+include::sections/05-project-progress-measurement.adoc[]
+
+<<<
+include::sections/06-project-roles-responsibilities.adoc[]
+
+<<<
+include::sections/07-appendix-references-and-related-documents.adoc[]

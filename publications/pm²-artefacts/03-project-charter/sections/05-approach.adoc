@@ -1,0 +1,17 @@
+=== 5. APPROACH
+====	5.1 Methodology
+[aqua]#<This section should mention the chosen project management methodology that the project will follow. In case that PM2 is not the chosen project management methodology, this section should describe the deviations to the standard/proposed project management methodology.
+For the domain-specific work (e.g. information systems development), this section should also mention the chosen methodology or describe the deviations from the standard/proposed domain-specific methodologies (e.g. for information systems development, this section should describe the deviations from the standard and/or the proposed IT information systems development methodology).>#
+
+====	5.2 Change Management
+[aqua]#<The sections below should describe how changes to the project will be handled, how changes to project documentation and other deliverables will be handled, and how Organisational changes will be handled.#
+
+=====	5.2.1 Project Change
+[aqua]#<This section should describe the adopted project change management process. The changes to the content of this document (the description of the project) are subject to formal approval. Please refer to the PM2 Project Handbook that describes the standard change control process for the project.>#
+
+=====	5.2.2 Configuration Management
+[aqua]#<This section should describe the activities concerned with the creation, maintenance and controlled change of project items throughout the life of the project. All items which can only be modified after authorization by the relevant persons or committee (such as the project scope, budget and milestone dates and other key project documentation) should be identified, along with the process for controlling changes to such items.>
+For more details, please refer to the PM2 Project Handbook which describes the standard configuration management process for projects.>#
+
+=====	5.2.3 Organisational Change
+[aqua]#<This section should describe any organisational change goals and activities (further elaborated and planned in the PM2 Business Implementation Plan) that need to be taken in to consideration.>#

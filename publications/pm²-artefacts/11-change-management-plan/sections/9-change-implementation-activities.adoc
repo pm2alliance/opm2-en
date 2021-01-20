@@ -1,0 +1,10 @@
+== 9. CHANGE IMPLEMENTATION ACTIVITIES
+
+The activities related to the implementation of changes and their status will be documented in:
+
+* [lime]#Project Work Plan#
+* [lime]#Change Log#
+* [lime]#Decision log#
+* [lime]#…#
+
+[aqua]#<Please reference the Project Work Plan or other documents or tools where the implementation of changes can be reflected, monitored and controlled.>#

@@ -1,0 +1,14 @@
+== 2. QUALITY MANAGEMENT OBJECTIVES
+Project quality management aims to ensure that the current project will meet the expected results in the most efficient way and that deliverables will be accepted by the relevant stakeholders. It involves overseeing all activities needed to maintain a desired level of excellence. This includes creating and implementing quality planning and assurance, as well as quality control and quality improvement.
+
+This project will follow the PM2 quality management process that comprises the activities related to the identification, planning, execution, and monitoring & control of project quality related activities.
+
+The main project quality objectives are:
+
+* [lime]#The project's quality characteristics are defined, agreed and achieved throughout the project;#
+* [lime]#Quality assurance activities are performed as planned;#
+* [lime]#Assure compliance with the organisation’s rules and regulations, as well as with relevant governmental and industry rules, regulations and legislation;#
+* [lime]#Any non-conformity (or opportunity for quality improvements) is identified and implemented;#
+* [lime]#Deliverables are accepted by the relevant stakeholders based on the defined quality/acceptance criteria.#
+
+[aqua]#<Please customise the above quality objectives as per your project or/and organization needs.>#

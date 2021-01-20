@@ -1,0 +1,28 @@
+== 2. PROJECT SUCCESS
+=== 2.1. Effectiveness
+[aqua]#<Summarise how effectively the product or service met the needs of the:# +
+
+* [aqua]#Customer/Client#
+* [aqua]#Performing organization#
+* [aqua]#Requirements#
+* [aqua]#Business as specified in the business case document#
+
+[aqua]#Highlight specific project performance metrics.#+
+[aqua]#Detail the outcome as best practices and lessons learned.>#
+
+=== 2.2. Project Evaluation (Cost-Schedule-Scope-Quality)
+[aqua]#<Summarise the effectiveness of the Management of the core project dimensions of (Cost, Schedule, Scope and Quality) throughout the project.# +
+
+[aqua]#Highlight:#
+
+* [aqua]#If the initial scope was stable and if the requirements were sufficiently managed.#
+* [aqua]#How project changes were managed (in conformity or not with the project change management plan)#
+* [aqua]#Significance of approved scope changes compared  to the original project scope#
+
+[aqua]#Compare the baseline versions of the project schedule and budget (planning) to the final versions (execution). Describe, evaluate and explain discrepancies. Were the initial estimates accurate?# +
+
+[aqua]#Summarise compliance to the defined quality standards for project deliverables.# +
+
+[aqua]#Identify and discuss specific issues related to the management of cost, schedule, scope and quality of the project.#
+
+[aqua]#Detail the outcome as best practices and lessons learned.>#

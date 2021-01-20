@@ -1,0 +1,14 @@
+== 8. RELATED PM² PLANS
+[discrete]
+=== Project Handbook
+The _Project Handbook_ establishes the high-level approach for implementing the project goals, which includes required documentation, standards to be considered and the high level summary of the quality and configuration management approach. It also captures any training needs for the project team members. The location of this artefact is found in the Appendix 1.
+[discrete]
+=== Communications Management Plan
+The _Communications Management Plan_ helps to ensure that all project stakeholders have the information they need to perform their roles throughout the project. It defines and documents the communication items content, format, frequency, the audience and expected results. The location of this artefact is found in the Appendix 1.
+[discrete]
+=== Quality Management Plan
+The quality management (quality requirements, approach, process and responsibilities, and quality assurance and control activities) is described in the _Quality Management Plan_, as well as the *project configuration procedure for deliverables and artefacts*. The location of this artefact is found in Appendix 1.
+[discrete]
+=== Project Work Plan
+The Project Work Plan captures all types of resources requirements, schedule and effort/costs foreseen for the deliverables acceptance activities. The location of this artefact is found in Appendix 1.
+

@@ -1,0 +1,305 @@
+== 3. PROJECT MEETINGS
+[aqua]#In this section the following meetings are described:#
+
+* [aqua]#Planning Kick-off Meeting#
+* [aqua]#Executing Kick-off Meeting#
+* [aqua]#Project Status Meeting#
+* [aqua]#Project Core Team (PCT) Meeting#
+* [aqua]#Project Review Meeting#
+* [aqua]#Project Steering Committee (PSC) Meeting#
+* [aqua]#Change Control Meeting#
+* [aqua]#Project-End Review Meeting#
+
+[aqua]#<Please customize the information for the Planning Kick-off Meeting as per your project's or/and organization's needs.>#
+[cols="15h,70",options="header"]
+|===
+|MEETING|Planning Kick-off Meeting
+|Purpose| Official kick-off of the planning phase of the project. After this meeting, the scope of the project as well as the project governance structure must be clear, the expectations of all the key project stakeholders and their roles & responsibilities must be set and all the relevant risks at the time must be identified.
+|Location|Defined by the Project Manager (PM) in time.
+|Frequency|Done once at Project Level. Date of the meeting to be defined.
+|Chairperson|Project Manager (PM)
+|Minutes by|To be defined by the Project Manager (PM).
+|Attendees| Project Owner (PO)
+Business Manager (BM)
+Solution Provider (SP)
+Project Manager (PM)
+Project Core Team (PCT)
+Business Implementation Group (BIG)
+User Representatives (URs)
+Assistant Project Manager (APM) (if applicable)
+Project Support Office (PSO) (if applicable)
+Other project roles or stakeholders (optional)
+|Agenda Items| •	Introduce the agenda; +
+•	Introduce participants; +
+•	Outline the goals, expectations and activities of the Planning Phase, and discuss the planning timeline; +
+•	Introduce the project scope statement; +
+•	Invite the Project Owner (PO) to explain the importance of the project for the organisation and other beneficiaries; +
+•	Discuss the main elements of the Project Charter; +
+•	Discuss the governance structure, roles & responsibilities of the Project Core Team (PCT) and the Business Implementation Group (BIG); +
+•	Discuss the overall project timeline; +
+•	Discuss the overall approach of the project; +
+•	Discuss the project plans needed for the project; +
+•	Discuss risks, constraints and assumptions; +
+•	Discuss or present any project supporting tools; +
+•	Allow time for any other business (questions & answers); +
+•	Summarise the discussion (decisions, actions, and risk); +
+•	Communicate the next steps.
+|Distribution list| All participants invited.
+|Media| Meeting minutes written in MS-Word or by email.
+|===
+
+[aqua]#<Please customize the information for the Kick-off Meeting as per your project's or/and organization's needs.>#
+[cols="15h,70",options="header"]
+|===
+|MEETING|Executing Kick-off Meeting
+|Purpose|Official kick-off of the executing phase of the project. After this meeting, the Project Core Team (PCT) is aware of the scope of the project, the project governance structure, the roles & responsibilities of the team members as well as the project rules.
+|Location|Defined by the Project Manager (PM) in time.
+|Frequency| Done once at Project Level or for each major project phase. Date of the meeting to be defined.
+|Chairperson|Project Manager (PM)
+|Minutes by|To be defined by the Project Manager (PM).
+|Attendees|Project Owner (PO) (may be represented by the Business Manager) +
+Business Manager (BM) +
+Project Manager (PM) +
+Project Core Team (PCT) +
+Assistant Project Manager (APM) (if applicable) +
+Project Support Office (PSO) (if applicable) +
+Other project roles or stakeholders (optional).
+
+|Agenda Items|•	Introduce the agenda; +
+•	Introduce participants; +
+•	Present the Project Handbook and the Project Work Plan; +
+•	Present the Communications Management Plan; +
+•	Agree on the conflict resolution process and present the escalation procedure; +
+•	Present the Project Stakeholder Matrix; +
+•	Present the Risk Management, Issue Management and Project Change Management processes, and the Quality Assurance & Control activities; +
+•	Clarify the expectations for the Project Core Team (PCT); +
+•	Agree on the team’s ground rules (communication via email, meetings, phone, meeting minutes to be produced, availability, etc.); +
+•	Allow time for any other business (questions & answers); +
+•	Summarise the discussion (decisions, actions, and risk).
+|Distribution list|All participants invited.
+|Media| Meeting minutes written in MS-Word or by email.
+|===
+
+[aqua]#<Please customize the information for the Project Status Meeting as per your project's or/and organization's needs.>#
+[cols="15h,70",options="header"]
+|===
+|MEETING|Project Status Meeting
+|Purpose| •	Discuss Project status; +
+•	Discuss open actions and check progress; +
+•	Discuss new risks or/and issues and define action points +
+•	Discuss and resolve conflicts; +
+•	Discuss and review change requests and possibly approve/reject.
+|Location| Office of Project Manager (PM) (or meeting room to be defined in time).
+|Frequency|[aqua]#<Frequency of the meeting (+ day of the week) to be defined herein>#
+|Chairperson| Project Manager (PM) (or delegated person if Project Manager (PM) cannot attend) or Assistant Project Manager (APM)(s).
+|Minutes by|[aqua]#<Note that sometimes minutes are not needed in case there is a document supporting the meeting. For instance, no need for meeting minutes if there is a Project Status Report and decisions are documented in the Decision Log.>#
+|Attendees| Project Owner (PO) +
+Business Manager (BM) +
+Project Manager (PM) +
+(Functional) Team Leader (optional) +
+Assistant Project Manager (APM)(s) (If applicable - optional) +
+Project Support Officer (optional) +
+Project Quality Assurance (optional) +
+Business Implementation Group (BIG) (If applicable - optional)
+
+|Agenda Items| Progress status review (presentation of periodic Project Status report); +
+•	Accomplishments (Current and Planned actions); +
+•	Actual work (m.d.) vs Planned (m.d.); +
+•	Milestones status; +
+•	Current deliverables status: +
+   - Indicators; +
+   - Existing change requests (current progress); +
+   - New change requests (input from Project Steering Committee). +
+•	Next deliverables status: +
+-	Existing change requests (Current progress); +
+-	New change requests (input from Project Steering Committee). +
+•	Risks & Issues: +
+- Major risks, issues & actions monitoring.
+
+|Distribution list|All participants invited.
+|Media|•	Project Status Report will be written in MS-Word document, and sent by e-mail; and/or +
+•	Meeting minutes written in e-mail.
+|===
+
+[aqua]#<Please customize the information for the Project Core Team (PCT) Meeting as per your project's or/and organization's needs.>#
+[cols="15h,70",options="header"]
+|===
+|MEETING|Project Core Team (PCT) Meeting
+|Purpose| •	Obtain commitment on the execution tasks; +
+•	Review the accomplished work and estimate time to complete + schedule; +
+•	Review risk & issues; +
+•	Assess new change requests.
+|Location|Office of the (Functional) Team Leader (or meeting room to be defined in time).
+|Frequency|[aqua]#<Frequency of the meeting (+ day of the week) to be defined herein>#
+|Chairperson|(Functional) Team Leader
+|Minutes by|Minutes will be made by the (Functional) Team Leader (or delegated person).+
+[aqua]#<Estimated Time to Completion / Schedule updated in Project Work Plan.
+Other plans / outputs will be updated when needed>#
+|Attendees| All Project Core Team (PCT) members working on the project.
+|Agenda Items|[underline]#Project status:# +
+•	Current and next milestones; +
+•	Done; +
+•	To do; +
+•	Estimate Time to Completion review; +
+•	Plan reviews; +
+•	Indicators review. +
+[underline]#Process status:# +
+•	Debriefing on quality assurance aspects. +
+[underline]#Risk & Issues:# +
+•	Risks, issues & actions monitoring. +
+[underline]#Change management:# +
+•	Assess new change requests.
+
+|Distribution list| (Functional) Team Leader +
+Project Manager (PM) [aqua]#<if it concerns a project with sub-projects, the PM will receive a set of meeting minutes coming from all the subsequent projects linked to the project.># +
+Project Core Team (PCT) members working on the project.
+
+|Media| •	Updated project plans; +
+•	Estimate Time to Complete updated for every task in Project Work Plan; +
+•	Updated Change Log with assessment results; +
+•	Meeting minutes (if used): written in an email or MS-Word document.
+
+|===
+[aqua]#<Please customize the information for the Project Review Meeting as per your project's or/and organization's needs.>#
+[cols="15h,70",options="header"]
+|===
+|MEETING|Project Review Meeting
+|Purpose| •	Management Review meeting; +
+•	Meeting discussing about project progress. +
+•	Topics to be discussed: major scope changes, next year’s budget, major re-baselining of the Project Work Plan (PWP), confirming alignment to portfolio goals and objectives, and business strategies.
+|Location| No specific location. Defined by the (Functional) Team Leader in time.
+|Frequency| [aqua]#Bi-annually (or at least annually, depending on project needs and duration)#
+|Chairperson|Project Manager (PM)
+|Minutes by|Project Support Officer (or delegated person)
+|Attendees| Project Steering Committee (PSC) members +
+(Functional) Team Leader +
+Project Support Officer +
+Assistant Project Manager (APM)(s) (if applicable) +
+Project Quality Assurance (optional)
+|Agenda Items| •	Follow-up of mandatory documents; +
+•	Major milestones review; +
+•	Testing progress; +
+•	Risks (budget, resources, others), issues & actions monitoring; +
+•	Project Manager (PM) feedback; +
+•	Others: people / resources / contracts.
+|Distribution list|All participants invited
+|Media|•	Project Progress Report. +
+•	Meeting minutes in MS-Word, and sent by e-mail.
+
+|===
+[aqua]#<Please customize the information for the Project Steering Committee Meeting as per your project's or/and organization's needs.>#
+[cols="15h,70",options="header"]
+|===
+|MEETING|Project Steering Committee (PSC) Meeting
+|Purpose|•	Meeting with the sponsor(s) about the status and follow-up of the project; +
+•	This meeting has also to be held at the moment there are: +
+- Contractual aspects to be discussed; +
+- Formal project approvals requested
+- Commitments made.
+|Location|No specific location. Defined by Project Owner (PO) in time.
+|Frequency|[lime]#Monthly# or at the moment there is an important project milestone reached, that needs approval(s) from Sponsor(s).
+|Chairperson|Project Owner (PO) +
+Project Owner (PO) may delegate his responsibility to [aqua]#<To be specified in this case.>#
+|Minutes by| Business Manager (BM) or to delegated person. +
+[aqua]# <To be specified in this case.>#
+|Attendees|Project Steering Committee (PSC): +
+•	Solution Provider (SP) +
+•	Project Owner (PO) +
+•	Business Manager (BM) +
+•	Project Manager (PM) +
+Project Support Officer (optional) +
+Project Quality Assurance (optional) +
+Subcontractor Project Manager (PM) (optional) +
+Local Information Security Officer (optional) +
+Data Protection Coordinator  (optional)
+|Agenda Items| Project debriefing: +
+•	Accomplishments for this period; +
+•	Problems encountered and actions taken; +
+•	Major points meriting management attention; +
+•	Subjects to be realised until next milestone/meeting; +
+•	Evaluation of current status with respect to project scope, project budget, project finish date; +
+•	Formal approvals / Commitments / Contractual aspects.
+|Distribution list|All participants invited.
+|Media| •	Meeting minutes written in MS-Word, and sent by e-mail; +
+•	Decision log updated; +
+•	[aqua]#<If other support used, they have to be specified here.>#
+|===
+
+[cols="15h,70",options="header"]
+|===
+|MEETING|Change Control Meeting
+|Purpose|•	Discuss and prioritise change requests or client's inquiries; +
+•	Discuss and prioritise maintenance requests; +
+•	Prepare for decisions to be made by the Project Steering Committee or the +
+Change Control Board (CCB) or Change Advisory Board (CAB).
+
+|Location|Office of Project Manager (PM) (or meeting room to be defined in time)
+|Frequency|[aqua]#<Frequency of the meeting (+ day of the week) to be defined herein>#
+|Chairperson|Project Manager (PM) (or delegated person if Project Manager (PM) cannot attend) or Assistant Project Manager (APM)(s) that are part of the Project.
+|Minutes by|[aqua]#<Note that sometimes minutes are not needed in case there is a document (such as Change Log) that is supporting the meeting. For instance, no need for meeting minutes if there is a progress report.>#
+|Attendees| Business Manager (BM) +
+Project Manager (PM) +
+Assistant Project Manager (APM)(s) (If applicable - optional) +
+Project Support Officer (optional) +
+Project Quality Manager (optional) +
+Business Implementation Group (BIG) (optional)
+|Agenda Items| [underline]#Change requests status:# +
+1-	Progress update on open changes +
+[underline]#Current deliverables status:# +
+2-	Existing change requests (current progress) +
+3-	New change requests (commitment on prioritization, on budget, on milestones, …) +
+[underline]#Next deliverables status:# +
+4-	Existing change requests (current progress) +
+5-	New change requests (commitment on prioritization, on budget, on milestones, …)
+
+|Distribution list|All participants invited.
+|Media| •	Meeting minutes written in MS-Word and sent by e-mail(s); +
+•	Change log to be updated.
+|===
+[aqua]#<Please customize the information for the Project-End Review Meeting as per your project's or/and organization's needs.>#
+[cols="15h,70",options="header"]
+|===
+|MEETING|Project-End Review Meeting
+|Purpose| The objectives for the Project-End Review meeting are:
+•	Review the project performance and main achievements; +
+•	Discuss the overall project experience; +
+•	Discuss if the objectives have been reached and if not, why; +
+•	Discuss problems and challenges faced during project and the way they were addressed; +
+•	Discuss Lessons Learned and Best Practices that might be useful for future projects.
+|Location|No specific location. Defined by the Project Manager (PM) in time.
+|Frequency|No frequency. The meeting is realized once per project or major project phase.
+|Chairperson| Project Manager (PM)
+|Minutes by|To be defined by Project Manager (PM) in time.
+|Attendees|Project Owner (PO) +
+Business Manager (BM) +
+Solution Provider (SP) +
+Project Manager (PM) +
+User Representatives +
+(Functional) Team Leader +
+Project Core Team (PCT) +
+Project Support Officer (if applicable) +
+Project Quality Assurance (if applicable) +
+Assistant Project Manager (APM)(s)
+|Agenda Items|•	Review the project performance and achievements; +
+•	Evaluate project relevant facts (budget & work history, milestones & timing history, technical & methodological approaches used); +
+•	Identify the Lessons learned; +
+•	Business Implementation plan (change management, how to achieve desired outcomes and benefits)
+|Distribution list|All participants invited.
+|Media|Project-End Review MoM, Project-End Report Word Document; sent by e-mail.
+|===
+
+[aqua]#<Please insert the information for any other meetings as per your project's or/and organization's needs.>#
+
+[cols="15h,70",options="header"]
+|===
+|MEETING|
+|Purpose|
+|Location|
+|Frequency|
+|Chairperson|
+|Minutes by|
+|Attendees|
+|Agenda Items|
+|Distribution list|
+|Media|
+|===

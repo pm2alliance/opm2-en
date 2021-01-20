@@ -1,0 +1,89 @@
+=== 3. PROJECT DESCRIPTION
+====	3.1 Scope
+=====	3.1.1 Includes ("IN" Scope)
+[aqua]#<This section should identify what it is considered as in scope of the project, i.e., the outputs that the project WILL deliver and which form the solution which addresses the current situation (problem, need or opportunity). The definition of the scope can be complemented with the scope of organisational change management activities associated with the implementation of the project and required to achieve the intended benefits.>#
+
+===== 3.1.2 Excludes ("OUT" Scope)
+[aqua]#<This section should identify what it is considered as out of scope of the project, i.e., that the project will NOT deliver. From the synergies, interrelations and dependencies of the proposed solution, some areas of concern might seem to be part of the scope of the project. It is as important to define what is in scope, as what is out of scope of the project, to better manage the expectations of the project's owner and stakeholders. Examples are deliverables that were discussed as being part of the scope but given project constraints have been marked as out-of-scope>#
+
+===== 3.1.3 Scope Statement
+[aqua]#<This section should present an overall scope statement for the project in one or two lines. It should be complete enough for the management and outsiders to understand the scope of the project.>#
+
+==== 3.2 Success Criteria
+[aqua]#<This section should describe the success criteria of the project. Think of success criteria as the measurable criteria based on which the project as a whole can be deemed as a success or a failure.>
+<Critical criteria for the project are those which in their absence the project cannot be considered a success. Success criteria may be on scope, schedule and costs. Try to distinguish any product success criteria from the overall project success criteria, in a way that the latter can relate to the project's expected outcomes.>
+<Example: Training project –"minimum of 4500 staff members trained in 19 Member States from the project target of 5000 staff members in 20 countries".>#
+
+==== 3.3 Stakeholder and User Needs
+[aqua]#<This section should list the key needs of the stakeholders and users that the project shall address.
+(A user is considered as a group – or individual – that will use one or more of the project's outputs).
+Use the questions below to help you describe each need:#
+
+* [aqua]#Who is the stakeholder of this need?#
+* [aqua]#What is the need? What solutions does the stakeholder want?#
+* [aqua]#What are the reasons that justify addressing this need?#
+* [aqua]#How is it currently addressed?#
+[aqua]#It's also important to indicate the relative importance of each need (from the stakeholder/user perspective). Ranking and cumulative voting techniques can reveal needs that must be addressed versus needs that stakeholders/users would like to be addressed (potentially).>#
+
+|===
+|ID |Need Description |Priority
+|||
+|||
+|||
+|===
+
+====	3.4 Deliverables
+[aqua]#<This section should identify the deliverables or outputs of the project. Think of deliverables as a tangible or intangible object produced as a result of the project that is intended to be delivered to the Project Owner’s organisation. A deliverable could be an automated report, a document, a server, a new policy or regulation, a conference, a training, a campaign, etc. A deliverable may be composed of multiple sub-deliverables.
+Note that the standard project management deliverables (e.g. the PM2 Artefacts) should not be considered in this section.>#
+|===
+|ID |Deliverable Name |Deliverable Description
+|||
+|||
+|||
+|===
+
+====	3.5 Features
+[aqua]#<This section should define the expected features of the outputs that will be delivered to the users and to the project owner organisation. Think of features as the high-level capabilities associated to the outputs that are necessary to deliver the expected benefits to the users. At this moment of the project, keep feature descriptions at a high level and focus on capabilities needed and why (not how) they should be implemented. These features will be expanded in greater detail later in the project as it becomes necessary to detail how these features will be implemented by the project core team.
+To structure the way the features are identified and described, align them with the previously defined stakeholders and user needs. Keep in mind that one need may be answered by implementing several features.
+Because this document is reviewed and read by a wide variety of stakeholders, the level of detail should remain general enough for everyone to understand it. However, enough detail must be available to provide the next stages of the project with the information needed to detail how the outputs will respond to the stakeholders and user needs.
+Note: An example of a feature for an issue tracking system (IT System) might be the ability to provide a specific type of report. As the use-case model takes shape, it is recommended that you update their descriptions to refer to the use cases that detail them.>#
+|===
+|Related Need |Features |Deliverables
+|[aqua]#<Please refer to the identifier of the need (ID)>#||
+|||
+|||
+|===
+[aqua]#<Example:#
+
+* [aqua]#Need: consumers face problems in selecting the best and cheapest energy company that provides electricity and gas for homes.#
+* [aqua]#Deliverable: a website to inform customers with up-to-date information on energy providers, prices, and terms & conditions.#
+* [aqua]#Feature: website should allow the consumer to enter the most relevant selection criteria to select the best fitting energy provider in the market.#
+[aqua]#Note: Features and needs are examples of Requirements. For advanced Requirement Management, you can refer to the PM² Requirement Management Plan and/or use the Requirement Traceability Matrix artefact.>#
+
+
+====	3.6 Constraints
+[aqua]#<This section should describe any project constraints that affect the way we can manage this project. Constraints can come from areas such as the people that can be involved, schedule, budget, resources, products to be reused or acquired, technology to be employed and interfaces to other products. List the project constraints based on the current knowledge.
+Also list decisions and compliance related constraints. Mention constraints that arise both from the organisation as well as from the external (to the project or/and organisation) environments.
+If a separate document does not exist, you can include information related to security constraints, document management constraints, data protection constraints, or other.>#
+
+==== 3.7 Assumptions
+[aqua]#<This section should describe any project assumptions related to business, technology, resources, organisational environment, scope, expectations, or schedules.
+At this stage, assumptions are considered to be facts (true); however they need to be further validated to ensure that they are indeed facts. Note that assumptions that have not been validated may become risks.>#
+
+==== 3.8 Risks
+[aqua]#<This section should highlight the key project risks that are identified at this initial stage and proposes corresponding risk management strategies. This initial risk assessment does not replace the full risk assessment that is conducted during the planning phase. You may refer to the project's Risk Log for a complete list and description of risks and corresponding actions – provide a link to the project's Risk#
+
+|===
+h|[.small]#ID# h|[.small]#Risk Description & Details# h|[.small]#Status# h|[.small]#Likelihood [1]# h|[.small]#Impact# h|[.small]#Risk Level# h|[.small]#Risk Owner# h|[.small]#Risk Response Strategy# h|[.small]#Action Details#
+| || | | ||||
+| || | | ||||
+| || | | ||||
+|===
+
+[frame="none",grid="none"]
+|===
+|[.small]#[1]. A numeric value denoting the relative probability that the risk should occur.# +
+[.small]#[2]. A numeric value denoting the relative severity of the impact of the risk if it should occur.# +
+[.small]#[3]. The risk level is the product of the likelihood and impact (RL=L*I).# +
+[.small]#[4]. The possible risk response strategies are: Avoid/ Transfer or Share/ Reduce / Accept.#
+|===

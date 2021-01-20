@@ -1,0 +1,44 @@
+*Document Control Information*
+include::../tables/doc-info.adoc[]
+
+*Document Approver(s) and Reviewer(s):* +
+NOTE: All Approvers are required. Records of each approver must be maintained. +
+All reviewers in the list are considered required unless explicitly listed as Optional.
+[cols="^,^,^,^"]
+|===
+|Name |Role |Action |Date
+|# |# |[aqua]#<Approve / Review># |#
+|# |# |# |#
+|# |# |# |#
+|===
+*Document history:*
+
+The Document Author is authorized to make the following types of changes to the document without requiring that the document be re-approved:
+
+* Editorial, formatting, and spelling
+* Clarification
+
+To request a change to this document, contact the Document Author or Project Owner.
+Changes to this document are summarized in the following table in reverse chronological order (latest version first).
+[cols="^,^,^,^"]
+|===
+|Revision |Date |Created by |Short Description of Changes
+|# |# |# |#
+|# |# |# |#
+|# |# |# |#
+|===
+
+*Configuration Management: Document Location* +
+The latest version of this controlled document is stored in [maroon]#<location>#
+
+====
+<These notes should be deleted in the final version :>
+
+Notes for Templates:
+
+* Text in [maroon]#<orange>#: has to be defined.
+* Text in [aqua]#<blue>#: guidelines on how to use the Template. Should be deleted in the final version.
+* Text in [lime]#green#: can be customised. Should be recolored to black in the final version.
+====
+
+

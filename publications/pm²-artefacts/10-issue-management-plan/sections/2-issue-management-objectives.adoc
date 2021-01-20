@@ -1,0 +1,4 @@
+== 2.ISSUE MANAGEMENT OBJECTIVES
+Issue management aims to ensure that issues that have a potential impact on project scope, time, cost, quality, risk, or stakeholder satisfaction are assessed and acted upon. Relevant issues should be logged and followed-up in the _Issue log_.
+
+Key decisions can be logged in a _Decision Log_, which brings visibility to decisions and accountability as to how and by whom they are taken, and to whom they should be communicated.

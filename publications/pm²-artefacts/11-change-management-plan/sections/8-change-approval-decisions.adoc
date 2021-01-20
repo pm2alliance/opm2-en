@@ -1,0 +1,24 @@
+== 8. CHANGE APPROVAL DECISIONS
+Recommended actions for the changes of significant size (i.e. significant impact on delivery time and budget) will be discussed during the [lime]#Project Steering Committee (PSC) Meeting, planned to occur monthly#. The [lime]#Project Steering Committee (PSC)# plays the role of what is usually known as the Change Control Board (CCB) or Change Advisory Board (CAB). For +
+substantial scope, schedule and cost changes the PSC or CCB/CAB will review the Project Charter to make sure then  +
+requested change does not go beyond the boundaries defined. [lime]#For substantial cost changes the PSC and CCB/CAB will +
+review the business case to make sure business justification is still valid.#
+
+[lime]#For each change, the Change Log should have already the following information:#
+
+* [lime]#Change description and assessment;#
+* [lime]#Action recommended, main steps, deliverables, and estimation of time, resources and cost;#
+* [lime]#Change approved by.#
+
+[lime]#For changes which do not have# significant impact on delivery time and budget, the changes can be approved during the [lime]#Change Control Meetings#.
+
+=== 8.1. Escalation
+[aqua]#<Please customise / document any deviations to the escalation process described in the Project Handbook, if specific to project change management process, or reference to the Project Handbook.>#
+
+The change escalation workflow for this project is as following:
+
+*	Only changes with [lime]#Very Low and Low Size# (i.e. no impact on the overall allocated budget and committed project deadlines) can be approved at the [lime]#Managing# Layer (Business Manager (BM) and Project Manager (PM) (e.g. during the [lime]#Project Status Meetings#) or during the [lime]#Change Control Meetings#);
+*	Other changes ([lime]#with Medium, High and very High Size#) are approved by the [lime]#Project Steering Committee (PSC) or the CCB/CAB;#
+*	When relevant, the [lime]#Project Steering Committee (PSC)# escalates change requests to be approved by other [lime]#Corporate Governance Bodies#.
+*	Substantial project scope changes are reported [lime]#yearly# in the Project Progress Report, to be reviewed and approved by the [lime]#Appropriate Governance Body (AGB)#.
+

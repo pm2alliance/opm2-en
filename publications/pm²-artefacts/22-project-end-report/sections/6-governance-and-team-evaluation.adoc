@@ -1,0 +1,19 @@
+== 6. GOVERNANCE AND TEAM EVALUATION
+=== 6.1. Performance of the Participating Organisation
+[aqua]#<Summarise the effectiveness of the participating organisation within the context of this project.# +
+[aqua]#Highlight:#
+
+*	[aqua]#Significant responsibilities of the participating organisation# +
+*	[aqua]#Effectiveness of the participating organisation in accomplishing their responsibilities# +
+[aqua]#Identify and discuss specific issues.# +
+[aqua]#Detail the outcome as best practices and lessons learned.>#
+
+=== 6.2. Performance of the Project Core Team
+[aqua]#<Summarise the effectiveness of the project core team within the context of this project.# +
+[aqua]#Highlight:#
+
+* [aqua]#Significant responsibilities of the project core team# +
+* [aqua]#Effectiveness of the project core team in accomplishing their responsibilities# +
+
+[aqua]#Identify and discuss specific issues.# +
+[aqua]#Detail the outcome as best practices and lessons learned.>#

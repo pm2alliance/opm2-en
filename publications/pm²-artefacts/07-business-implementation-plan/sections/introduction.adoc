@@ -1,0 +1,6 @@
+=== 1.	INTRODUCTION
+[aqua]#<Define the objectives of the business implementation plan:#
+
+* [aqua]#To consider the impact of the resulting project deliverables on the performing organisation and/or the beneficiaries of the project#
+* [aqua]#To prepare the performing organisation and/or the beneficiaries of the project to accept and use the project deliverables once they are delivered#
+* [aqua]#To manage the changes to the organisation and/or the beneficiaries of the project that could occur as a result of implementing the project deliverables>#
