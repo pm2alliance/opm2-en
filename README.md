@@ -14,6 +14,10 @@ This repository contains the English version of the works. The translations are 
 
 - For an up to date version that includes amendments and corrections to the original publications, as well as for submitting any proposals/suggestions please refer to the [PM² Alliance](https://github.com/pm2alliance) repository that contains the most up-to-date version of the guide.
 
+## PDF build process
+
+Find information about building a PDF in the [build documentation](BUILD.md)
+
 ## License & Disclaimer
 
 Staying true to the spirit of open source, the content of this repository is open source under European Public License, see the [license details](./LICENSE.md) for more information.
