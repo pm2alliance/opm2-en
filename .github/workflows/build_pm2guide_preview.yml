@@ -1,0 +1,48 @@
+name: Build pm2-Guide Preview
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Ruby
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+
+      - name: Install Dependencies
+        run: |
+          cd .github/build
+          gem install bundler
+          bundle install --jobs 4 --retry 3
+
+      - name: Build
+        run: |
+          cd .github/build
+          bundle exec rake book:build
+
+      - name: Create Draft Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Preview ${{ github.ref }}
+          draft: true
+          prerelease: false
+
+      - name: Upload Draft Release Package
+        id: upload-release-asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./build/pm²-guide.pdf
+          asset_name: pm²-guide-${{ github.sha }}.pdf
+          asset_content_type: application/pdf

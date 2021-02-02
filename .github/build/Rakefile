@@ -1,0 +1,24 @@
+namespace :book do
+  desc 'build basic book formats'
+  task :build do
+    begin
+      date_string = Time.now.strftime("%Y-%m-%d")
+
+      version_string = `git describe --tags`.chomp
+      if version_string.empty?
+         version_string = `git rev-parse --short HEAD`
+      end
+      if version_string.empty?
+         version_string = '0'
+      end
+
+      params = "--attribute revnumber='#{version_string}' --attribute revdate='#{date_string}'"
+
+      puts "Converting pm²-guide to PDF..."
+      `bundle exec asciidoctor-pdf #{params} -D ../../build -a compress ../../publications/pm²-guide.adoc`
+      puts " -- PDF output at /build/pm²-guide.pdf"
+    end
+  end
+end
+
+task :default => "book:build"
