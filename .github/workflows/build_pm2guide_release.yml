@@ -1,0 +1,68 @@
+name: Build pm2-Guide Release
+
+on:
+  push:
+    # run script on semver tagged commits
+    tags:
+      - "v*.*.*"
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Get the version number by git reference
+        id: get_version
+        run: echo ::set-output name=VERSION::${GITHUB_REF#refs/tags/}
+
+      - name: Get the commit hash
+        id: slug
+        run: echo "::set-output name=sha8::$(echo ${GITHUB_SHA} | cut -c1-8)"
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Set up Ruby
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+
+      - name: Install Dependencies
+        run: |
+          cd .github/build
+          gem install bundler
+          bundle install --jobs 4 --retry 3
+
+      - name: Build
+        run: |
+          cd .github/build
+          bundle exec rake book:build
+
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          body: |
+           Version: ${{ steps.get_version.outputs.VERSION }}
+           Commit: ${{ steps.slug.outputs.sha8 }}
+           Date: ${{ steps.date.outputs.date }}
+          tag_name: ${{ steps.get_version.outputs.VERSION }}
+          release_name: ${{ steps.get_version.outputs.VERSION }}
+          draft: false
+          prerelease: false
+
+      - name: Upload Release Asset
+        id: upload-release-asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./build/pm²-guide.pdf
+          asset_name: pm2-guide-${{ steps.get_version.outputs.VERSION }}.pdf
+          asset_content_type: application/pdf

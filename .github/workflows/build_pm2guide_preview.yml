@@ -1,0 +1,75 @@
+name: Build pm2-Guide Preview
+
+on:
+  workflow_dispatch:
+  push:
+    # run script in master branch
+    branches: [ master ]
+    # run script on changes in publications folder
+    paths:
+      - "publications/**"
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Get Commit Hash
+        id: slug
+        run: echo "::set-output name=sha8::$(echo ${GITHUB_SHA} | cut -c1-8)"
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Set up Ruby
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+
+      - name: Install Dependencies
+        run: |
+          cd .github/build
+          gem install bundler
+          bundle install --jobs 4 --retry 3
+
+      - name: Build
+        run: |
+          cd .github/build
+          bundle exec rake book:build
+
+      - name: Remove latest Preview Release
+        uses: dev-drprasad/delete-tag-and-release@v0.1.2
+        with:
+          delete_release: true # default: false
+          tag_name: "latest_preview"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create Preview Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          body: |
+            Latest Preview Version
+            Commit: ${{ steps.slug.outputs.sha8 }}
+            Date: ${{ steps.date.outputs.date }}
+          tag_name: "latest_preview"
+          release_name: Preview Build Commit ${{ steps.slug.outputs.sha8 }}
+          draft: false
+          prerelease: true
+
+      - name: Upload Preview Asset
+        id: upload-release-asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./build/pm²-guide.pdf
+          asset_name: pm2-guide-${{ steps.slug.outputs.sha8 }}.pdf
+          asset_content_type: application/pdf
